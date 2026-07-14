@@ -1,6 +1,7 @@
 library(tidyverse)
 library(sf)
 library(rnaturalearth)
+library(rnaturalearthdata)
 library(WDI)
 
 df_page_views = read_csv("data/raw/finland_ts_page_views.csv")
@@ -9,7 +10,7 @@ df_country = read_csv("data/raw/country_data.csv")
 df_lang = read_csv("data/raw/language_data.csv")
 df_speakers = read_csv("data/raw/national_time_series_speakers.csv")
 df_supp = read_csv("data/raw/wikipedia_support_time_series.csv")
-geo = ne_countries(scale = "large")
+geo = ne_countries(scale = "medium")
 income_grp = read_csv("data/raw/world-bank-income-groups.csv")
 
 # join wikipedia data
