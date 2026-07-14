@@ -7,3 +7,6 @@ The code facilitates reproducability of the results of the paper. The data used 
 - Wikipedia Pageview data: https://zenodo.org/records/18526766
 - Finland speaker data: https://zenodo.org/records/20133764
 - Wikipedia Support data: https://zenodo.org/records/18742003
+
+
+First restore the environment using renv::restore(). The data wrangling script is in `processing`. Scripts for visualization and modelling are in `analysis`. The scripts are not dependent on one another.
