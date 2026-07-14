@@ -1,0 +1,998 @@
+ISO6393,language_name,geometry,iso_a3_eh,name,region_wb,gdp_md,pop_est,gdp_pc,Entity,Year,income_grp,year,family,latitude,longitude,page_views,speakers,articles
+afr,Afrikaans,"c(20.46356, -31.63272)",ZAF,South Africa,Sub-Saharan Africa,351431,58558270,6001.389726848146,South Africa,2024,high,2015,Indo-European,-31.63272,20.46356,35000,11,33980
+afr,Afrikaans,"c(20.46356, -31.63272)",ZAF,South Africa,Sub-Saharan Africa,351431,58558270,6001.389726848146,South Africa,2024,high,2016,Indo-European,-31.63272,20.46356,47000,21,38077
+afr,Afrikaans,"c(20.46356, -31.63272)",ZAF,South Africa,Sub-Saharan Africa,351431,58558270,6001.389726848146,South Africa,2024,high,2017,Indo-European,-31.63272,20.46356,91000,25,43368
+afr,Afrikaans,"c(20.46356, -31.63272)",ZAF,South Africa,Sub-Saharan Africa,351431,58558270,6001.389726848146,South Africa,2024,high,2018,Indo-European,-31.63272,20.46356,33000,42,48110
+afr,Afrikaans,"c(20.46356, -31.63272)",ZAF,South Africa,Sub-Saharan Africa,351431,58558270,6001.389726848146,South Africa,2024,high,2019,Indo-European,-31.63272,20.46356,44000,41,68193
+afr,Afrikaans,"c(20.46356, -31.63272)",ZAF,South Africa,Sub-Saharan Africa,351431,58558270,6001.389726848146,South Africa,2024,high,2020,Indo-European,-31.63272,20.46356,43000,49,87675
+afr,Afrikaans,"c(20.46356, -31.63272)",ZAF,South Africa,Sub-Saharan Africa,351431,58558270,6001.389726848146,South Africa,2024,high,2021,Indo-European,-31.63272,20.46356,66000,64,95548
+afr,Afrikaans,"c(20.46356, -31.63272)",ZAF,South Africa,Sub-Saharan Africa,351431,58558270,6001.389726848146,South Africa,2024,high,2022,Indo-European,-31.63272,20.46356,63000,71,101492
+afr,Afrikaans,"c(20.46356, -31.63272)",ZAF,South Africa,Sub-Saharan Africa,351431,58558270,6001.389726848146,South Africa,2024,high,2023,Indo-European,-31.63272,20.46356,54000,75,106350
+afr,Afrikaans,"c(20.46356, -31.63272)",ZAF,South Africa,Sub-Saharan Africa,351431,58558270,6001.389726848146,South Africa,2024,high,2024,Indo-European,-31.63272,20.46356,58000,85,113766
+aka,Akan,"c(-1.33254, 6.34756)",GHA,Ghana,Sub-Saharan Africa,66983,30417856,2202.0947169978053,Ghana,2024,low,2015,Atlantic-Congo,6.34756,-1.33254,1000,737,295
+aka,Akan,"c(-1.33254, 6.34756)",GHA,Ghana,Sub-Saharan Africa,66983,30417856,2202.0947169978053,Ghana,2024,low,2016,Atlantic-Congo,6.34756,-1.33254,3000,801,252
+aka,Akan,"c(-1.33254, 6.34756)",GHA,Ghana,Sub-Saharan Africa,66983,30417856,2202.0947169978053,Ghana,2024,low,2017,Atlantic-Congo,6.34756,-1.33254,2000,841,269
+aka,Akan,"c(-1.33254, 6.34756)",GHA,Ghana,Sub-Saharan Africa,66983,30417856,2202.0947169978053,Ghana,2024,low,2018,Atlantic-Congo,6.34756,-1.33254,1000,904,311
+aka,Akan,"c(-1.33254, 6.34756)",GHA,Ghana,Sub-Saharan Africa,66983,30417856,2202.0947169978053,Ghana,2024,low,2019,Atlantic-Congo,6.34756,-1.33254,4000,957,567
+aka,Akan,"c(-1.33254, 6.34756)",GHA,Ghana,Sub-Saharan Africa,66983,30417856,2202.0947169978053,Ghana,2024,low,2020,Atlantic-Congo,6.34756,-1.33254,5000,1011,743
+aka,Akan,"c(-1.33254, 6.34756)",GHA,Ghana,Sub-Saharan Africa,66983,30417856,2202.0947169978053,Ghana,2024,low,2021,Atlantic-Congo,6.34756,-1.33254,13000,1067,1341
+aka,Akan,"c(-1.33254, 6.34756)",GHA,Ghana,Sub-Saharan Africa,66983,30417856,2202.0947169978053,Ghana,2024,low,2022,Atlantic-Congo,6.34756,-1.33254,10000,1126,587
+aka,Akan,"c(-1.33254, 6.34756)",GHA,Ghana,Sub-Saharan Africa,66983,30417856,2202.0947169978053,Ghana,2024,low,2023,Atlantic-Congo,6.34756,-1.33254,2000,1236,610
+aka,Akan,"c(-1.33254, 6.34756)",GHA,Ghana,Sub-Saharan Africa,66983,30417856,2202.0947169978053,Ghana,2024,low,2024,Atlantic-Congo,6.34756,-1.33254,4000,1358,0
+als,Albanian,"c(20, 41)",ALB,Albania,Europe & Central Asia,15279,2854191,5353.180638576746,Albania,2024,high,2015,Indo-European,41,20,33000,9032,52030
+als,Albanian,"c(20, 41)",ALB,Albania,Europe & Central Asia,15279,2854191,5353.180638576746,Albania,2024,high,2016,Indo-European,41,20,62000,9567,51573
+als,Albanian,"c(20, 41)",ALB,Albania,Europe & Central Asia,15279,2854191,5353.180638576746,Albania,2024,high,2017,Indo-European,41,20,72000,10156,62728
+als,Albanian,"c(20, 41)",ALB,Albania,Europe & Central Asia,15279,2854191,5353.180638576746,Albania,2024,high,2018,Indo-European,41,20,62000,10768,71240
+als,Albanian,"c(20, 41)",ALB,Albania,Europe & Central Asia,15279,2854191,5353.180638576746,Albania,2024,high,2019,Indo-European,41,20,72000,11584,75578
+als,Albanian,"c(20, 41)",ALB,Albania,Europe & Central Asia,15279,2854191,5353.180638576746,Albania,2024,high,2020,Indo-European,41,20,88000,12466,78588
+als,Albanian,"c(20, 41)",ALB,Albania,Europe & Central Asia,15279,2854191,5353.180638576746,Albania,2024,high,2021,Indo-European,41,20,98000,13639,81897
+als,Albanian,"c(20, 41)",ALB,Albania,Europe & Central Asia,15279,2854191,5353.180638576746,Albania,2024,high,2022,Indo-European,41,20,134000,15380,84195
+als,Albanian,"c(20, 41)",ALB,Albania,Europe & Central Asia,15279,2854191,5353.180638576746,Albania,2024,high,2023,Indo-European,41,20,210000,17555,87568
+als,Albanian,"c(20, 41)",ALB,Albania,Europe & Central Asia,15279,2854191,5353.180638576746,Albania,2024,high,2024,Indo-European,41,20,175000,18838,95445
+amh,Amharic,"c(39.543456, 11.708182)",ETH,Ethiopia,Sub-Saharan Africa,95912,112078730,855.7555925196511,NA,NA,low,2015,Afro-Asiatic,11.708182,39.543456,9000,1248,16247
+amh,Amharic,"c(39.543456, 11.708182)",ETH,Ethiopia,Sub-Saharan Africa,95912,112078730,855.7555925196511,NA,NA,low,2016,Afro-Asiatic,11.708182,39.543456,14000,1329,13016
+amh,Amharic,"c(39.543456, 11.708182)",ETH,Ethiopia,Sub-Saharan Africa,95912,112078730,855.7555925196511,NA,NA,low,2017,Afro-Asiatic,11.708182,39.543456,15000,1378,13342
+amh,Amharic,"c(39.543456, 11.708182)",ETH,Ethiopia,Sub-Saharan Africa,95912,112078730,855.7555925196511,NA,NA,low,2018,Afro-Asiatic,11.708182,39.543456,12000,1448,13992
+amh,Amharic,"c(39.543456, 11.708182)",ETH,Ethiopia,Sub-Saharan Africa,95912,112078730,855.7555925196511,NA,NA,low,2019,Afro-Asiatic,11.708182,39.543456,12000,1475,14474
+amh,Amharic,"c(39.543456, 11.708182)",ETH,Ethiopia,Sub-Saharan Africa,95912,112078730,855.7555925196511,NA,NA,low,2020,Afro-Asiatic,11.708182,39.543456,15000,1551,14817
+amh,Amharic,"c(39.543456, 11.708182)",ETH,Ethiopia,Sub-Saharan Africa,95912,112078730,855.7555925196511,NA,NA,low,2021,Afro-Asiatic,11.708182,39.543456,14000,1604,14906
+amh,Amharic,"c(39.543456, 11.708182)",ETH,Ethiopia,Sub-Saharan Africa,95912,112078730,855.7555925196511,NA,NA,low,2022,Afro-Asiatic,11.708182,39.543456,18000,1707,15015
+amh,Amharic,"c(39.543456, 11.708182)",ETH,Ethiopia,Sub-Saharan Africa,95912,112078730,855.7555925196511,NA,NA,low,2023,Afro-Asiatic,11.708182,39.543456,20000,1950,15118
+amh,Amharic,"c(39.543456, 11.708182)",ETH,Ethiopia,Sub-Saharan Africa,95912,112078730,855.7555925196511,NA,NA,low,2024,Afro-Asiatic,11.708182,39.543456,19000,2150,15282
+arb,Arabic,"c(43.8525, 27.9625)",SAU,Saudi Arabia,Middle East & North Africa,792966,34268528,23139.77419747939,Saudi Arabia,2024,high,2015,Afro-Asiatic,27.9625,43.8525,506000,16373,344381
+arb,Arabic,"c(43.8525, 27.9625)",SAU,Saudi Arabia,Middle East & North Africa,792966,34268528,23139.77419747939,Saudi Arabia,2024,high,2016,Afro-Asiatic,27.9625,43.8525,1770000,21432,402206
+arb,Arabic,"c(43.8525, 27.9625)",SAU,Saudi Arabia,Middle East & North Africa,792966,34268528,23139.77419747939,Saudi Arabia,2024,high,2017,Afro-Asiatic,27.9625,43.8525,1187000,26131,455761
+arb,Arabic,"c(43.8525, 27.9625)",SAU,Saudi Arabia,Middle East & North Africa,792966,34268528,23139.77419747939,Saudi Arabia,2024,high,2018,Afro-Asiatic,27.9625,43.8525,996000,29103,551475
+arb,Arabic,"c(43.8525, 27.9625)",SAU,Saudi Arabia,Middle East & North Africa,792966,34268528,23139.77419747939,Saudi Arabia,2024,high,2019,Afro-Asiatic,27.9625,43.8525,1113000,31550,653222
+arb,Arabic,"c(43.8525, 27.9625)",SAU,Saudi Arabia,Middle East & North Africa,792966,34268528,23139.77419747939,Saudi Arabia,2024,high,2020,Afro-Asiatic,27.9625,43.8525,1366000,33902,1023711
+arb,Arabic,"c(43.8525, 27.9625)",SAU,Saudi Arabia,Middle East & North Africa,792966,34268528,23139.77419747939,Saudi Arabia,2024,high,2021,Afro-Asiatic,27.9625,43.8525,1641000,36051,1097017
+arb,Arabic,"c(43.8525, 27.9625)",SAU,Saudi Arabia,Middle East & North Africa,792966,34268528,23139.77419747939,Saudi Arabia,2024,high,2022,Afro-Asiatic,27.9625,43.8525,1501000,38681,1151472
+arb,Arabic,"c(43.8525, 27.9625)",SAU,Saudi Arabia,Middle East & North Africa,792966,34268528,23139.77419747939,Saudi Arabia,2024,high,2023,Afro-Asiatic,27.9625,43.8525,2265000,40920,1197727
+arb,Arabic,"c(43.8525, 27.9625)",SAU,Saudi Arabia,Middle East & North Africa,792966,34268528,23139.77419747939,Saudi Arabia,2024,high,2024,Afro-Asiatic,27.9625,43.8525,1690000,43106,1224773
+azj,Azerbaijani,"c(46.4737, 40.97768)",AZE,Azerbaijan,Europe & Central Asia,48047,10023318,4793.522464317704,Azerbaijan,2024,high,2015,Turkic,40.97768,46.4737,18000,318,100349
+azj,Azerbaijani,"c(46.4737, 40.97768)",AZE,Azerbaijan,Europe & Central Asia,48047,10023318,4793.522464317704,Azerbaijan,2024,high,2016,Turkic,40.97768,46.4737,41000,349,101946
+azj,Azerbaijani,"c(46.4737, 40.97768)",AZE,Azerbaijan,Europe & Central Asia,48047,10023318,4793.522464317704,Azerbaijan,2024,high,2017,Turkic,40.97768,46.4737,48000,391,111830
+azj,Azerbaijani,"c(46.4737, 40.97768)",AZE,Azerbaijan,Europe & Central Asia,48047,10023318,4793.522464317704,Azerbaijan,2024,high,2018,Turkic,40.97768,46.4737,29000,427,130435
+azj,Azerbaijani,"c(46.4737, 40.97768)",AZE,Azerbaijan,Europe & Central Asia,48047,10023318,4793.522464317704,Azerbaijan,2024,high,2019,Turkic,40.97768,46.4737,44000,442,141456
+azj,Azerbaijani,"c(46.4737, 40.97768)",AZE,Azerbaijan,Europe & Central Asia,48047,10023318,4793.522464317704,Azerbaijan,2024,high,2020,Turkic,40.97768,46.4737,76000,454,153411
+azj,Azerbaijani,"c(46.4737, 40.97768)",AZE,Azerbaijan,Europe & Central Asia,48047,10023318,4793.522464317704,Azerbaijan,2024,high,2021,Turkic,40.97768,46.4737,199000,478,176063
+azj,Azerbaijani,"c(46.4737, 40.97768)",AZE,Azerbaijan,Europe & Central Asia,48047,10023318,4793.522464317704,Azerbaijan,2024,high,2022,Turkic,40.97768,46.4737,81000,527,181073
+azj,Azerbaijani,"c(46.4737, 40.97768)",AZE,Azerbaijan,Europe & Central Asia,48047,10023318,4793.522464317704,Azerbaijan,2024,high,2023,Turkic,40.97768,46.4737,98000,600,190939
+azj,Azerbaijani,"c(46.4737, 40.97768)",AZE,Azerbaijan,Europe & Central Asia,48047,10023318,4793.522464317704,Azerbaijan,2024,high,2024,Turkic,40.97768,46.4737,84000,628,197632
+bel,Belarusian,"c(25.6038, 53.2307)",BLR,Belarus,Europe & Central Asia,63080,9466856,6663.247016749806,Belarus,2024,high,2015,Indo-European,53.2307,25.6038,23000,91,79011
+bel,Belarusian,"c(25.6038, 53.2307)",BLR,Belarus,Europe & Central Asia,63080,9466856,6663.247016749806,Belarus,2024,high,2016,Indo-European,53.2307,25.6038,72000,85,169272
+bel,Belarusian,"c(25.6038, 53.2307)",BLR,Belarus,Europe & Central Asia,63080,9466856,6663.247016749806,Belarus,2024,high,2017,Indo-European,53.2307,25.6038,109000,94,184200
+bel,Belarusian,"c(25.6038, 53.2307)",BLR,Belarus,Europe & Central Asia,63080,9466856,6663.247016749806,Belarus,2024,high,2018,Indo-European,53.2307,25.6038,35000,105,210080
+bel,Belarusian,"c(25.6038, 53.2307)",BLR,Belarus,Europe & Central Asia,63080,9466856,6663.247016749806,Belarus,2024,high,2019,Indo-European,53.2307,25.6038,48000,114,225704
+bel,Belarusian,"c(25.6038, 53.2307)",BLR,Belarus,Europe & Central Asia,63080,9466856,6663.247016749806,Belarus,2024,high,2020,Indo-European,53.2307,25.6038,55000,132,250973
+bel,Belarusian,"c(25.6038, 53.2307)",BLR,Belarus,Europe & Central Asia,63080,9466856,6663.247016749806,Belarus,2024,high,2021,Indo-European,53.2307,25.6038,132000,142,272422
+bel,Belarusian,"c(25.6038, 53.2307)",BLR,Belarus,Europe & Central Asia,63080,9466856,6663.247016749806,Belarus,2024,high,2022,Indo-European,53.2307,25.6038,90000,179,289726
+bel,Belarusian,"c(25.6038, 53.2307)",BLR,Belarus,Europe & Central Asia,63080,9466856,6663.247016749806,Belarus,2024,high,2023,Indo-European,53.2307,25.6038,120000,213,307365
+bel,Belarusian,"c(25.6038, 53.2307)",BLR,Belarus,Europe & Central Asia,63080,9466856,6663.247016749806,Belarus,2024,high,2024,Indo-European,53.2307,25.6038,94000,258,322807
+ben,"Bengali, (Bangla)","c(90, 24)",BGD,Bangladesh,South Asia,302571,163046161,1855.7382654351488,Bangladesh,2024,low,2015,Indo-European,24,90,12000,2764,33578
+ben,"Bengali, (Bangla)","c(90, 24)",BGD,Bangladesh,South Asia,302571,163046161,1855.7382654351488,Bangladesh,2024,low,2016,Indo-European,24,90,30000,3082,39946
+ben,"Bengali, (Bangla)","c(90, 24)",BGD,Bangladesh,South Asia,302571,163046161,1855.7382654351488,Bangladesh,2024,low,2017,Indo-European,24,90,38000,3449,46612
+ben,"Bengali, (Bangla)","c(90, 24)",BGD,Bangladesh,South Asia,302571,163046161,1855.7382654351488,Bangladesh,2024,low,2018,Indo-European,24,90,20000,3834,54889
+ben,"Bengali, (Bangla)","c(90, 24)",BGD,Bangladesh,South Asia,302571,163046161,1855.7382654351488,Bangladesh,2024,low,2019,Indo-European,24,90,31000,4301,63416
+ben,"Bengali, (Bangla)","c(90, 24)",BGD,Bangladesh,South Asia,302571,163046161,1855.7382654351488,Bangladesh,2024,low,2020,Indo-European,24,90,39000,4605,79234
+ben,"Bengali, (Bangla)","c(90, 24)",BGD,Bangladesh,South Asia,302571,163046161,1855.7382654351488,Bangladesh,2024,low,2021,Indo-European,24,90,81000,4985,100846
+ben,"Bengali, (Bangla)","c(90, 24)",BGD,Bangladesh,South Asia,302571,163046161,1855.7382654351488,Bangladesh,2024,low,2022,Indo-European,24,90,62000,6226,116245
+ben,"Bengali, (Bangla)","c(90, 24)",BGD,Bangladesh,South Asia,302571,163046161,1855.7382654351488,Bangladesh,2024,low,2023,Indo-European,24,90,114000,8757,132341
+ben,"Bengali, (Bangla)","c(90, 24)",BGD,Bangladesh,South Asia,302571,163046161,1855.7382654351488,Bangladesh,2024,low,2024,Indo-European,24,90,77000,11418,145258
+bos,Bosnian,"c(17.046, 43.859)",BIH,Bosnia and Herz.,Europe & Central Asia,20164,3301000,6108.451984247198,Bosnia and Herzegovina,2024,high,2015,Indo-European,43.859,17.046,25000,2069,56348
+bos,Bosnian,"c(17.046, 43.859)",BIH,Bosnia and Herz.,Europe & Central Asia,20164,3301000,6108.451984247198,Bosnia and Herzegovina,2024,high,2016,Indo-European,43.859,17.046,53000,2120,67069
+bos,Bosnian,"c(17.046, 43.859)",BIH,Bosnia and Herz.,Europe & Central Asia,20164,3301000,6108.451984247198,Bosnia and Herzegovina,2024,high,2017,Indo-European,43.859,17.046,59000,2200,72413
+bos,Bosnian,"c(17.046, 43.859)",BIH,Bosnia and Herz.,Europe & Central Asia,20164,3301000,6108.451984247198,Bosnia and Herzegovina,2024,high,2018,Indo-European,43.859,17.046,33000,2241,76750
+bos,Bosnian,"c(17.046, 43.859)",BIH,Bosnia and Herz.,Europe & Central Asia,20164,3301000,6108.451984247198,Bosnia and Herzegovina,2024,high,2019,Indo-European,43.859,17.046,37000,2296,79221
+bos,Bosnian,"c(17.046, 43.859)",BIH,Bosnia and Herz.,Europe & Central Asia,20164,3301000,6108.451984247198,Bosnia and Herzegovina,2024,high,2020,Indo-European,43.859,17.046,44000,2320,81591
+bos,Bosnian,"c(17.046, 43.859)",BIH,Bosnia and Herz.,Europe & Central Asia,20164,3301000,6108.451984247198,Bosnia and Herzegovina,2024,high,2021,Indo-European,43.859,17.046,65000,2348,84715
+bos,Bosnian,"c(17.046, 43.859)",BIH,Bosnia and Herz.,Europe & Central Asia,20164,3301000,6108.451984247198,Bosnia and Herzegovina,2024,high,2022,Indo-European,43.859,17.046,53000,2380,88901
+bos,Bosnian,"c(17.046, 43.859)",BIH,Bosnia and Herz.,Europe & Central Asia,20164,3301000,6108.451984247198,Bosnia and Herzegovina,2024,high,2023,Indo-European,43.859,17.046,76000,2373,91017
+bos,Bosnian,"c(17.046, 43.859)",BIH,Bosnia and Herz.,Europe & Central Asia,20164,3301000,6108.451984247198,Bosnia and Herzegovina,2024,high,2024,Indo-European,43.859,17.046,65000,2355,92753
+bul,Bulgarian,"c(25.047, 43.3646)",BGR,Bulgaria,Europe & Central Asia,68558,6975761,9828.031665649096,Bulgaria,2024,high,2015,Indo-European,43.3646,25.047,90000,2023,187049
+bul,Bulgarian,"c(25.047, 43.3646)",BGR,Bulgaria,Europe & Central Asia,68558,6975761,9828.031665649096,Bulgaria,2024,high,2016,Indo-European,43.3646,25.047,180000,2164,211462
+bul,Bulgarian,"c(25.047, 43.3646)",BGR,Bulgaria,Europe & Central Asia,68558,6975761,9828.031665649096,Bulgaria,2024,high,2017,Indo-European,43.3646,25.047,205000,2361,224410
+bul,Bulgarian,"c(25.047, 43.3646)",BGR,Bulgaria,Europe & Central Asia,68558,6975761,9828.031665649096,Bulgaria,2024,high,2018,Indo-European,43.3646,25.047,143000,2545,238034
+bul,Bulgarian,"c(25.047, 43.3646)",BGR,Bulgaria,Europe & Central Asia,68558,6975761,9828.031665649096,Bulgaria,2024,high,2019,Indo-European,43.3646,25.047,148000,2642,248310
+bul,Bulgarian,"c(25.047, 43.3646)",BGR,Bulgaria,Europe & Central Asia,68558,6975761,9828.031665649096,Bulgaria,2024,high,2020,Indo-European,43.3646,25.047,172000,2814,258475
+bul,Bulgarian,"c(25.047, 43.3646)",BGR,Bulgaria,Europe & Central Asia,68558,6975761,9828.031665649096,Bulgaria,2024,high,2021,Indo-European,43.3646,25.047,266000,2982,268101
+bul,Bulgarian,"c(25.047, 43.3646)",BGR,Bulgaria,Europe & Central Asia,68558,6975761,9828.031665649096,Bulgaria,2024,high,2022,Indo-European,43.3646,25.047,198000,3208,278053
+bul,Bulgarian,"c(25.047, 43.3646)",BGR,Bulgaria,Europe & Central Asia,68558,6975761,9828.031665649096,Bulgaria,2024,high,2023,Indo-European,43.3646,25.047,286000,3323,286880
+bul,Bulgarian,"c(25.047, 43.3646)",BGR,Bulgaria,Europe & Central Asia,68558,6975761,9828.031665649096,Bulgaria,2024,high,2024,Indo-European,43.3646,25.047,259000,3318,295375
+cat,Catalan,"c(1.569, 41.453)",ESP,Spain,Europe & Central Asia,1393490,47076781,29600.36711091185,Spain,2024,high,2015,Indo-European,41.453,1.569,74000,44,445638
+cat,Catalan,"c(1.569, 41.453)",ESP,Spain,Europe & Central Asia,1393490,47076781,29600.36711091185,Spain,2024,high,2016,Indo-European,41.453,1.569,153000,47,491394
+cat,Catalan,"c(1.569, 41.453)",ESP,Spain,Europe & Central Asia,1393490,47076781,29600.36711091185,Spain,2024,high,2017,Indo-European,41.453,1.569,147000,51,529950
+cat,Catalan,"c(1.569, 41.453)",ESP,Spain,Europe & Central Asia,1393490,47076781,29600.36711091185,Spain,2024,high,2018,Indo-European,41.453,1.569,112000,59,568231
+cat,Catalan,"c(1.569, 41.453)",ESP,Spain,Europe & Central Asia,1393490,47076781,29600.36711091185,Spain,2024,high,2019,Indo-European,41.453,1.569,106000,81,599542
+cat,Catalan,"c(1.569, 41.453)",ESP,Spain,Europe & Central Asia,1393490,47076781,29600.36711091185,Spain,2024,high,2020,Indo-European,41.453,1.569,116000,67,633821
+cat,Catalan,"c(1.569, 41.453)",ESP,Spain,Europe & Central Asia,1393490,47076781,29600.36711091185,Spain,2024,high,2021,Indo-European,41.453,1.569,269000,81,667331
+cat,Catalan,"c(1.569, 41.453)",ESP,Spain,Europe & Central Asia,1393490,47076781,29600.36711091185,Spain,2024,high,2022,Indo-European,41.453,1.569,162000,91,692295
+cat,Catalan,"c(1.569, 41.453)",ESP,Spain,Europe & Central Asia,1393490,47076781,29600.36711091185,Spain,2024,high,2023,Indo-European,41.453,1.569,177000,98,718095
+cat,Catalan,"c(1.569, 41.453)",ESP,Spain,Europe & Central Asia,1393490,47076781,29600.36711091185,Spain,2024,high,2024,Indo-European,41.453,1.569,169000,104,741216
+ces,Czech,"c(15.10437, 49.873398)",CZE,Czechia,Europe & Central Asia,250680,10669709,23494.5489141269,Czechia,2024,high,2015,Indo-European,49.873398,15.10437,291000,462,311469
+ces,Czech,"c(15.10437, 49.873398)",CZE,Czechia,Europe & Central Asia,250680,10669709,23494.5489141269,Czechia,2024,high,2016,Indo-European,49.873398,15.10437,410000,481,341348
+ces,Czech,"c(15.10437, 49.873398)",CZE,Czechia,Europe & Central Asia,250680,10669709,23494.5489141269,Czechia,2024,high,2017,Indo-European,49.873398,15.10437,416000,517,370353
+ces,Czech,"c(15.10437, 49.873398)",CZE,Czechia,Europe & Central Asia,250680,10669709,23494.5489141269,Czechia,2024,high,2018,Indo-European,49.873398,15.10437,339000,524,396691
+ces,Czech,"c(15.10437, 49.873398)",CZE,Czechia,Europe & Central Asia,250680,10669709,23494.5489141269,Czechia,2024,high,2019,Indo-European,49.873398,15.10437,353000,553,419117
+ces,Czech,"c(15.10437, 49.873398)",CZE,Czechia,Europe & Central Asia,250680,10669709,23494.5489141269,Czechia,2024,high,2020,Indo-European,49.873398,15.10437,337000,619,442035
+ces,Czech,"c(15.10437, 49.873398)",CZE,Czechia,Europe & Central Asia,250680,10669709,23494.5489141269,Czechia,2024,high,2021,Indo-European,49.873398,15.10437,577000,610,470076
+ces,Czech,"c(15.10437, 49.873398)",CZE,Czechia,Europe & Central Asia,250680,10669709,23494.5489141269,Czechia,2024,high,2022,Indo-European,49.873398,15.10437,381000,649,494545
+ces,Czech,"c(15.10437, 49.873398)",CZE,Czechia,Europe & Central Asia,250680,10669709,23494.5489141269,Czechia,2024,high,2023,Indo-European,49.873398,15.10437,449000,673,516270
+ces,Czech,"c(15.10437, 49.873398)",CZE,Czechia,Europe & Central Asia,250680,10669709,23494.5489141269,Czechia,2024,high,2024,Indo-European,49.873398,15.10437,394000,727,537870
+che,Chechen,"c(45.5, 43.5)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2015,Nakh-Daghestanian,43.5,45.5,8000,548,75760
+che,Chechen,"c(45.5, 43.5)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2016,Nakh-Daghestanian,43.5,45.5,14000,557,115682
+che,Chechen,"c(45.5, 43.5)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2017,Nakh-Daghestanian,43.5,45.5,17000,593,159659
+che,Chechen,"c(45.5, 43.5)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2018,Nakh-Daghestanian,43.5,45.5,12000,620,164641
+che,Chechen,"c(45.5, 43.5)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2019,Nakh-Daghestanian,43.5,45.5,13000,640,208889
+che,Chechen,"c(45.5, 43.5)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2020,Nakh-Daghestanian,43.5,45.5,15000,640,254166
+che,Chechen,"c(45.5, 43.5)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2021,Nakh-Daghestanian,43.5,45.5,25000,675,347070
+che,Chechen,"c(45.5, 43.5)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2022,Nakh-Daghestanian,43.5,45.5,23000,734,453990
+che,Chechen,"c(45.5, 43.5)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2023,Nakh-Daghestanian,43.5,45.5,18000,784,516291
+che,Chechen,"c(45.5, 43.5)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2024,Nakh-Daghestanian,43.5,45.5,31000,844,601285
+ckb,Kurdish,"c(45.8077, 35.6539)",IRQ,Iraq,Middle East & North Africa,234094,39309783,5955.107918046762,Iraq,2024,high,2015,Indo-European,35.6539,45.8077,15000,10979,35997
+ckb,Kurdish,"c(45.8077, 35.6539)",IRQ,Iraq,Middle East & North Africa,234094,39309783,5955.107918046762,Iraq,2024,high,2016,Indo-European,35.6539,45.8077,30000,11899,38107
+ckb,Kurdish,"c(45.8077, 35.6539)",IRQ,Iraq,Middle East & North Africa,234094,39309783,5955.107918046762,Iraq,2024,high,2017,Indo-European,35.6539,45.8077,31000,12963,40874
+ckb,Kurdish,"c(45.8077, 35.6539)",IRQ,Iraq,Middle East & North Africa,234094,39309783,5955.107918046762,Iraq,2024,high,2018,Indo-European,35.6539,45.8077,21000,13735,43541
+ckb,Kurdish,"c(45.8077, 35.6539)",IRQ,Iraq,Middle East & North Africa,234094,39309783,5955.107918046762,Iraq,2024,high,2019,Indo-European,35.6539,45.8077,23000,14481,46895
+ckb,Kurdish,"c(45.8077, 35.6539)",IRQ,Iraq,Middle East & North Africa,234094,39309783,5955.107918046762,Iraq,2024,high,2020,Indo-European,35.6539,45.8077,31000,15076,51704
+ckb,Kurdish,"c(45.8077, 35.6539)",IRQ,Iraq,Middle East & North Africa,234094,39309783,5955.107918046762,Iraq,2024,high,2021,Indo-European,35.6539,45.8077,33000,15523,62855
+ckb,Kurdish,"c(45.8077, 35.6539)",IRQ,Iraq,Middle East & North Africa,234094,39309783,5955.107918046762,Iraq,2024,high,2022,Indo-European,35.6539,45.8077,35000,16301,85653
+ckb,Kurdish,"c(45.8077, 35.6539)",IRQ,Iraq,Middle East & North Africa,234094,39309783,5955.107918046762,Iraq,2024,high,2023,Indo-European,35.6539,45.8077,42000,16978,103617
+ckb,Kurdish,"c(45.8077, 35.6539)",IRQ,Iraq,Middle East & North Africa,234094,39309783,5955.107918046762,Iraq,2024,high,2024,Indo-European,35.6539,45.8077,46000,17595,128649
+cmn,Chinese,"c(116.228, 40.0209)",CHN,China,East Asia & Pacific,14342903,1397715000,10261.679240760814,China,2024,high,2015,Sino-Tibetan,40.0209,116.228,946000,10417,803243
+cmn,Chinese,"c(116.228, 40.0209)",CHN,China,East Asia & Pacific,14342903,1397715000,10261.679240760814,China,2024,high,2016,Sino-Tibetan,40.0209,116.228,1648000,10992,853803
+cmn,Chinese,"c(116.228, 40.0209)",CHN,China,East Asia & Pacific,14342903,1397715000,10261.679240760814,China,2024,high,2017,Sino-Tibetan,40.0209,116.228,1762000,11498,918156
+cmn,Chinese,"c(116.228, 40.0209)",CHN,China,East Asia & Pacific,14342903,1397715000,10261.679240760814,China,2024,high,2018,Sino-Tibetan,40.0209,116.228,1915000,12093,984137
+cmn,Chinese,"c(116.228, 40.0209)",CHN,China,East Asia & Pacific,14342903,1397715000,10261.679240760814,China,2024,high,2019,Sino-Tibetan,40.0209,116.228,1856000,12719,1038640
+cmn,Chinese,"c(116.228, 40.0209)",CHN,China,East Asia & Pacific,14342903,1397715000,10261.679240760814,China,2024,high,2020,Sino-Tibetan,40.0209,116.228,2217000,13467,1088426
+cmn,Chinese,"c(116.228, 40.0209)",CHN,China,East Asia & Pacific,14342903,1397715000,10261.679240760814,China,2024,high,2021,Sino-Tibetan,40.0209,116.228,3211000,14455,1167300
+cmn,Chinese,"c(116.228, 40.0209)",CHN,China,East Asia & Pacific,14342903,1397715000,10261.679240760814,China,2024,high,2022,Sino-Tibetan,40.0209,116.228,2618000,15386,1248235
+cmn,Chinese,"c(116.228, 40.0209)",CHN,China,East Asia & Pacific,14342903,1397715000,10261.679240760814,China,2024,high,2023,Sino-Tibetan,40.0209,116.228,2890000,17155,1327543
+cmn,Chinese,"c(116.228, 40.0209)",CHN,China,East Asia & Pacific,14342903,1397715000,10261.679240760814,China,2024,high,2024,Sino-Tibetan,40.0209,116.228,3369000,18907,1396133
+dan,Danish,"c(9.36284, 54.8655)",DNK,Denmark,Europe & Central Asia,350104,5818553,60170.28632376469,Denmark,2024,high,2015,Indo-European,54.8655,9.36284,214000,335,194268
+dan,Danish,"c(9.36284, 54.8655)",DNK,Denmark,Europe & Central Asia,350104,5818553,60170.28632376469,Denmark,2024,high,2016,Indo-European,54.8655,9.36284,488000,372,213032
+dan,Danish,"c(9.36284, 54.8655)",DNK,Denmark,Europe & Central Asia,350104,5818553,60170.28632376469,Denmark,2024,high,2017,Indo-European,54.8655,9.36284,354000,401,222235
+dan,Danish,"c(9.36284, 54.8655)",DNK,Denmark,Europe & Central Asia,350104,5818553,60170.28632376469,Denmark,2024,high,2018,Indo-European,54.8655,9.36284,295000,426,234179
+dan,Danish,"c(9.36284, 54.8655)",DNK,Denmark,Europe & Central Asia,350104,5818553,60170.28632376469,Denmark,2024,high,2019,Indo-European,54.8655,9.36284,325000,433,241945
+dan,Danish,"c(9.36284, 54.8655)",DNK,Denmark,Europe & Central Asia,350104,5818553,60170.28632376469,Denmark,2024,high,2020,Indo-European,54.8655,9.36284,332000,432,256005
+dan,Danish,"c(9.36284, 54.8655)",DNK,Denmark,Europe & Central Asia,350104,5818553,60170.28632376469,Denmark,2024,high,2021,Indo-European,54.8655,9.36284,618000,440,263912
+dan,Danish,"c(9.36284, 54.8655)",DNK,Denmark,Europe & Central Asia,350104,5818553,60170.28632376469,Denmark,2024,high,2022,Indo-European,54.8655,9.36284,344000,447,271399
+dan,Danish,"c(9.36284, 54.8655)",DNK,Denmark,Europe & Central Asia,350104,5818553,60170.28632376469,Denmark,2024,high,2023,Indo-European,54.8655,9.36284,409000,455,287979
+dan,Danish,"c(9.36284, 54.8655)",DNK,Denmark,Europe & Central Asia,350104,5818553,60170.28632376469,Denmark,2024,high,2024,Indo-European,54.8655,9.36284,395000,490,296600
+deu,German,"c(12.4676, 48.649)",DEU,Germany,Europe & Central Asia,3861123,83132799,46445.2423886269,Germany,2024,high,2015,Indo-European,48.649,12.4676,5525000,5490,1793102
+deu,German,"c(12.4676, 48.649)",DEU,Germany,Europe & Central Asia,3861123,83132799,46445.2423886269,Germany,2024,high,2016,Indo-European,48.649,12.4676,6881000,5599,1891754
+deu,German,"c(12.4676, 48.649)",DEU,Germany,Europe & Central Asia,3861123,83132799,46445.2423886269,Germany,2024,high,2017,Indo-European,48.649,12.4676,6663000,5526,2015479
+deu,German,"c(12.4676, 48.649)",DEU,Germany,Europe & Central Asia,3861123,83132799,46445.2423886269,Germany,2024,high,2018,Indo-European,48.649,12.4676,5911000,5671,2137776
+deu,German,"c(12.4676, 48.649)",DEU,Germany,Europe & Central Asia,3861123,83132799,46445.2423886269,Germany,2024,high,2019,Indo-European,48.649,12.4676,6364000,5938,2254833
+deu,German,"c(12.4676, 48.649)",DEU,Germany,Europe & Central Asia,3861123,83132799,46445.2423886269,Germany,2024,high,2020,Indo-European,48.649,12.4676,6377000,6190,2380704
+deu,German,"c(12.4676, 48.649)",DEU,Germany,Europe & Central Asia,3861123,83132799,46445.2423886269,Germany,2024,high,2021,Indo-European,48.649,12.4676,7079000,6631,2517175
+deu,German,"c(12.4676, 48.649)",DEU,Germany,Europe & Central Asia,3861123,83132799,46445.2423886269,Germany,2024,high,2022,Indo-European,48.649,12.4676,7359000,6947,2648516
+deu,German,"c(12.4676, 48.649)",DEU,Germany,Europe & Central Asia,3861123,83132799,46445.2423886269,Germany,2024,high,2023,Indo-European,48.649,12.4676,9228000,7182,2757481
+deu,German,"c(12.4676, 48.649)",DEU,Germany,Europe & Central Asia,3861123,83132799,46445.2423886269,Germany,2024,high,2024,Indo-European,48.649,12.4676,8712000,7299,2867859
+ekk,Estonian,"c(25.82, 58.55)",EST,Estonia,Europe & Central Asia,31471,1326590,23723.23023692324,Estonia,2024,high,2015,Uralic,58.55,25.82,952000,47629,129582
+ekk,Estonian,"c(25.82, 58.55)",EST,Estonia,Europe & Central Asia,31471,1326590,23723.23023692324,Estonia,2024,high,2016,Uralic,58.55,25.82,1636000,48789,140919
+ekk,Estonian,"c(25.82, 58.55)",EST,Estonia,Europe & Central Asia,31471,1326590,23723.23023692324,Estonia,2024,high,2017,Uralic,58.55,25.82,1682000,49113,152591
+ekk,Estonian,"c(25.82, 58.55)",EST,Estonia,Europe & Central Asia,31471,1326590,23723.23023692324,Estonia,2024,high,2018,Uralic,58.55,25.82,1708000,49247,167569
+ekk,Estonian,"c(25.82, 58.55)",EST,Estonia,Europe & Central Asia,31471,1326590,23723.23023692324,Estonia,2024,high,2019,Uralic,58.55,25.82,1760000,49017,185036
+ekk,Estonian,"c(25.82, 58.55)",EST,Estonia,Europe & Central Asia,31471,1326590,23723.23023692324,Estonia,2024,high,2020,Uralic,58.55,25.82,1893000,49117,204491
+ekk,Estonian,"c(25.82, 58.55)",EST,Estonia,Europe & Central Asia,31471,1326590,23723.23023692324,Estonia,2024,high,2021,Uralic,58.55,25.82,2147000,49791,214658
+ekk,Estonian,"c(25.82, 58.55)",EST,Estonia,Europe & Central Asia,31471,1326590,23723.23023692324,Estonia,2024,high,2022,Uralic,58.55,25.82,2028000,49900,224099
+ekk,Estonian,"c(25.82, 58.55)",EST,Estonia,Europe & Central Asia,31471,1326590,23723.23023692324,Estonia,2024,high,2023,Uralic,58.55,25.82,2124000,49750,232818
+ekk,Estonian,"c(25.82, 58.55)",EST,Estonia,Europe & Central Asia,31471,1326590,23723.23023692324,Estonia,2024,high,2024,Uralic,58.55,25.82,2089000,49114,241786
+ell,Greek (modern),"c(23.13, 38.36)",GRC,Greece,Europe & Central Asia,209852,10716322,19582.46495392729,Greece,2024,high,2015,Indo-European,38.36,23.13,75000,1000,113708
+ell,Greek (modern),"c(23.13, 38.36)",GRC,Greece,Europe & Central Asia,209852,10716322,19582.46495392729,Greece,2024,high,2016,Indo-European,38.36,23.13,140000,1268,113065
+ell,Greek (modern),"c(23.13, 38.36)",GRC,Greece,Europe & Central Asia,209852,10716322,19582.46495392729,Greece,2024,high,2017,Indo-European,38.36,23.13,157000,1446,125054
+ell,Greek (modern),"c(23.13, 38.36)",GRC,Greece,Europe & Central Asia,209852,10716322,19582.46495392729,Greece,2024,high,2018,Indo-European,38.36,23.13,128000,1392,141392
+ell,Greek (modern),"c(23.13, 38.36)",GRC,Greece,Europe & Central Asia,209852,10716322,19582.46495392729,Greece,2024,high,2019,Indo-European,38.36,23.13,153000,1489,156931
+ell,Greek (modern),"c(23.13, 38.36)",GRC,Greece,Europe & Central Asia,209852,10716322,19582.46495392729,Greece,2024,high,2020,Indo-European,38.36,23.13,178000,1552,171807
+ell,Greek (modern),"c(23.13, 38.36)",GRC,Greece,Europe & Central Asia,209852,10716322,19582.46495392729,Greece,2024,high,2021,Indo-European,38.36,23.13,353000,1633,185868
+ell,Greek (modern),"c(23.13, 38.36)",GRC,Greece,Europe & Central Asia,209852,10716322,19582.46495392729,Greece,2024,high,2022,Indo-European,38.36,23.13,311000,1740,203507
+ell,Greek (modern),"c(23.13, 38.36)",GRC,Greece,Europe & Central Asia,209852,10716322,19582.46495392729,Greece,2024,high,2023,Indo-European,38.36,23.13,460000,1808,215528
+ell,Greek (modern),"c(23.13, 38.36)",GRC,Greece,Europe & Central Asia,209852,10716322,19582.46495392729,Greece,2024,high,2024,Indo-European,38.36,23.13,406000,1886,229035
+eng,English,"c(-1, 53)",GBR,United Kingdom,Europe & Central Asia,2829108,66834405,42330.11425776888,United Kingdom,2024,high,2015,Indo-European,53,-1,234231000,17226,4801286
+eng,English,"c(-1, 53)",GBR,United Kingdom,Europe & Central Asia,2829108,66834405,42330.11425776888,United Kingdom,2024,high,2016,Indo-European,53,-1,371359000,18150,5161485
+eng,English,"c(-1, 53)",GBR,United Kingdom,Europe & Central Asia,2829108,66834405,42330.11425776888,United Kingdom,2024,high,2017,Indo-European,53,-1,363594000,19033,5443551
+eng,English,"c(-1, 53)",GBR,United Kingdom,Europe & Central Asia,2829108,66834405,42330.11425776888,United Kingdom,2024,high,2018,Indo-European,53,-1,357398000,20088,5672596
+eng,English,"c(-1, 53)",GBR,United Kingdom,Europe & Central Asia,2829108,66834405,42330.11425776888,United Kingdom,2024,high,2019,Indo-European,53,-1,363510000,21481,5921556
+eng,English,"c(-1, 53)",GBR,United Kingdom,Europe & Central Asia,2829108,66834405,42330.11425776888,United Kingdom,2024,high,2020,Indo-European,53,-1,396377000,22902,6142535
+eng,English,"c(-1, 53)",GBR,United Kingdom,Europe & Central Asia,2829108,66834405,42330.11425776888,United Kingdom,2024,high,2021,Indo-European,53,-1,413398000,24997,6397986
+eng,English,"c(-1, 53)",GBR,United Kingdom,Europe & Central Asia,2829108,66834405,42330.11425776888,United Kingdom,2024,high,2022,Indo-European,53,-1,409657000,28769,6632884
+eng,English,"c(-1, 53)",GBR,United Kingdom,Europe & Central Asia,2829108,66834405,42330.11425776888,United Kingdom,2024,high,2023,Indo-European,53,-1,435618000,33148,6821174
+eng,English,"c(-1, 53)",GBR,United Kingdom,Europe & Central Asia,2829108,66834405,42330.11425776888,United Kingdom,2024,high,2024,Indo-European,53,-1,448514000,36383,7010033
+eus,Basque,"c(-1.31622, 43.2787)",FRA,France,Europe & Central Asia,2715518,67059887,40493.92448275375,France,2024,high,2015,Basque,43.2787,-1.31622,27000,15,205179
+eus,Basque,"c(-1.31622, 43.2787)",FRA,France,Europe & Central Asia,2715518,67059887,40493.92448275375,France,2024,high,2016,Basque,43.2787,-1.31622,54000,16,218971
+eus,Basque,"c(-1.31622, 43.2787)",FRA,France,Europe & Central Asia,2715518,67059887,40493.92448275375,France,2024,high,2017,Basque,43.2787,-1.31622,58000,16,263314
+eus,Basque,"c(-1.31622, 43.2787)",FRA,France,Europe & Central Asia,2715518,67059887,40493.92448275375,France,2024,high,2018,Basque,43.2787,-1.31622,36000,10,287336
+eus,Basque,"c(-1.31622, 43.2787)",FRA,France,Europe & Central Asia,2715518,67059887,40493.92448275375,France,2024,high,2019,Basque,43.2787,-1.31622,89000,10,309938
+eus,Basque,"c(-1.31622, 43.2787)",FRA,France,Europe & Central Asia,2715518,67059887,40493.92448275375,France,2024,high,2020,Basque,43.2787,-1.31622,44000,11,348935
+eus,Basque,"c(-1.31622, 43.2787)",FRA,France,Europe & Central Asia,2715518,67059887,40493.92448275375,France,2024,high,2021,Basque,43.2787,-1.31622,77000,11,368212
+eus,Basque,"c(-1.31622, 43.2787)",FRA,France,Europe & Central Asia,2715518,67059887,40493.92448275375,France,2024,high,2023,Basque,43.2787,-1.31622,149000,10,403461
+eus,Basque,"c(-1.31622, 43.2787)",FRA,France,Europe & Central Asia,2715518,67059887,40493.92448275375,France,2024,high,2024,Basque,43.2787,-1.31622,94000,11,425216
+ewe,Ewe,"c(0.814975, 6.46061)",TGO,Togo,Sub-Saharan Africa,5490,8082366,679.2565444326575,Togo,2024,low,2015,Atlantic-Congo,6.46061,0.814975,1000,50,315
+ewe,Ewe,"c(0.814975, 6.46061)",TGO,Togo,Sub-Saharan Africa,5490,8082366,679.2565444326575,Togo,2024,low,2016,Atlantic-Congo,6.46061,0.814975,5000,50,318
+ewe,Ewe,"c(0.814975, 6.46061)",TGO,Togo,Sub-Saharan Africa,5490,8082366,679.2565444326575,Togo,2024,low,2017,Atlantic-Congo,6.46061,0.814975,12000,59,334
+ewe,Ewe,"c(0.814975, 6.46061)",TGO,Togo,Sub-Saharan Africa,5490,8082366,679.2565444326575,Togo,2024,low,2018,Atlantic-Congo,6.46061,0.814975,2000,58,339
+ewe,Ewe,"c(0.814975, 6.46061)",TGO,Togo,Sub-Saharan Africa,5490,8082366,679.2565444326575,Togo,2024,low,2019,Atlantic-Congo,6.46061,0.814975,5000,69,350
+ewe,Ewe,"c(0.814975, 6.46061)",TGO,Togo,Sub-Saharan Africa,5490,8082366,679.2565444326575,Togo,2024,low,2020,Atlantic-Congo,6.46061,0.814975,8000,67,358
+ewe,Ewe,"c(0.814975, 6.46061)",TGO,Togo,Sub-Saharan Africa,5490,8082366,679.2565444326575,Togo,2024,low,2021,Atlantic-Congo,6.46061,0.814975,9000,76,362
+ewe,Ewe,"c(0.814975, 6.46061)",TGO,Togo,Sub-Saharan Africa,5490,8082366,679.2565444326575,Togo,2024,low,2022,Atlantic-Congo,6.46061,0.814975,7000,92,385
+ewe,Ewe,"c(0.814975, 6.46061)",TGO,Togo,Sub-Saharan Africa,5490,8082366,679.2565444326575,Togo,2024,low,2023,Atlantic-Congo,6.46061,0.814975,11000,99,500
+ewe,Ewe,"c(0.814975, 6.46061)",TGO,Togo,Sub-Saharan Africa,5490,8082366,679.2565444326575,Togo,2024,low,2024,Atlantic-Congo,6.46061,0.814975,10000,116,846
+fin,Finnish,"c(25.5577, 64.7628)",FIN,Finland,Europe & Central Asia,269296,5520314,48782.73228660544,Finland,2024,high,2015,Uralic,64.7628,25.5577,429871000,4865623,363057
+fin,Finnish,"c(25.5577, 64.7628)",FIN,Finland,Europe & Central Asia,269296,5520314,48782.73228660544,Finland,2024,high,2016,Uralic,64.7628,25.5577,671093000,4857793,385260
+fin,Finnish,"c(25.5577, 64.7628)",FIN,Finland,Europe & Central Asia,269296,5520314,48782.73228660544,Finland,2024,high,2017,Uralic,64.7628,25.5577,649370000,4848759,406091
+fin,Finnish,"c(25.5577, 64.7628)",FIN,Finland,Europe & Central Asia,269296,5520314,48782.73228660544,Finland,2024,high,2018,Uralic,64.7628,25.5577,641188000,4835776,428042
+fin,Finnish,"c(25.5577, 64.7628)",FIN,Finland,Europe & Central Asia,269296,5520314,48782.73228660544,Finland,2024,high,2019,Uralic,64.7628,25.5577,662544000,4822688,449190
+fin,Finnish,"c(25.5577, 64.7628)",FIN,Finland,Europe & Central Asia,269296,5520314,48782.73228660544,Finland,2024,high,2020,Uralic,64.7628,25.5577,683359000,4811064,475859
+fin,Finnish,"c(25.5577, 64.7628)",FIN,Finland,Europe & Central Asia,269296,5520314,48782.73228660544,Finland,2024,high,2021,Uralic,64.7628,25.5577,689652000,4800240,500345
+fin,Finnish,"c(25.5577, 64.7628)",FIN,Finland,Europe & Central Asia,269296,5520314,48782.73228660544,Finland,2024,high,2022,Uralic,64.7628,25.5577,617717000,4778882,521971
+fin,Finnish,"c(25.5577, 64.7628)",FIN,Finland,Europe & Central Asia,269296,5520314,48782.73228660544,Finland,2024,high,2023,Uralic,64.7628,25.5577,592830000,4757470,544658
+fin,Finnish,"c(25.5577, 64.7628)",FIN,Finland,Europe & Central Asia,269296,5520314,48782.73228660544,Finland,2024,high,2024,Uralic,64.7628,25.5577,533827000,4738380,564711
+fra,French,"c(2, 48)",FRA,France,Europe & Central Asia,2715518,67059887,40493.92448275375,France,2024,high,2015,Indo-European,48,2,1857000,3535,1576259
+fra,French,"c(2, 48)",FRA,France,Europe & Central Asia,2715518,67059887,40493.92448275375,France,2024,high,2016,Indo-European,48,2,3060000,3783,1710910
+fra,French,"c(2, 48)",FRA,France,Europe & Central Asia,2715518,67059887,40493.92448275375,France,2024,high,2017,Indo-European,48,2,3856000,3889,1828409
+fra,French,"c(2, 48)",FRA,France,Europe & Central Asia,2715518,67059887,40493.92448275375,France,2024,high,2018,Indo-European,48,2,2731000,4054,1942345
+fra,French,"c(2, 48)",FRA,France,Europe & Central Asia,2715518,67059887,40493.92448275375,France,2024,high,2019,Indo-European,48,2,3101000,4345,2069515
+fra,French,"c(2, 48)",FRA,France,Europe & Central Asia,2715518,67059887,40493.92448275375,France,2024,high,2020,Indo-European,48,2,2895000,4651,2168233
+fra,French,"c(2, 48)",FRA,France,Europe & Central Asia,2715518,67059887,40493.92448275375,France,2024,high,2021,Indo-European,48,2,3065000,4966,2283766
+fra,French,"c(2, 48)",FRA,France,Europe & Central Asia,2715518,67059887,40493.92448275375,France,2024,high,2022,Indo-European,48,2,3219000,5171,2385869
+fra,French,"c(2, 48)",FRA,France,Europe & Central Asia,2715518,67059887,40493.92448275375,France,2024,high,2023,Indo-European,48,2,3395000,5395,2482430
+fra,French,"c(2, 48)",FRA,France,Europe & Central Asia,2715518,67059887,40493.92448275375,France,2024,high,2024,Indo-European,48,2,3482000,5598,2580935
+fuc,"Fula, Fulah, Pulaar, Pular","c(-13.4482, 13.8694)",SEN,Senegal,Sub-Saharan Africa,23578,16296364,1446.825807278237,Senegal,2024,low,2015,Atlantic-Congo,13.8694,-13.4482,1000,53,227
+fuc,"Fula, Fulah, Pulaar, Pular","c(-13.4482, 13.8694)",SEN,Senegal,Sub-Saharan Africa,23578,16296364,1446.825807278237,Senegal,2024,low,2016,Atlantic-Congo,13.8694,-13.4482,3000,81,180
+fuc,"Fula, Fulah, Pulaar, Pular","c(-13.4482, 13.8694)",SEN,Senegal,Sub-Saharan Africa,23578,16296364,1446.825807278237,Senegal,2024,low,2017,Atlantic-Congo,13.8694,-13.4482,7000,88,195
+fuc,"Fula, Fulah, Pulaar, Pular","c(-13.4482, 13.8694)",SEN,Senegal,Sub-Saharan Africa,23578,16296364,1446.825807278237,Senegal,2024,low,2018,Atlantic-Congo,13.8694,-13.4482,1000,93,228
+fuc,"Fula, Fulah, Pulaar, Pular","c(-13.4482, 13.8694)",SEN,Senegal,Sub-Saharan Africa,23578,16296364,1446.825807278237,Senegal,2024,low,2019,Atlantic-Congo,13.8694,-13.4482,3000,114,228
+fuc,"Fula, Fulah, Pulaar, Pular","c(-13.4482, 13.8694)",SEN,Senegal,Sub-Saharan Africa,23578,16296364,1446.825807278237,Senegal,2024,low,2020,Atlantic-Congo,13.8694,-13.4482,5000,126,232
+fuc,"Fula, Fulah, Pulaar, Pular","c(-13.4482, 13.8694)",SEN,Senegal,Sub-Saharan Africa,23578,16296364,1446.825807278237,Senegal,2024,low,2021,Atlantic-Congo,13.8694,-13.4482,4000,130,276
+fuc,"Fula, Fulah, Pulaar, Pular","c(-13.4482, 13.8694)",SEN,Senegal,Sub-Saharan Africa,23578,16296364,1446.825807278237,Senegal,2024,low,2022,Atlantic-Congo,13.8694,-13.4482,5000,143,361
+fuc,"Fula, Fulah, Pulaar, Pular","c(-13.4482, 13.8694)",SEN,Senegal,Sub-Saharan Africa,23578,16296364,1446.825807278237,Senegal,2024,low,2023,Atlantic-Congo,13.8694,-13.4482,9000,160,705
+fuc,"Fula, Fulah, Pulaar, Pular","c(-13.4482, 13.8694)",SEN,Senegal,Sub-Saharan Africa,23578,16296364,1446.825807278237,Senegal,2024,low,2024,Atlantic-Congo,13.8694,-13.4482,8000,175,1819
+guj,Gujarati,"c(71.0962, 22.687)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2015,Indo-European,22.687,71.0962,3000,71,25635
+guj,Gujarati,"c(71.0962, 22.687)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2016,Indo-European,22.687,71.0962,10000,90,25940
+guj,Gujarati,"c(71.0962, 22.687)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2017,Indo-European,22.687,71.0962,12000,92,26699
+guj,Gujarati,"c(71.0962, 22.687)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2018,Indo-European,22.687,71.0962,11000,131,27501
+guj,Gujarati,"c(71.0962, 22.687)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2019,Indo-European,22.687,71.0962,12000,146,28289
+guj,Gujarati,"c(71.0962, 22.687)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2020,Indo-European,22.687,71.0962,12000,177,28809
+guj,Gujarati,"c(71.0962, 22.687)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2021,Indo-European,22.687,71.0962,13000,205,29308
+guj,Gujarati,"c(71.0962, 22.687)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2022,Indo-European,22.687,71.0962,18000,397,29747
+guj,Gujarati,"c(71.0962, 22.687)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2023,Indo-European,22.687,71.0962,15000,795,30049
+guj,Gujarati,"c(71.0962, 22.687)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2024,Indo-European,22.687,71.0962,16000,1008,30332
+hae,Oromo,"c(41.4395, 8.67428)",ETH,Ethiopia,Sub-Saharan Africa,95912,112078730,855.7555925196511,NA,NA,low,2015,Afro-Asiatic,8.67428,41.4395,2000,109,647
+hae,Oromo,"c(41.4395, 8.67428)",ETH,Ethiopia,Sub-Saharan Africa,95912,112078730,855.7555925196511,NA,NA,low,2016,Afro-Asiatic,8.67428,41.4395,4000,110,682
+hae,Oromo,"c(41.4395, 8.67428)",ETH,Ethiopia,Sub-Saharan Africa,95912,112078730,855.7555925196511,NA,NA,low,2017,Afro-Asiatic,8.67428,41.4395,3000,130,725
+hae,Oromo,"c(41.4395, 8.67428)",ETH,Ethiopia,Sub-Saharan Africa,95912,112078730,855.7555925196511,NA,NA,low,2018,Afro-Asiatic,8.67428,41.4395,2000,121,754
+hae,Oromo,"c(41.4395, 8.67428)",ETH,Ethiopia,Sub-Saharan Africa,95912,112078730,855.7555925196511,NA,NA,low,2019,Afro-Asiatic,8.67428,41.4395,5000,135,775
+hae,Oromo,"c(41.4395, 8.67428)",ETH,Ethiopia,Sub-Saharan Africa,95912,112078730,855.7555925196511,NA,NA,low,2020,Afro-Asiatic,8.67428,41.4395,9000,140,786
+hae,Oromo,"c(41.4395, 8.67428)",ETH,Ethiopia,Sub-Saharan Africa,95912,112078730,855.7555925196511,NA,NA,low,2021,Afro-Asiatic,8.67428,41.4395,10000,154,1018
+hae,Oromo,"c(41.4395, 8.67428)",ETH,Ethiopia,Sub-Saharan Africa,95912,112078730,855.7555925196511,NA,NA,low,2022,Afro-Asiatic,8.67428,41.4395,9000,168,1070
+hae,Oromo,"c(41.4395, 8.67428)",ETH,Ethiopia,Sub-Saharan Africa,95912,112078730,855.7555925196511,NA,NA,low,2023,Afro-Asiatic,8.67428,41.4395,12000,193,1135
+hae,Oromo,"c(41.4395, 8.67428)",ETH,Ethiopia,Sub-Saharan Africa,95912,112078730,855.7555925196511,NA,NA,low,2024,Afro-Asiatic,8.67428,41.4395,13000,200,1666
+hau,Hausa,"c(8.7804, 11.1513)",NGA,Nigeria,Sub-Saharan Africa,448120,200963599,2229.856562232447,Nigeria,2024,low,2015,Afro-Asiatic,11.1513,8.7804,1000,109,1398
+hau,Hausa,"c(8.7804, 11.1513)",NGA,Nigeria,Sub-Saharan Africa,448120,200963599,2229.856562232447,Nigeria,2024,low,2016,Afro-Asiatic,11.1513,8.7804,4000,133,1355
+hau,Hausa,"c(8.7804, 11.1513)",NGA,Nigeria,Sub-Saharan Africa,448120,200963599,2229.856562232447,Nigeria,2024,low,2017,Afro-Asiatic,11.1513,8.7804,8000,138,1400
+hau,Hausa,"c(8.7804, 11.1513)",NGA,Nigeria,Sub-Saharan Africa,448120,200963599,2229.856562232447,Nigeria,2024,low,2018,Afro-Asiatic,11.1513,8.7804,7000,154,1640
+hau,Hausa,"c(8.7804, 11.1513)",NGA,Nigeria,Sub-Saharan Africa,448120,200963599,2229.856562232447,Nigeria,2024,low,2019,Afro-Asiatic,11.1513,8.7804,11000,156,2691
+hau,Hausa,"c(8.7804, 11.1513)",NGA,Nigeria,Sub-Saharan Africa,448120,200963599,2229.856562232447,Nigeria,2024,low,2020,Afro-Asiatic,11.1513,8.7804,14000,176,4376
+hau,Hausa,"c(8.7804, 11.1513)",NGA,Nigeria,Sub-Saharan Africa,448120,200963599,2229.856562232447,Nigeria,2024,low,2021,Afro-Asiatic,11.1513,8.7804,13000,169,6718
+hau,Hausa,"c(8.7804, 11.1513)",NGA,Nigeria,Sub-Saharan Africa,448120,200963599,2229.856562232447,Nigeria,2024,low,2022,Afro-Asiatic,11.1513,8.7804,15000,195,13693
+hau,Hausa,"c(8.7804, 11.1513)",NGA,Nigeria,Sub-Saharan Africa,448120,200963599,2229.856562232447,Nigeria,2024,low,2023,Afro-Asiatic,11.1513,8.7804,18000,232,20228
+hau,Hausa,"c(8.7804, 11.1513)",NGA,Nigeria,Sub-Saharan Africa,448120,200963599,2229.856562232447,Nigeria,2024,low,2024,Afro-Asiatic,11.1513,8.7804,17000,254,35617
+heb,Hebrew,"c(35.0179, 31.1056)",ISR,Israel,Middle East & North Africa,394652,9053300,43592.060353683184,Israel,2024,high,2015,Afro-Asiatic,31.1056,35.0179,66000,317,164791
+heb,Hebrew,"c(35.0179, 31.1056)",ISR,Israel,Middle East & North Africa,394652,9053300,43592.060353683184,Israel,2024,high,2016,Afro-Asiatic,31.1056,35.0179,137000,327,183012
+heb,Hebrew,"c(35.0179, 31.1056)",ISR,Israel,Middle East & North Africa,394652,9053300,43592.060353683184,Israel,2024,high,2017,Afro-Asiatic,31.1056,35.0179,167000,315,200187
+heb,Hebrew,"c(35.0179, 31.1056)",ISR,Israel,Middle East & North Africa,394652,9053300,43592.060353683184,Israel,2024,high,2018,Afro-Asiatic,31.1056,35.0179,130000,301,217824
+heb,Hebrew,"c(35.0179, 31.1056)",ISR,Israel,Middle East & North Africa,394652,9053300,43592.060353683184,Israel,2024,high,2019,Afro-Asiatic,31.1056,35.0179,159000,310,236078
+heb,Hebrew,"c(35.0179, 31.1056)",ISR,Israel,Middle East & North Africa,394652,9053300,43592.060353683184,Israel,2024,high,2020,Afro-Asiatic,31.1056,35.0179,168000,330,255667
+heb,Hebrew,"c(35.0179, 31.1056)",ISR,Israel,Middle East & North Africa,394652,9053300,43592.060353683184,Israel,2024,high,2021,Afro-Asiatic,31.1056,35.0179,310000,321,284388
+heb,Hebrew,"c(35.0179, 31.1056)",ISR,Israel,Middle East & North Africa,394652,9053300,43592.060353683184,Israel,2024,high,2022,Afro-Asiatic,31.1056,35.0179,214000,345,308760
+heb,Hebrew,"c(35.0179, 31.1056)",ISR,Israel,Middle East & North Africa,394652,9053300,43592.060353683184,Israel,2024,high,2023,Afro-Asiatic,31.1056,35.0179,267000,376,328398
+heb,Hebrew,"c(35.0179, 31.1056)",ISR,Israel,Middle East & North Africa,394652,9053300,43592.060353683184,Israel,2024,high,2024,Afro-Asiatic,31.1056,35.0179,245000,390,347123
+hin,Hindi,"c(77, 25)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2015,Indo-European,25,77,12000,1780,116569
+hin,Hindi,"c(77, 25)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2016,Indo-European,25,77,33000,1856,100634
+hin,Hindi,"c(77, 25)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2017,Indo-European,25,77,43000,2020,114730
+hin,Hindi,"c(77, 25)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2018,Indo-European,25,77,24000,2245,122780
+hin,Hindi,"c(77, 25)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2019,Indo-European,25,77,29000,2595,128923
+hin,Hindi,"c(77, 25)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2020,Indo-European,25,77,36000,2787,134952
+hin,Hindi,"c(77, 25)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2021,Indo-European,25,77,72000,3072,144505
+hin,Hindi,"c(77, 25)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2022,Indo-European,25,77,58000,3617,151802
+hin,Hindi,"c(77, 25)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2023,Indo-European,25,77,139000,4226,154570
+hin,Hindi,"c(77, 25)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2024,Indo-European,25,77,211000,4883,160089
+hrv,Croatian,"c(15.982, 45.555)",HRV,Croatia,Europe & Central Asia,60752,4067500,14935.955746773203,Croatia,2024,high,2015,Indo-European,45.555,15.982,65000,195,150556
+hrv,Croatian,"c(15.982, 45.555)",HRV,Croatia,Europe & Central Asia,60752,4067500,14935.955746773203,Croatia,2024,high,2016,Indo-European,45.555,15.982,109000,195,160359
+hrv,Croatian,"c(15.982, 45.555)",HRV,Croatia,Europe & Central Asia,60752,4067500,14935.955746773203,Croatia,2024,high,2017,Indo-European,45.555,15.982,126000,242,171398
+hrv,Croatian,"c(15.982, 45.555)",HRV,Croatia,Europe & Central Asia,60752,4067500,14935.955746773203,Croatia,2024,high,2018,Indo-European,45.555,15.982,100000,260,181270
+hrv,Croatian,"c(15.982, 45.555)",HRV,Croatia,Europe & Central Asia,60752,4067500,14935.955746773203,Croatia,2024,high,2019,Indo-European,45.555,15.982,105000,285,201318
+hrv,Croatian,"c(15.982, 45.555)",HRV,Croatia,Europe & Central Asia,60752,4067500,14935.955746773203,Croatia,2024,high,2020,Indo-European,45.555,15.982,123000,306,213472
+hrv,Croatian,"c(15.982, 45.555)",HRV,Croatia,Europe & Central Asia,60752,4067500,14935.955746773203,Croatia,2024,high,2021,Indo-European,45.555,15.982,203000,301,224475
+hrv,Croatian,"c(15.982, 45.555)",HRV,Croatia,Europe & Central Asia,60752,4067500,14935.955746773203,Croatia,2024,high,2022,Indo-European,45.555,15.982,150000,310,209986
+hrv,Croatian,"c(15.982, 45.555)",HRV,Croatia,Europe & Central Asia,60752,4067500,14935.955746773203,Croatia,2024,high,2023,Indo-European,45.555,15.982,229000,344,213711
+hrv,Croatian,"c(15.982, 45.555)",HRV,Croatia,Europe & Central Asia,60752,4067500,14935.955746773203,Croatia,2024,high,2024,Indo-European,45.555,15.982,201000,320,218226
+hun,Hungarian,"c(19.6555271429, 46.9068585714)",HUN,Hungary,Europe & Central Asia,163469,9769949,16731.817126169237,Hungary,2024,high,2015,Uralic,46.9068585714,19.6555271429,202000,2472,275139
+hun,Hungarian,"c(19.6555271429, 46.9068585714)",HUN,Hungary,Europe & Central Asia,163469,9769949,16731.817126169237,Hungary,2024,high,2016,Uralic,46.9068585714,19.6555271429,552000,2536,377389
+hun,Hungarian,"c(19.6555271429, 46.9068585714)",HUN,Hungary,Europe & Central Asia,163469,9769949,16731.817126169237,Hungary,2024,high,2017,Uralic,46.9068585714,19.6555271429,380000,2527,400998
+hun,Hungarian,"c(19.6555271429, 46.9068585714)",HUN,Hungary,Europe & Central Asia,163469,9769949,16731.817126169237,Hungary,2024,high,2018,Uralic,46.9068585714,19.6555271429,320000,2582,423419
+hun,Hungarian,"c(19.6555271429, 46.9068585714)",HUN,Hungary,Europe & Central Asia,163469,9769949,16731.817126169237,Hungary,2024,high,2019,Uralic,46.9068585714,19.6555271429,415000,2627,441941
+hun,Hungarian,"c(19.6555271429, 46.9068585714)",HUN,Hungary,Europe & Central Asia,163469,9769949,16731.817126169237,Hungary,2024,high,2020,Uralic,46.9068585714,19.6555271429,409000,2731,462261
+hun,Hungarian,"c(19.6555271429, 46.9068585714)",HUN,Hungary,Europe & Central Asia,163469,9769949,16731.817126169237,Hungary,2024,high,2021,Uralic,46.9068585714,19.6555271429,642000,2834,480990
+hun,Hungarian,"c(19.6555271429, 46.9068585714)",HUN,Hungary,Europe & Central Asia,163469,9769949,16731.817126169237,Hungary,2024,high,2022,Uralic,46.9068585714,19.6555271429,437000,2992,497352
+hun,Hungarian,"c(19.6555271429, 46.9068585714)",HUN,Hungary,Europe & Central Asia,163469,9769949,16731.817126169237,Hungary,2024,high,2023,Uralic,46.9068585714,19.6555271429,550000,3210,517892
+hun,Hungarian,"c(19.6555271429, 46.9068585714)",HUN,Hungary,Europe & Central Asia,163469,9769949,16731.817126169237,Hungary,2024,high,2024,Uralic,46.9068585714,19.6555271429,519000,3382,534936
+hye,Armenian,"c(45, 40)",ARM,Armenia,Europe & Central Asia,13672,2957731,4622.46228612406,Armenia,2024,high,2015,Indo-European,40,45,14000,197,142631
+hye,Armenian,"c(45, 40)",ARM,Armenia,Europe & Central Asia,13672,2957731,4622.46228612406,Armenia,2024,high,2016,Indo-European,40,45,34000,196,192117
+hye,Armenian,"c(45, 40)",ARM,Armenia,Europe & Central Asia,13672,2957731,4622.46228612406,Armenia,2024,high,2017,Indo-European,40,45,45000,202,213237
+hye,Armenian,"c(45, 40)",ARM,Armenia,Europe & Central Asia,13672,2957731,4622.46228612406,Armenia,2024,high,2018,Indo-European,40,45,25000,200,236684
+hye,Armenian,"c(45, 40)",ARM,Armenia,Europe & Central Asia,13672,2957731,4622.46228612406,Armenia,2024,high,2019,Indo-European,40,45,32000,200,249856
+hye,Armenian,"c(45, 40)",ARM,Armenia,Europe & Central Asia,13672,2957731,4622.46228612406,Armenia,2024,high,2020,Indo-European,40,45,38000,210,261843
+hye,Armenian,"c(45, 40)",ARM,Armenia,Europe & Central Asia,13672,2957731,4622.46228612406,Armenia,2024,high,2021,Indo-European,40,45,91000,237,279553
+hye,Armenian,"c(45, 40)",ARM,Armenia,Europe & Central Asia,13672,2957731,4622.46228612406,Armenia,2024,high,2022,Indo-European,40,45,58000,246,289686
+hye,Armenian,"c(45, 40)",ARM,Armenia,Europe & Central Asia,13672,2957731,4622.46228612406,Armenia,2024,high,2023,Indo-European,40,45,63000,245,294195
+hye,Armenian,"c(45, 40)",ARM,Armenia,Europe & Central Asia,13672,2957731,4622.46228612406,Armenia,2024,high,2024,Indo-European,40,45,76000,267,304246
+ibo,Igbo,"c(7.23441, 4.62705)",NGA,Nigeria,Sub-Saharan Africa,448120,200963599,2229.856562232447,Nigeria,2024,low,2015,Atlantic-Congo,4.62705,7.23441,2000,591,1020
+ibo,Igbo,"c(7.23441, 4.62705)",NGA,Nigeria,Sub-Saharan Africa,448120,200963599,2229.856562232447,Nigeria,2024,low,2016,Atlantic-Congo,4.62705,7.23441,5000,646,1044
+ibo,Igbo,"c(7.23441, 4.62705)",NGA,Nigeria,Sub-Saharan Africa,448120,200963599,2229.856562232447,Nigeria,2024,low,2017,Atlantic-Congo,4.62705,7.23441,3000,663,1304
+ibo,Igbo,"c(7.23441, 4.62705)",NGA,Nigeria,Sub-Saharan Africa,448120,200963599,2229.856562232447,Nigeria,2024,low,2018,Atlantic-Congo,4.62705,7.23441,1000,721,1406
+ibo,Igbo,"c(7.23441, 4.62705)",NGA,Nigeria,Sub-Saharan Africa,448120,200963599,2229.856562232447,Nigeria,2024,low,2019,Atlantic-Congo,4.62705,7.23441,5000,797,1380
+ibo,Igbo,"c(7.23441, 4.62705)",NGA,Nigeria,Sub-Saharan Africa,448120,200963599,2229.856562232447,Nigeria,2024,low,2020,Atlantic-Congo,4.62705,7.23441,8000,831,1442
+ibo,Igbo,"c(7.23441, 4.62705)",NGA,Nigeria,Sub-Saharan Africa,448120,200963599,2229.856562232447,Nigeria,2024,low,2021,Atlantic-Congo,4.62705,7.23441,9000,939,2081
+ibo,Igbo,"c(7.23441, 4.62705)",NGA,Nigeria,Sub-Saharan Africa,448120,200963599,2229.856562232447,Nigeria,2024,low,2022,Atlantic-Congo,4.62705,7.23441,12000,1075,2702
+ibo,Igbo,"c(7.23441, 4.62705)",NGA,Nigeria,Sub-Saharan Africa,448120,200963599,2229.856562232447,Nigeria,2024,low,2023,Atlantic-Congo,4.62705,7.23441,14000,1311,13453
+ibo,Igbo,"c(7.23441, 4.62705)",NGA,Nigeria,Sub-Saharan Africa,448120,200963599,2229.856562232447,Nigeria,2024,low,2024,Atlantic-Congo,4.62705,7.23441,14000,1570,23321
+ind,Indonesian,"c(109.716, -7.33458)",IDN,Indonesia,East Asia & Pacific,1119190,270625568,4135.566377822808,Indonesia,2024,high,2015,Austronesian,-7.33458,109.716,53000,322,352666
+ind,Indonesian,"c(109.716, -7.33458)",IDN,Indonesia,East Asia & Pacific,1119190,270625568,4135.566377822808,Indonesia,2024,high,2016,Austronesian,-7.33458,109.716,116000,366,372341
+ind,Indonesian,"c(109.716, -7.33458)",IDN,Indonesia,East Asia & Pacific,1119190,270625568,4135.566377822808,Indonesia,2024,high,2017,Austronesian,-7.33458,109.716,116000,423,391229
+ind,Indonesian,"c(109.716, -7.33458)",IDN,Indonesia,East Asia & Pacific,1119190,270625568,4135.566377822808,Indonesia,2024,high,2018,Austronesian,-7.33458,109.716,63000,495,418427
+ind,Indonesian,"c(109.716, -7.33458)",IDN,Indonesia,East Asia & Pacific,1119190,270625568,4135.566377822808,Indonesia,2024,high,2019,Austronesian,-7.33458,109.716,112000,568,448901
+ind,Indonesian,"c(109.716, -7.33458)",IDN,Indonesia,East Asia & Pacific,1119190,270625568,4135.566377822808,Indonesia,2024,high,2020,Austronesian,-7.33458,109.716,159000,608,514490
+ind,Indonesian,"c(109.716, -7.33458)",IDN,Indonesia,East Asia & Pacific,1119190,270625568,4135.566377822808,Indonesia,2024,high,2021,Austronesian,-7.33458,109.716,415000,644,555300
+ind,Indonesian,"c(109.716, -7.33458)",IDN,Indonesia,East Asia & Pacific,1119190,270625568,4135.566377822808,Indonesia,2024,high,2022,Austronesian,-7.33458,109.716,218000,706,609917
+ind,Indonesian,"c(109.716, -7.33458)",IDN,Indonesia,East Asia & Pacific,1119190,270625568,4135.566377822808,Indonesia,2024,high,2023,Austronesian,-7.33458,109.716,422000,781,635958
+ind,Indonesian,"c(109.716, -7.33458)",IDN,Indonesia,East Asia & Pacific,1119190,270625568,4135.566377822808,Indonesia,2024,high,2024,Austronesian,-7.33458,109.716,277000,830,677490
+isl,Icelandic,"c(-19.0212, 63.4837)",ISL,Iceland,Europe & Central Asia,24188,361313,66944.72659439323,Iceland,2024,high,2015,Indo-European,63.4837,-19.0212,27000,76,38491
+isl,Icelandic,"c(-19.0212, 63.4837)",ISL,Iceland,Europe & Central Asia,24188,361313,66944.72659439323,Iceland,2024,high,2016,Indo-European,63.4837,-19.0212,79000,86,40143
+isl,Icelandic,"c(-19.0212, 63.4837)",ISL,Iceland,Europe & Central Asia,24188,361313,66944.72659439323,Iceland,2024,high,2017,Indo-European,63.4837,-19.0212,47000,78,41559
+isl,Icelandic,"c(-19.0212, 63.4837)",ISL,Iceland,Europe & Central Asia,24188,361313,66944.72659439323,Iceland,2024,high,2018,Indo-European,63.4837,-19.0212,37000,70,44043
+isl,Icelandic,"c(-19.0212, 63.4837)",ISL,Iceland,Europe & Central Asia,24188,361313,66944.72659439323,Iceland,2024,high,2019,Indo-European,63.4837,-19.0212,41000,75,46088
+isl,Icelandic,"c(-19.0212, 63.4837)",ISL,Iceland,Europe & Central Asia,24188,361313,66944.72659439323,Iceland,2024,high,2020,Indo-European,63.4837,-19.0212,50000,73,48706
+isl,Icelandic,"c(-19.0212, 63.4837)",ISL,Iceland,Europe & Central Asia,24188,361313,66944.72659439323,Iceland,2024,high,2021,Indo-European,63.4837,-19.0212,58000,87,51366
+isl,Icelandic,"c(-19.0212, 63.4837)",ISL,Iceland,Europe & Central Asia,24188,361313,66944.72659439323,Iceland,2024,high,2022,Indo-European,63.4837,-19.0212,55000,80,53643
+isl,Icelandic,"c(-19.0212, 63.4837)",ISL,Iceland,Europe & Central Asia,24188,361313,66944.72659439323,Iceland,2024,high,2023,Indo-European,63.4837,-19.0212,104000,80,55404
+isl,Icelandic,"c(-19.0212, 63.4837)",ISL,Iceland,Europe & Central Asia,24188,361313,66944.72659439323,Iceland,2024,high,2024,Indo-European,63.4837,-19.0212,95000,91,57683
+ita,Italian,"c(12.6489, 43.0464)",ITA,Italy,Europe & Central Asia,2003576,60297396,33228.23426736372,Italy,2024,high,2015,Indo-European,43.0464,12.6489,1349000,2201,1166340
+ita,Italian,"c(12.6489, 43.0464)",ITA,Italy,Europe & Central Asia,2003576,60297396,33228.23426736372,Italy,2024,high,2016,Indo-European,43.0464,12.6489,2067000,2356,1244483
+ita,Italian,"c(12.6489, 43.0464)",ITA,Italy,Europe & Central Asia,2003576,60297396,33228.23426736372,Italy,2024,high,2017,Indo-European,43.0464,12.6489,1920000,2509,1321845
+ita,Italian,"c(12.6489, 43.0464)",ITA,Italy,Europe & Central Asia,2003576,60297396,33228.23426736372,Italy,2024,high,2018,Indo-European,43.0464,12.6489,1668000,2597,1405944
+ita,Italian,"c(12.6489, 43.0464)",ITA,Italy,Europe & Central Asia,2003576,60297396,33228.23426736372,Italy,2024,high,2019,Indo-European,43.0464,12.6489,1693000,2708,1489959
+ita,Italian,"c(12.6489, 43.0464)",ITA,Italy,Europe & Central Asia,2003576,60297396,33228.23426736372,Italy,2024,high,2020,Indo-European,43.0464,12.6489,1733000,2850,1574822
+ita,Italian,"c(12.6489, 43.0464)",ITA,Italy,Europe & Central Asia,2003576,60297396,33228.23426736372,Italy,2024,high,2021,Indo-European,43.0464,12.6489,2422000,3085,1662793
+ita,Italian,"c(12.6489, 43.0464)",ITA,Italy,Europe & Central Asia,2003576,60297396,33228.23426736372,Italy,2024,high,2022,Indo-European,43.0464,12.6489,1969000,3206,1733514
+ita,Italian,"c(12.6489, 43.0464)",ITA,Italy,Europe & Central Asia,2003576,60297396,33228.23426736372,Italy,2024,high,2023,Indo-European,43.0464,12.6489,2511000,3367,1788681
+ita,Italian,"c(12.6489, 43.0464)",ITA,Italy,Europe & Central Asia,2003576,60297396,33228.23426736372,Italy,2024,high,2024,Indo-European,43.0464,12.6489,2386000,3566,1841501
+jpn,Japanese,"c(135, 35)",JPN,Japan,East Asia & Pacific,5081769,126264931,40246.87583284705,Japan,2024,high,2015,Japonic,35,135,748000,1044,940163
+jpn,Japanese,"c(135, 35)",JPN,Japan,East Asia & Pacific,5081769,126264931,40246.87583284705,Japan,2024,high,2016,Japonic,35,135,1194000,1105,997513
+jpn,Japanese,"c(135, 35)",JPN,Japan,East Asia & Pacific,5081769,126264931,40246.87583284705,Japan,2024,high,2017,Japonic,35,135,1230000,1156,1043755
+jpn,Japanese,"c(135, 35)",JPN,Japan,East Asia & Pacific,5081769,126264931,40246.87583284705,Japan,2024,high,2018,Japonic,35,135,1754000,1283,1089673
+jpn,Japanese,"c(135, 35)",JPN,Japan,East Asia & Pacific,5081769,126264931,40246.87583284705,Japan,2024,high,2019,Japonic,35,135,1300000,1387,1134062
+jpn,Japanese,"c(135, 35)",JPN,Japan,East Asia & Pacific,5081769,126264931,40246.87583284705,Japan,2024,high,2020,Japonic,35,135,1453000,1442,1183296
+jpn,Japanese,"c(135, 35)",JPN,Japan,East Asia & Pacific,5081769,126264931,40246.87583284705,Japan,2024,high,2021,Japonic,35,135,1992000,1471,1245838
+jpn,Japanese,"c(135, 35)",JPN,Japan,East Asia & Pacific,5081769,126264931,40246.87583284705,Japan,2024,high,2022,Japonic,35,135,1530000,1554,1307396
+jpn,Japanese,"c(135, 35)",JPN,Japan,East Asia & Pacific,5081769,126264931,40246.87583284705,Japan,2024,high,2023,Japonic,35,135,1436000,1636,1356267
+jpn,Japanese,"c(135, 35)",JPN,Japan,East Asia & Pacific,5081769,126264931,40246.87583284705,Japan,2024,high,2024,Japonic,35,135,1431000,1736,1398222
+kan,Kannada,"c(76.1198, 13.5878)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2015,Dravidian,13.5878,76.1198,6000,148,17325
+kan,Kannada,"c(76.1198, 13.5878)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2016,Dravidian,13.5878,76.1198,14000,153,18769
+kan,Kannada,"c(76.1198, 13.5878)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2017,Dravidian,13.5878,76.1198,18000,147,21570
+kan,Kannada,"c(76.1198, 13.5878)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2018,Dravidian,13.5878,76.1198,12000,167,22853
+kan,Kannada,"c(76.1198, 13.5878)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2019,Dravidian,13.5878,76.1198,14000,232,24048
+kan,Kannada,"c(76.1198, 13.5878)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2020,Dravidian,13.5878,76.1198,17000,236,25398
+kan,Kannada,"c(76.1198, 13.5878)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2021,Dravidian,13.5878,76.1198,18000,251,26723
+kan,Kannada,"c(76.1198, 13.5878)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2022,Dravidian,13.5878,76.1198,25000,328,27684
+kan,Kannada,"c(76.1198, 13.5878)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2023,Dravidian,13.5878,76.1198,19000,404,29398
+kan,Kannada,"c(76.1198, 13.5878)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2024,Dravidian,13.5878,76.1198,20000,471,30979
+kat,Georgian,"c(43.78613, 41.850397)",GEO,Georgia,Europe & Central Asia,17477,3720382,4697.635887927638,Georgia,2024,high,2015,Kartvelian,41.850397,43.78613,16000,106,87412
+kat,Georgian,"c(43.78613, 41.850397)",GEO,Georgia,Europe & Central Asia,17477,3720382,4697.635887927638,Georgia,2024,high,2016,Kartvelian,41.850397,43.78613,33000,113,101924
+kat,Georgian,"c(43.78613, 41.850397)",GEO,Georgia,Europe & Central Asia,17477,3720382,4697.635887927638,Georgia,2024,high,2017,Kartvelian,41.850397,43.78613,37000,128,111537
+kat,Georgian,"c(43.78613, 41.850397)",GEO,Georgia,Europe & Central Asia,17477,3720382,4697.635887927638,Georgia,2024,high,2018,Kartvelian,41.850397,43.78613,23000,138,119833
+kat,Georgian,"c(43.78613, 41.850397)",GEO,Georgia,Europe & Central Asia,17477,3720382,4697.635887927638,Georgia,2024,high,2019,Kartvelian,41.850397,43.78613,30000,149,126074
+kat,Georgian,"c(43.78613, 41.850397)",GEO,Georgia,Europe & Central Asia,17477,3720382,4697.635887927638,Georgia,2024,high,2020,Kartvelian,41.850397,43.78613,33000,177,134091
+kat,Georgian,"c(43.78613, 41.850397)",GEO,Georgia,Europe & Central Asia,17477,3720382,4697.635887927638,Georgia,2024,high,2021,Kartvelian,41.850397,43.78613,65000,186,146853
+kat,Georgian,"c(43.78613, 41.850397)",GEO,Georgia,Europe & Central Asia,17477,3720382,4697.635887927638,Georgia,2024,high,2022,Kartvelian,41.850397,43.78613,49000,243,158084
+kat,Georgian,"c(43.78613, 41.850397)",GEO,Georgia,Europe & Central Asia,17477,3720382,4697.635887927638,Georgia,2024,high,2023,Kartvelian,41.850397,43.78613,74000,286,164843
+kat,Georgian,"c(43.78613, 41.850397)",GEO,Georgia,Europe & Central Asia,17477,3720382,4697.635887927638,Georgia,2024,high,2024,Kartvelian,41.850397,43.78613,50000,296,170230
+kaz,Kazakh,"c(71.454, 51.17)",KAZ,Kazakhstan,Europe & Central Asia,181665,18513930,9812.341301927792,Kazakhstan,2024,high,2015,Turkic,51.17,71.454,16000,29,209888
+kaz,Kazakh,"c(71.454, 51.17)",KAZ,Kazakhstan,Europe & Central Asia,181665,18513930,9812.341301927792,Kazakhstan,2024,high,2016,Turkic,51.17,71.454,33000,35,213822
+kaz,Kazakh,"c(71.454, 51.17)",KAZ,Kazakhstan,Europe & Central Asia,181665,18513930,9812.341301927792,Kazakhstan,2024,high,2017,Turkic,51.17,71.454,37000,58,217597
+kaz,Kazakh,"c(71.454, 51.17)",KAZ,Kazakhstan,Europe & Central Asia,181665,18513930,9812.341301927792,Kazakhstan,2024,high,2018,Turkic,51.17,71.454,19000,68,220432
+kaz,Kazakh,"c(71.454, 51.17)",KAZ,Kazakhstan,Europe & Central Asia,181665,18513930,9812.341301927792,Kazakhstan,2024,high,2019,Turkic,51.17,71.454,33000,88,223485
+kaz,Kazakh,"c(71.454, 51.17)",KAZ,Kazakhstan,Europe & Central Asia,181665,18513930,9812.341301927792,Kazakhstan,2024,high,2020,Turkic,51.17,71.454,48000,99,225895
+kaz,Kazakh,"c(71.454, 51.17)",KAZ,Kazakhstan,Europe & Central Asia,181665,18513930,9812.341301927792,Kazakhstan,2024,high,2021,Turkic,51.17,71.454,184000,115,227796
+kaz,Kazakh,"c(71.454, 51.17)",KAZ,Kazakhstan,Europe & Central Asia,181665,18513930,9812.341301927792,Kazakhstan,2024,high,2022,Turkic,51.17,71.454,42000,165,230382
+kaz,Kazakh,"c(71.454, 51.17)",KAZ,Kazakhstan,Europe & Central Asia,181665,18513930,9812.341301927792,Kazakhstan,2024,high,2023,Turkic,51.17,71.454,42000,229,232656
+kaz,Kazakh,"c(71.454, 51.17)",KAZ,Kazakhstan,Europe & Central Asia,181665,18513930,9812.341301927792,Kazakhstan,2024,high,2024,Turkic,51.17,71.454,51000,265,235685
+khk,Mongolian,"c(106.28874, 48.32397)",MNG,Mongolia,East Asia & Pacific,13996,3225167,4339.620242920754,Mongolia,2024,high,2015,Mongolic-Khitan,48.32397,106.28874,8000,20,13899
+khk,Mongolian,"c(106.28874, 48.32397)",MNG,Mongolia,East Asia & Pacific,13996,3225167,4339.620242920754,Mongolia,2024,high,2016,Mongolic-Khitan,48.32397,106.28874,16000,23,15108
+khk,Mongolian,"c(106.28874, 48.32397)",MNG,Mongolia,East Asia & Pacific,13996,3225167,4339.620242920754,Mongolia,2024,high,2017,Mongolic-Khitan,48.32397,106.28874,18000,34,16323
+khk,Mongolian,"c(106.28874, 48.32397)",MNG,Mongolia,East Asia & Pacific,13996,3225167,4339.620242920754,Mongolia,2024,high,2018,Mongolic-Khitan,48.32397,106.28874,13000,25,17735
+khk,Mongolian,"c(106.28874, 48.32397)",MNG,Mongolia,East Asia & Pacific,13996,3225167,4339.620242920754,Mongolia,2024,high,2019,Mongolic-Khitan,48.32397,106.28874,14000,38,18426
+khk,Mongolian,"c(106.28874, 48.32397)",MNG,Mongolia,East Asia & Pacific,13996,3225167,4339.620242920754,Mongolia,2024,high,2020,Mongolic-Khitan,48.32397,106.28874,17000,45,18979
+khk,Mongolian,"c(106.28874, 48.32397)",MNG,Mongolia,East Asia & Pacific,13996,3225167,4339.620242920754,Mongolia,2024,high,2021,Mongolic-Khitan,48.32397,106.28874,21000,49,20077
+khk,Mongolian,"c(106.28874, 48.32397)",MNG,Mongolia,East Asia & Pacific,13996,3225167,4339.620242920754,Mongolia,2024,high,2022,Mongolic-Khitan,48.32397,106.28874,21000,63,20952
+khk,Mongolian,"c(106.28874, 48.32397)",MNG,Mongolia,East Asia & Pacific,13996,3225167,4339.620242920754,Mongolia,2024,high,2023,Mongolic-Khitan,48.32397,106.28874,23000,93,21759
+khk,Mongolian,"c(106.28874, 48.32397)",MNG,Mongolia,East Asia & Pacific,13996,3225167,4339.620242920754,Mongolia,2024,high,2024,Mongolic-Khitan,48.32397,106.28874,22000,124,22907
+khm,Central Khmer,"c(105.015, 12.0515)",KHM,Cambodia,East Asia & Pacific,27089,16486542,1643.0977460282454,Cambodia,2024,low,2015,Austroasiatic,12.0515,105.015,3000,241,4512
+khm,Central Khmer,"c(105.015, 12.0515)",KHM,Cambodia,East Asia & Pacific,27089,16486542,1643.0977460282454,Cambodia,2024,low,2016,Austroasiatic,12.0515,105.015,8000,253,4785
+khm,Central Khmer,"c(105.015, 12.0515)",KHM,Cambodia,East Asia & Pacific,27089,16486542,1643.0977460282454,Cambodia,2024,low,2017,Austroasiatic,12.0515,105.015,9000,253,5007
+khm,Central Khmer,"c(105.015, 12.0515)",KHM,Cambodia,East Asia & Pacific,27089,16486542,1643.0977460282454,Cambodia,2024,low,2018,Austroasiatic,12.0515,105.015,10000,268,6211
+khm,Central Khmer,"c(105.015, 12.0515)",KHM,Cambodia,East Asia & Pacific,27089,16486542,1643.0977460282454,Cambodia,2024,low,2019,Austroasiatic,12.0515,105.015,12000,284,7073
+khm,Central Khmer,"c(105.015, 12.0515)",KHM,Cambodia,East Asia & Pacific,27089,16486542,1643.0977460282454,Cambodia,2024,low,2020,Austroasiatic,12.0515,105.015,15000,291,7900
+khm,Central Khmer,"c(105.015, 12.0515)",KHM,Cambodia,East Asia & Pacific,27089,16486542,1643.0977460282454,Cambodia,2024,low,2021,Austroasiatic,12.0515,105.015,13000,289,8350
+khm,Central Khmer,"c(105.015, 12.0515)",KHM,Cambodia,East Asia & Pacific,27089,16486542,1643.0977460282454,Cambodia,2024,low,2022,Austroasiatic,12.0515,105.015,14000,288,8593
+khm,Central Khmer,"c(105.015, 12.0515)",KHM,Cambodia,East Asia & Pacific,27089,16486542,1643.0977460282454,Cambodia,2024,low,2023,Austroasiatic,12.0515,105.015,14000,298,9840
+khm,Central Khmer,"c(105.015, 12.0515)",KHM,Cambodia,East Asia & Pacific,27089,16486542,1643.0977460282454,Cambodia,2024,low,2024,Austroasiatic,12.0515,105.015,16000,300,10386
+kik,Kikuyu,"c(36.719, -0.29005)",KEN,Kenya,Sub-Saharan Africa,95503,52573973,1816.5452323719192,Kenya,2024,low,2015,Atlantic-Congo,-0.29005,36.719,1000,186,378
+kik,Kikuyu,"c(36.719, -0.29005)",KEN,Kenya,Sub-Saharan Africa,95503,52573973,1816.5452323719192,Kenya,2024,low,2016,Atlantic-Congo,-0.29005,36.719,2000,199,398
+kik,Kikuyu,"c(36.719, -0.29005)",KEN,Kenya,Sub-Saharan Africa,95503,52573973,1816.5452323719192,Kenya,2024,low,2017,Atlantic-Congo,-0.29005,36.719,2000,194,1337
+kik,Kikuyu,"c(36.719, -0.29005)",KEN,Kenya,Sub-Saharan Africa,95503,52573973,1816.5452323719192,Kenya,2024,low,2019,Atlantic-Congo,-0.29005,36.719,2000,200,1358
+kik,Kikuyu,"c(36.719, -0.29005)",KEN,Kenya,Sub-Saharan Africa,95503,52573973,1816.5452323719192,Kenya,2024,low,2020,Atlantic-Congo,-0.29005,36.719,5000,196,1366
+kik,Kikuyu,"c(36.719, -0.29005)",KEN,Kenya,Sub-Saharan Africa,95503,52573973,1816.5452323719192,Kenya,2024,low,2021,Atlantic-Congo,-0.29005,36.719,7000,221,1369
+kik,Kikuyu,"c(36.719, -0.29005)",KEN,Kenya,Sub-Saharan Africa,95503,52573973,1816.5452323719192,Kenya,2024,low,2022,Atlantic-Congo,-0.29005,36.719,5000,236,1501
+kik,Kikuyu,"c(36.719, -0.29005)",KEN,Kenya,Sub-Saharan Africa,95503,52573973,1816.5452323719192,Kenya,2024,low,2023,Atlantic-Congo,-0.29005,36.719,11000,253,1502
+kik,Kikuyu,"c(36.719, -0.29005)",KEN,Kenya,Sub-Saharan Africa,95503,52573973,1816.5452323719192,Kenya,2024,low,2024,Atlantic-Congo,-0.29005,36.719,8000,260,1601
+kin,Kinyarwanda,"c(29.6441, -1.56771)",RWA,Rwanda,Sub-Saharan Africa,10354,12626950,819.9921596268299,Rwanda,2024,low,2015,Atlantic-Congo,-1.56771,29.6441,2000,851,1844
+kin,Kinyarwanda,"c(29.6441, -1.56771)",RWA,Rwanda,Sub-Saharan Africa,10354,12626950,819.9921596268299,Rwanda,2024,low,2016,Atlantic-Congo,-1.56771,29.6441,6000,896,1785
+kin,Kinyarwanda,"c(29.6441, -1.56771)",RWA,Rwanda,Sub-Saharan Africa,10354,12626950,819.9921596268299,Rwanda,2024,low,2017,Atlantic-Congo,-1.56771,29.6441,5000,947,1800
+kin,Kinyarwanda,"c(29.6441, -1.56771)",RWA,Rwanda,Sub-Saharan Africa,10354,12626950,819.9921596268299,Rwanda,2024,low,2018,Atlantic-Congo,-1.56771,29.6441,1000,992,1814
+kin,Kinyarwanda,"c(29.6441, -1.56771)",RWA,Rwanda,Sub-Saharan Africa,10354,12626950,819.9921596268299,Rwanda,2024,low,2019,Atlantic-Congo,-1.56771,29.6441,8000,1051,1822
+kin,Kinyarwanda,"c(29.6441, -1.56771)",RWA,Rwanda,Sub-Saharan Africa,10354,12626950,819.9921596268299,Rwanda,2024,low,2020,Atlantic-Congo,-1.56771,29.6441,12000,1127,1821
+kin,Kinyarwanda,"c(29.6441, -1.56771)",RWA,Rwanda,Sub-Saharan Africa,10354,12626950,819.9921596268299,Rwanda,2024,low,2021,Atlantic-Congo,-1.56771,29.6441,12000,1178,1960
+kin,Kinyarwanda,"c(29.6441, -1.56771)",RWA,Rwanda,Sub-Saharan Africa,10354,12626950,819.9921596268299,Rwanda,2024,low,2022,Atlantic-Congo,-1.56771,29.6441,12000,1340,2883
+kin,Kinyarwanda,"c(29.6441, -1.56771)",RWA,Rwanda,Sub-Saharan Africa,10354,12626950,819.9921596268299,Rwanda,2024,low,2023,Atlantic-Congo,-1.56771,29.6441,14000,1501,3926
+kin,Kinyarwanda,"c(29.6441, -1.56771)",RWA,Rwanda,Sub-Saharan Africa,10354,12626950,819.9921596268299,Rwanda,2024,low,2024,Atlantic-Congo,-1.56771,29.6441,15000,1736,6636
+kng,Kongo,"c(14.4771, -5.57722)",COD,Dem. Rep. Congo,Sub-Saharan Africa,50400,86790567,580.708269828448,Democratic Republic of Congo,2024,low,2015,Atlantic-Congo,-5.57722,14.4771,2000,131,885
+kng,Kongo,"c(14.4771, -5.57722)",COD,Dem. Rep. Congo,Sub-Saharan Africa,50400,86790567,580.708269828448,Democratic Republic of Congo,2024,low,2016,Atlantic-Congo,-5.57722,14.4771,6000,128,1116
+kng,Kongo,"c(14.4771, -5.57722)",COD,Dem. Rep. Congo,Sub-Saharan Africa,50400,86790567,580.708269828448,Democratic Republic of Congo,2024,low,2017,Atlantic-Congo,-5.57722,14.4771,8000,129,1173
+kng,Kongo,"c(14.4771, -5.57722)",COD,Dem. Rep. Congo,Sub-Saharan Africa,50400,86790567,580.708269828448,Democratic Republic of Congo,2024,low,2018,Atlantic-Congo,-5.57722,14.4771,2000,124,1177
+kng,Kongo,"c(14.4771, -5.57722)",COD,Dem. Rep. Congo,Sub-Saharan Africa,50400,86790567,580.708269828448,Democratic Republic of Congo,2024,low,2019,Atlantic-Congo,-5.57722,14.4771,5000,127,1184
+kng,Kongo,"c(14.4771, -5.57722)",COD,Dem. Rep. Congo,Sub-Saharan Africa,50400,86790567,580.708269828448,Democratic Republic of Congo,2024,low,2020,Atlantic-Congo,-5.57722,14.4771,8000,125,1198
+kng,Kongo,"c(14.4771, -5.57722)",COD,Dem. Rep. Congo,Sub-Saharan Africa,50400,86790567,580.708269828448,Democratic Republic of Congo,2024,low,2021,Atlantic-Congo,-5.57722,14.4771,11000,124,1222
+kng,Kongo,"c(14.4771, -5.57722)",COD,Dem. Rep. Congo,Sub-Saharan Africa,50400,86790567,580.708269828448,Democratic Republic of Congo,2024,low,2022,Atlantic-Congo,-5.57722,14.4771,11000,120,1243
+kng,Kongo,"c(14.4771, -5.57722)",COD,Dem. Rep. Congo,Sub-Saharan Africa,50400,86790567,580.708269828448,Democratic Republic of Congo,2024,low,2023,Atlantic-Congo,-5.57722,14.4771,11000,123,1261
+kng,Kongo,"c(14.4771, -5.57722)",COD,Dem. Rep. Congo,Sub-Saharan Africa,50400,86790567,580.708269828448,Democratic Republic of Congo,2024,low,2024,Atlantic-Congo,-5.57722,14.4771,9000,116,1286
+kor,Korean,"c(126.98, 37.54)",KOR,South Korea,East Asia & Pacific,1646739,51709098,31846.213987333525,South Korea,2024,high,2015,Koreanic,37.54,126.98,82000,544,299684
+kor,Korean,"c(126.98, 37.54)",KOR,South Korea,East Asia & Pacific,1646739,51709098,31846.213987333525,South Korea,2024,high,2016,Koreanic,37.54,126.98,160000,596,337262
+kor,Korean,"c(126.98, 37.54)",KOR,South Korea,East Asia & Pacific,1646739,51709098,31846.213987333525,South Korea,2024,high,2017,Koreanic,37.54,126.98,193000,643,368581
+kor,Korean,"c(126.98, 37.54)",KOR,South Korea,East Asia & Pacific,1646739,51709098,31846.213987333525,South Korea,2024,high,2018,Koreanic,37.54,126.98,143000,742,405697
+kor,Korean,"c(126.98, 37.54)",KOR,South Korea,East Asia & Pacific,1646739,51709098,31846.213987333525,South Korea,2024,high,2019,Koreanic,37.54,126.98,152000,764,438585
+kor,Korean,"c(126.98, 37.54)",KOR,South Korea,East Asia & Pacific,1646739,51709098,31846.213987333525,South Korea,2024,high,2020,Koreanic,37.54,126.98,163000,833,478960
+kor,Korean,"c(126.98, 37.54)",KOR,South Korea,East Asia & Pacific,1646739,51709098,31846.213987333525,South Korea,2024,high,2021,Koreanic,37.54,126.98,329000,890,529117
+kor,Korean,"c(126.98, 37.54)",KOR,South Korea,East Asia & Pacific,1646739,51709098,31846.213987333525,South Korea,2024,high,2022,Koreanic,37.54,126.98,234000,906,571975
+kor,Korean,"c(126.98, 37.54)",KOR,South Korea,East Asia & Pacific,1646739,51709098,31846.213987333525,South Korea,2024,high,2023,Koreanic,37.54,126.98,285000,958,618210
+kor,Korean,"c(126.98, 37.54)",KOR,South Korea,East Asia & Pacific,1646739,51709098,31846.213987333525,South Korea,2024,high,2024,Koreanic,37.54,126.98,333000,950,655245
+lin,Lingala,"c(15.28532, -4.409174)",COD,Dem. Rep. Congo,Sub-Saharan Africa,50400,86790567,580.708269828448,Democratic Republic of Congo,2024,low,2015,Atlantic-Congo,-4.409174,15.28532,7000,798,2096
+lin,Lingala,"c(15.28532, -4.409174)",COD,Dem. Rep. Congo,Sub-Saharan Africa,50400,86790567,580.708269828448,Democratic Republic of Congo,2024,low,2016,Atlantic-Congo,-4.409174,15.28532,13000,834,2081
+lin,Lingala,"c(15.28532, -4.409174)",COD,Dem. Rep. Congo,Sub-Saharan Africa,50400,86790567,580.708269828448,Democratic Republic of Congo,2024,low,2017,Atlantic-Congo,-4.409174,15.28532,17000,827,2778
+lin,Lingala,"c(15.28532, -4.409174)",COD,Dem. Rep. Congo,Sub-Saharan Africa,50400,86790567,580.708269828448,Democratic Republic of Congo,2024,low,2018,Atlantic-Congo,-4.409174,15.28532,11000,829,2927
+lin,Lingala,"c(15.28532, -4.409174)",COD,Dem. Rep. Congo,Sub-Saharan Africa,50400,86790567,580.708269828448,Democratic Republic of Congo,2024,low,2019,Atlantic-Congo,-4.409174,15.28532,12000,844,3048
+lin,Lingala,"c(15.28532, -4.409174)",COD,Dem. Rep. Congo,Sub-Saharan Africa,50400,86790567,580.708269828448,Democratic Republic of Congo,2024,low,2020,Atlantic-Congo,-4.409174,15.28532,15000,853,3129
+lin,Lingala,"c(15.28532, -4.409174)",COD,Dem. Rep. Congo,Sub-Saharan Africa,50400,86790567,580.708269828448,Democratic Republic of Congo,2024,low,2021,Atlantic-Congo,-4.409174,15.28532,13000,859,3180
+lin,Lingala,"c(15.28532, -4.409174)",COD,Dem. Rep. Congo,Sub-Saharan Africa,50400,86790567,580.708269828448,Democratic Republic of Congo,2024,low,2022,Atlantic-Congo,-4.409174,15.28532,12000,870,3257
+lin,Lingala,"c(15.28532, -4.409174)",COD,Dem. Rep. Congo,Sub-Saharan Africa,50400,86790567,580.708269828448,Democratic Republic of Congo,2024,low,2023,Atlantic-Congo,-4.409174,15.28532,13000,909,3302
+lin,Lingala,"c(15.28532, -4.409174)",COD,Dem. Rep. Congo,Sub-Saharan Africa,50400,86790567,580.708269828448,Democratic Republic of Congo,2024,low,2024,Atlantic-Congo,-4.409174,15.28532,14000,949,3578
+lit,Lithuanian,"c(23.9601, 55.1429)",LTU,Lithuania,Europe & Central Asia,54627,2786844,19601.743046973566,Lithuania,2024,high,2015,Indo-European,55.1429,23.9601,73000,936,169399
+lit,Lithuanian,"c(23.9601, 55.1429)",LTU,Lithuania,Europe & Central Asia,54627,2786844,19601.743046973566,Lithuania,2024,high,2016,Indo-European,55.1429,23.9601,210000,1013,175244
+lit,Lithuanian,"c(23.9601, 55.1429)",LTU,Lithuania,Europe & Central Asia,54627,2786844,19601.743046973566,Lithuania,2024,high,2017,Indo-European,55.1429,23.9601,212000,1098,180539
+lit,Lithuanian,"c(23.9601, 55.1429)",LTU,Lithuania,Europe & Central Asia,54627,2786844,19601.743046973566,Lithuania,2024,high,2018,Indo-European,55.1429,23.9601,120000,1164,185418
+lit,Lithuanian,"c(23.9601, 55.1429)",LTU,Lithuania,Europe & Central Asia,54627,2786844,19601.743046973566,Lithuania,2024,high,2019,Indo-European,55.1429,23.9601,139000,1241,193287
+lit,Lithuanian,"c(23.9601, 55.1429)",LTU,Lithuania,Europe & Central Asia,54627,2786844,19601.743046973566,Lithuania,2024,high,2020,Indo-European,55.1429,23.9601,157000,1318,197614
+lit,Lithuanian,"c(23.9601, 55.1429)",LTU,Lithuania,Europe & Central Asia,54627,2786844,19601.743046973566,Lithuania,2024,high,2021,Indo-European,55.1429,23.9601,352000,1408,200816
+lit,Lithuanian,"c(23.9601, 55.1429)",LTU,Lithuania,Europe & Central Asia,54627,2786844,19601.743046973566,Lithuania,2024,high,2022,Indo-European,55.1429,23.9601,183000,1527,201336
+lit,Lithuanian,"c(23.9601, 55.1429)",LTU,Lithuania,Europe & Central Asia,54627,2786844,19601.743046973566,Lithuania,2024,high,2023,Indo-European,55.1429,23.9601,266000,1626,206326
+lit,Lithuanian,"c(23.9601, 55.1429)",LTU,Lithuania,Europe & Central Asia,54627,2786844,19601.743046973566,Lithuania,2024,high,2024,Indo-European,55.1429,23.9601,279000,1727,214849
+lug,Ganda,"c(32.15153, 0.66884)",UGA,Uganda,Sub-Saharan Africa,35165,44269594,794.3375310828466,Uganda,2024,low,2015,Atlantic-Congo,0.66884,32.15153,1000,59,360
+lug,Ganda,"c(32.15153, 0.66884)",UGA,Uganda,Sub-Saharan Africa,35165,44269594,794.3375310828466,Uganda,2024,low,2016,Atlantic-Congo,0.66884,32.15153,3000,63,707
+lug,Ganda,"c(32.15153, 0.66884)",UGA,Uganda,Sub-Saharan Africa,35165,44269594,794.3375310828466,Uganda,2024,low,2017,Atlantic-Congo,0.66884,32.15153,1000,81,1098
+lug,Ganda,"c(32.15153, 0.66884)",UGA,Uganda,Sub-Saharan Africa,35165,44269594,794.3375310828466,Uganda,2024,low,2019,Atlantic-Congo,0.66884,32.15153,2000,83,1154
+lug,Ganda,"c(32.15153, 0.66884)",UGA,Uganda,Sub-Saharan Africa,35165,44269594,794.3375310828466,Uganda,2024,low,2020,Atlantic-Congo,0.66884,32.15153,6000,99,1178
+lug,Ganda,"c(32.15153, 0.66884)",UGA,Uganda,Sub-Saharan Africa,35165,44269594,794.3375310828466,Uganda,2024,low,2021,Atlantic-Congo,0.66884,32.15153,12000,106,1225
+lug,Ganda,"c(32.15153, 0.66884)",UGA,Uganda,Sub-Saharan Africa,35165,44269594,794.3375310828466,Uganda,2024,low,2022,Atlantic-Congo,0.66884,32.15153,8000,128,1376
+lug,Ganda,"c(32.15153, 0.66884)",UGA,Uganda,Sub-Saharan Africa,35165,44269594,794.3375310828466,Uganda,2024,low,2023,Atlantic-Congo,0.66884,32.15153,12000,135,1707
+lug,Ganda,"c(32.15153, 0.66884)",UGA,Uganda,Sub-Saharan Africa,35165,44269594,794.3375310828466,Uganda,2024,low,2024,Atlantic-Congo,0.66884,32.15153,11000,143,2872
+lvs,Latvian,"c(24, 57)",LVA,Latvia,Europe & Central Asia,34102,1912789,17828.417039202966,Latvia,2024,high,2015,Indo-European,57,24,53000,1121,57870
+lvs,Latvian,"c(24, 57)",LVA,Latvia,Europe & Central Asia,34102,1912789,17828.417039202966,Latvia,2024,high,2016,Indo-European,57,24,103000,1266,64702
+lvs,Latvian,"c(24, 57)",LVA,Latvia,Europe & Central Asia,34102,1912789,17828.417039202966,Latvia,2024,high,2017,Indo-European,57,24,110000,1472,74708
+lvs,Latvian,"c(24, 57)",LVA,Latvia,Europe & Central Asia,34102,1912789,17828.417039202966,Latvia,2024,high,2018,Indo-European,57,24,104000,1716,81149
+lvs,Latvian,"c(24, 57)",LVA,Latvia,Europe & Central Asia,34102,1912789,17828.417039202966,Latvia,2024,high,2019,Indo-European,57,24,114000,1933,90173
+lvs,Latvian,"c(24, 57)",LVA,Latvia,Europe & Central Asia,34102,1912789,17828.417039202966,Latvia,2024,high,2020,Indo-European,57,24,132000,2260,99549
+lvs,Latvian,"c(24, 57)",LVA,Latvia,Europe & Central Asia,34102,1912789,17828.417039202966,Latvia,2024,high,2021,Indo-European,57,24,241000,2662,104999
+lvs,Latvian,"c(24, 57)",LVA,Latvia,Europe & Central Asia,34102,1912789,17828.417039202966,Latvia,2024,high,2022,Indo-European,57,24,178000,3127,110295
+lvs,Latvian,"c(24, 57)",LVA,Latvia,Europe & Central Asia,34102,1912789,17828.417039202966,Latvia,2024,high,2023,Indo-European,57,24,246000,3485,117560
+lvs,Latvian,"c(24, 57)",LVA,Latvia,Europe & Central Asia,34102,1912789,17828.417039202966,Latvia,2024,high,2024,Indo-European,57,24,243000,3611,124746
+mal,Malayalam,"c(76.7651, 9.59208)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2015,Dravidian,9.59208,76.7651,10000,329,37635
+mal,Malayalam,"c(76.7651, 9.59208)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2016,Dravidian,9.59208,76.7651,22000,370,41215
+mal,Malayalam,"c(76.7651, 9.59208)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2017,Dravidian,9.59208,76.7651,29000,383,47061
+mal,Malayalam,"c(76.7651, 9.59208)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2018,Dravidian,9.59208,76.7651,13000,416,53452
+mal,Malayalam,"c(76.7651, 9.59208)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2019,Dravidian,9.59208,76.7651,16000,516,61158
+mal,Malayalam,"c(76.7651, 9.59208)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2020,Dravidian,9.59208,76.7651,20000,555,67193
+mal,Malayalam,"c(76.7651, 9.59208)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2021,Dravidian,9.59208,76.7651,30000,631,71535
+mal,Malayalam,"c(76.7651, 9.59208)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2022,Dravidian,9.59208,76.7651,27000,774,76972
+mal,Malayalam,"c(76.7651, 9.59208)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2023,Dravidian,9.59208,76.7651,28000,969,80329
+mal,Malayalam,"c(76.7651, 9.59208)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2024,Dravidian,9.59208,76.7651,31000,1238,85088
+mar,Marathi,"c(76.6665, 17.9344)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2015,Indo-European,17.9344,76.6665,9000,264,41021
+mar,Marathi,"c(76.6665, 17.9344)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2016,Indo-European,17.9344,76.6665,19000,283,42832
+mar,Marathi,"c(76.6665, 17.9344)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2017,Indo-European,17.9344,76.6665,24000,330,45187
+mar,Marathi,"c(76.6665, 17.9344)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2018,Indo-European,17.9344,76.6665,12000,404,50092
+mar,Marathi,"c(76.6665, 17.9344)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2019,Indo-European,17.9344,76.6665,16000,531,52645
+mar,Marathi,"c(76.6665, 17.9344)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2020,Indo-European,17.9344,76.6665,17000,604,55858
+mar,Marathi,"c(76.6665, 17.9344)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2021,Indo-European,17.9344,76.6665,22000,669,67224
+mar,Marathi,"c(76.6665, 17.9344)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2022,Indo-European,17.9344,76.6665,27000,789,82311
+mar,Marathi,"c(76.6665, 17.9344)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2023,Indo-European,17.9344,76.6665,24000,866,89053
+mar,Marathi,"c(76.6665, 17.9344)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2024,Indo-European,17.9344,76.6665,22000,928,94391
+mkd,Macedonian,"c(21.7932, 41.5957)",MKD,North Macedonia,Europe & Central Asia,12547,2083459,6022.196741092577,North Macedonia,2024,high,2015,Indo-European,41.5957,21.7932,12000,207,80192
+mkd,Macedonian,"c(21.7932, 41.5957)",MKD,North Macedonia,Europe & Central Asia,12547,2083459,6022.196741092577,North Macedonia,2024,high,2016,Indo-European,41.5957,21.7932,28000,224,84554
+mkd,Macedonian,"c(21.7932, 41.5957)",MKD,North Macedonia,Europe & Central Asia,12547,2083459,6022.196741092577,North Macedonia,2024,high,2017,Indo-European,41.5957,21.7932,35000,236,87690
+mkd,Macedonian,"c(21.7932, 41.5957)",MKD,North Macedonia,Europe & Central Asia,12547,2083459,6022.196741092577,North Macedonia,2024,high,2018,Indo-European,41.5957,21.7932,17000,245,92065
+mkd,Macedonian,"c(21.7932, 41.5957)",MKD,North Macedonia,Europe & Central Asia,12547,2083459,6022.196741092577,North Macedonia,2024,high,2019,Indo-European,41.5957,21.7932,25000,264,98001
+mkd,Macedonian,"c(21.7932, 41.5957)",MKD,North Macedonia,Europe & Central Asia,12547,2083459,6022.196741092577,North Macedonia,2024,high,2020,Indo-European,41.5957,21.7932,28000,266,103624
+mkd,Macedonian,"c(21.7932, 41.5957)",MKD,North Macedonia,Europe & Central Asia,12547,2083459,6022.196741092577,North Macedonia,2024,high,2021,Indo-European,41.5957,21.7932,57000,290,111058
+mkd,Macedonian,"c(21.7932, 41.5957)",MKD,North Macedonia,Europe & Central Asia,12547,2083459,6022.196741092577,North Macedonia,2024,high,2022,Indo-European,41.5957,21.7932,43000,309,121845
+mkd,Macedonian,"c(21.7932, 41.5957)",MKD,North Macedonia,Europe & Central Asia,12547,2083459,6022.196741092577,North Macedonia,2024,high,2023,Indo-European,41.5957,21.7932,101000,331,132412
+mkd,Macedonian,"c(21.7932, 41.5957)",MKD,North Macedonia,Europe & Central Asia,12547,2083459,6022.196741092577,North Macedonia,2024,high,2024,Indo-European,41.5957,21.7932,62000,334,140441
+mya,Burmese,"c(93.9665, 20.7926)",MMR,Myanmar,East Asia & Pacific,76085,54045420,1407.7973674735065,Myanmar,2024,low,2015,Sino-Tibetan,20.7926,93.9665,11000,556,32514
+mya,Burmese,"c(93.9665, 20.7926)",MMR,Myanmar,East Asia & Pacific,76085,54045420,1407.7973674735065,Myanmar,2024,low,2016,Sino-Tibetan,20.7926,93.9665,18000,554,31663
+mya,Burmese,"c(93.9665, 20.7926)",MMR,Myanmar,East Asia & Pacific,76085,54045420,1407.7973674735065,Myanmar,2024,low,2017,Sino-Tibetan,20.7926,93.9665,17000,555,33673
+mya,Burmese,"c(93.9665, 20.7926)",MMR,Myanmar,East Asia & Pacific,76085,54045420,1407.7973674735065,Myanmar,2024,low,2018,Sino-Tibetan,20.7926,93.9665,12000,580,37918
+mya,Burmese,"c(93.9665, 20.7926)",MMR,Myanmar,East Asia & Pacific,76085,54045420,1407.7973674735065,Myanmar,2024,low,2019,Sino-Tibetan,20.7926,93.9665,15000,600,41995
+mya,Burmese,"c(93.9665, 20.7926)",MMR,Myanmar,East Asia & Pacific,76085,54045420,1407.7973674735065,Myanmar,2024,low,2020,Sino-Tibetan,20.7926,93.9665,17000,589,45237
+mya,Burmese,"c(93.9665, 20.7926)",MMR,Myanmar,East Asia & Pacific,76085,54045420,1407.7973674735065,Myanmar,2024,low,2021,Sino-Tibetan,20.7926,93.9665,28000,616,99780
+mya,Burmese,"c(93.9665, 20.7926)",MMR,Myanmar,East Asia & Pacific,76085,54045420,1407.7973674735065,Myanmar,2024,low,2022,Sino-Tibetan,20.7926,93.9665,32000,703,102899
+mya,Burmese,"c(93.9665, 20.7926)",MMR,Myanmar,East Asia & Pacific,76085,54045420,1407.7973674735065,Myanmar,2024,low,2023,Sino-Tibetan,20.7926,93.9665,27000,1002,104109
+mya,Burmese,"c(93.9665, 20.7926)",MMR,Myanmar,East Asia & Pacific,76085,54045420,1407.7973674735065,Myanmar,2024,low,2024,Sino-Tibetan,20.7926,93.9665,39000,1672,107341
+nld,Dutch,"c(5, 52)",NLD,Netherlands,Europe & Central Asia,907050,17332850,52331.26692955861,Netherlands,2024,high,2015,Indo-European,52,5,448000,1130,1804993
+nld,Dutch,"c(5, 52)",NLD,Netherlands,Europe & Central Asia,907050,17332850,52331.26692955861,Netherlands,2024,high,2016,Indo-European,52,5,728000,1149,1849115
+nld,Dutch,"c(5, 52)",NLD,Netherlands,Europe & Central Asia,907050,17332850,52331.26692955861,Netherlands,2024,high,2017,Indo-European,52,5,730000,1216,1888573
+nld,Dutch,"c(5, 52)",NLD,Netherlands,Europe & Central Asia,907050,17332850,52331.26692955861,Netherlands,2024,high,2018,Indo-European,52,5,657000,1220,1919191
+nld,Dutch,"c(5, 52)",NLD,Netherlands,Europe & Central Asia,907050,17332850,52331.26692955861,Netherlands,2024,high,2019,Indo-European,52,5,812000,1345,1953497
+nld,Dutch,"c(5, 52)",NLD,Netherlands,Europe & Central Asia,907050,17332850,52331.26692955861,Netherlands,2024,high,2020,Indo-European,52,5,645000,1436,1989583
+nld,Dutch,"c(5, 52)",NLD,Netherlands,Europe & Central Asia,907050,17332850,52331.26692955861,Netherlands,2024,high,2021,Indo-European,52,5,1244000,1614,2044640
+nld,Dutch,"c(5, 52)",NLD,Netherlands,Europe & Central Asia,907050,17332850,52331.26692955861,Netherlands,2024,high,2022,Indo-European,52,5,713000,1733,2076073
+nld,Dutch,"c(5, 52)",NLD,Netherlands,Europe & Central Asia,907050,17332850,52331.26692955861,Netherlands,2024,high,2023,Indo-European,52,5,840000,1800,2111608
+nld,Dutch,"c(5, 52)",NLD,Netherlands,Europe & Central Asia,907050,17332850,52331.26692955861,Netherlands,2024,high,2024,Indo-European,52,5,769000,1848,2145383
+nor,Norwegian,"c(10.71, 59.92)",NOR,Norway,Europe & Central Asia,403336,5347896,75419.56687265422,Norway,2024,high,2015,Indo-European,59.92,10.71,385000,404,403453
+nor,Norwegian,"c(10.71, 59.92)",NOR,Norway,Europe & Central Asia,403336,5347896,75419.56687265422,Norway,2024,high,2016,Indo-European,59.92,10.71,1108000,414,429138
+nor,Norwegian,"c(10.71, 59.92)",NOR,Norway,Europe & Central Asia,403336,5347896,75419.56687265422,Norway,2024,high,2017,Indo-European,59.92,10.71,803000,458,459181
+nor,Norwegian,"c(10.71, 59.92)",NOR,Norway,Europe & Central Asia,403336,5347896,75419.56687265422,Norway,2024,high,2018,Indo-European,59.92,10.71,611000,458,480685
+nor,Norwegian,"c(10.71, 59.92)",NOR,Norway,Europe & Central Asia,403336,5347896,75419.56687265422,Norway,2024,high,2019,Indo-European,59.92,10.71,647000,493,499676
+nor,Norwegian,"c(10.71, 59.92)",NOR,Norway,Europe & Central Asia,403336,5347896,75419.56687265422,Norway,2024,high,2020,Indo-European,59.92,10.71,649000,502,526162
+nor,Norwegian,"c(10.71, 59.92)",NOR,Norway,Europe & Central Asia,403336,5347896,75419.56687265422,Norway,2024,high,2021,Indo-European,59.92,10.71,1105000,545,547341
+nor,Norwegian,"c(10.71, 59.92)",NOR,Norway,Europe & Central Asia,403336,5347896,75419.56687265422,Norway,2024,high,2022,Indo-European,59.92,10.71,591000,595,573296
+nor,Norwegian,"c(10.71, 59.92)",NOR,Norway,Europe & Central Asia,403336,5347896,75419.56687265422,Norway,2024,high,2023,Indo-European,59.92,10.71,607000,582,604498
+nor,Norwegian,"c(10.71, 59.92)",NOR,Norway,Europe & Central Asia,403336,5347896,75419.56687265422,Norway,2024,high,2024,Indo-European,59.92,10.71,526000,589,620560
+npi,Nepali,"c(85, 28)",NPL,Nepal,South Asia,30641,28608710,1071.0374567745278,Nepal,2024,low,2015,Indo-European,28,85,8000,2851,26933
+npi,Nepali,"c(85, 28)",NPL,Nepal,South Asia,30641,28608710,1071.0374567745278,Nepal,2024,low,2016,Indo-European,28,85,15000,3260,27596
+npi,Nepali,"c(85, 28)",NPL,Nepal,South Asia,30641,28608710,1071.0374567745278,Nepal,2024,low,2017,Indo-European,28,85,17000,3597,29816
+npi,Nepali,"c(85, 28)",NPL,Nepal,South Asia,30641,28608710,1071.0374567745278,Nepal,2024,low,2018,Indo-European,28,85,12000,3817,30311
+npi,Nepali,"c(85, 28)",NPL,Nepal,South Asia,30641,28608710,1071.0374567745278,Nepal,2024,low,2019,Indo-European,28,85,14000,4192,31652
+npi,Nepali,"c(85, 28)",NPL,Nepal,South Asia,30641,28608710,1071.0374567745278,Nepal,2024,low,2020,Indo-European,28,85,17000,4517,33963
+npi,Nepali,"c(85, 28)",NPL,Nepal,South Asia,30641,28608710,1071.0374567745278,Nepal,2024,low,2021,Indo-European,28,85,17000,4927,31818
+npi,Nepali,"c(85, 28)",NPL,Nepal,South Asia,30641,28608710,1071.0374567745278,Nepal,2024,low,2022,Indo-European,28,85,22000,5704,31943
+npi,Nepali,"c(85, 28)",NPL,Nepal,South Asia,30641,28608710,1071.0374567745278,Nepal,2024,low,2023,Indo-European,28,85,18000,7103,31033
+npi,Nepali,"c(85, 28)",NPL,Nepal,South Asia,30641,28608710,1071.0374567745278,Nepal,2024,low,2024,Indo-European,28,85,19000,9846,32725
+ory,Oriya,"c(85, 21)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2015,Indo-European,21,85,3000,47,8564
+ory,Oriya,"c(85, 21)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2016,Indo-European,21,85,11000,46,10198
+ory,Oriya,"c(85, 21)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2017,Indo-European,21,85,14000,56,11997
+ory,Oriya,"c(85, 21)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2018,Indo-European,21,85,11000,64,13377
+ory,Oriya,"c(85, 21)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2019,Indo-European,21,85,12000,82,14536
+ory,Oriya,"c(85, 21)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2020,Indo-European,21,85,14000,69,15384
+ory,Oriya,"c(85, 21)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2021,Indo-European,21,85,13000,82,15558
+ory,Oriya,"c(85, 21)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2022,Indo-European,21,85,17000,97,15935
+ory,Oriya,"c(85, 21)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2023,Indo-European,21,85,16000,111,16260
+ory,Oriya,"c(85, 21)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2024,Indo-European,21,85,17000,117,17534
+oss,"Ossetian, Ossetic","c(44.61, 42.98)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2015,Indo-European,42.98,44.61,3000,12,10034
+oss,"Ossetian, Ossetic","c(44.61, 42.98)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2016,Indo-European,42.98,44.61,10000,12,10211
+oss,"Ossetian, Ossetic","c(44.61, 42.98)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2017,Indo-European,42.98,44.61,8000,12,10292
+oss,"Ossetian, Ossetic","c(44.61, 42.98)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2018,Indo-European,42.98,44.61,10000,12,10535
+oss,"Ossetian, Ossetic","c(44.61, 42.98)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2019,Indo-European,42.98,44.61,12000,12,11209
+oss,"Ossetian, Ossetic","c(44.61, 42.98)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2020,Indo-European,42.98,44.61,13000,13,11779
+oss,"Ossetian, Ossetic","c(44.61, 42.98)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2021,Indo-European,42.98,44.61,13000,13,12712
+oss,"Ossetian, Ossetic","c(44.61, 42.98)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2022,Indo-European,42.98,44.61,21000,13,14565
+oss,"Ossetian, Ossetic","c(44.61, 42.98)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2023,Indo-European,42.98,44.61,15000,13,16587
+oss,"Ossetian, Ossetic","c(44.61, 42.98)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2024,Indo-European,42.98,44.61,18000,13,17771
+pan,Panjabi,"c(75.6702, 30.0368)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2015,Indo-European,30.0368,75.6702,7000,808,16279
+pan,Panjabi,"c(75.6702, 30.0368)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2016,Indo-European,30.0368,75.6702,18000,852,20359
+pan,Panjabi,"c(75.6702, 30.0368)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2017,Indo-European,30.0368,75.6702,19000,914,24165
+pan,Panjabi,"c(75.6702, 30.0368)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2018,Indo-European,30.0368,75.6702,12000,985,27570
+pan,Panjabi,"c(75.6702, 30.0368)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2019,Indo-European,30.0368,75.6702,15000,1036,30875
+pan,Panjabi,"c(75.6702, 30.0368)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2020,Indo-European,30.0368,75.6702,17000,1090,33463
+pan,Panjabi,"c(75.6702, 30.0368)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2021,Indo-European,30.0368,75.6702,18000,1138,35003
+pan,Panjabi,"c(75.6702, 30.0368)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2022,Indo-European,30.0368,75.6702,22000,1288,36912
+pan,Panjabi,"c(75.6702, 30.0368)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2023,Indo-European,30.0368,75.6702,20000,1595,39457
+pan,Panjabi,"c(75.6702, 30.0368)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2024,Indo-European,30.0368,75.6702,23000,1971,51704
+pbu,Pushto,"c(71.33, 34)",PAK,Pakistan,South Asia,278221,216565318,1284.69785729957,Pakistan,2024,low,2015,Indo-European,34,71.33,6000,816,5277
+pbu,Pushto,"c(71.33, 34)",PAK,Pakistan,South Asia,278221,216565318,1284.69785729957,Pakistan,2024,low,2016,Indo-European,34,71.33,14000,915,6495
+pbu,Pushto,"c(71.33, 34)",PAK,Pakistan,South Asia,278221,216565318,1284.69785729957,Pakistan,2024,low,2017,Indo-European,34,71.33,16000,994,7925
+pbu,Pushto,"c(71.33, 34)",PAK,Pakistan,South Asia,278221,216565318,1284.69785729957,Pakistan,2024,low,2018,Indo-European,34,71.33,11000,1053,8805
+pbu,Pushto,"c(71.33, 34)",PAK,Pakistan,South Asia,278221,216565318,1284.69785729957,Pakistan,2024,low,2019,Indo-European,34,71.33,12000,1155,9700
+pbu,Pushto,"c(71.33, 34)",PAK,Pakistan,South Asia,278221,216565318,1284.69785729957,Pakistan,2024,low,2020,Indo-European,34,71.33,15000,1271,10884
+pbu,Pushto,"c(71.33, 34)",PAK,Pakistan,South Asia,278221,216565318,1284.69785729957,Pakistan,2024,low,2021,Indo-European,34,71.33,13000,1434,11688
+pbu,Pushto,"c(71.33, 34)",PAK,Pakistan,South Asia,278221,216565318,1284.69785729957,Pakistan,2024,low,2022,Indo-European,34,71.33,18000,1639,12960
+pbu,Pushto,"c(71.33, 34)",PAK,Pakistan,South Asia,278221,216565318,1284.69785729957,Pakistan,2024,low,2023,Indo-European,34,71.33,16000,1832,16875
+pbu,Pushto,"c(71.33, 34)",PAK,Pakistan,South Asia,278221,216565318,1284.69785729957,Pakistan,2024,low,2024,Indo-European,34,71.33,17000,2032,18808
+pes,"Persian, Farsi","c(53.3, 32.9)",IRN,Iran,Middle East & North Africa,453996,82913906,5475.510947463988,Iran,2024,high,2015,Indo-European,32.9,53.3,321000,8581,439839
+pes,"Persian, Farsi","c(53.3, 32.9)",IRN,Iran,Middle East & North Africa,453996,82913906,5475.510947463988,Iran,2024,high,2016,Indo-European,32.9,53.3,743000,10699,478823
+pes,"Persian, Farsi","c(53.3, 32.9)",IRN,Iran,Middle East & North Africa,453996,82913906,5475.510947463988,Iran,2024,high,2017,Indo-European,32.9,53.3,939000,11837,518377
+pes,"Persian, Farsi","c(53.3, 32.9)",IRN,Iran,Middle East & North Africa,453996,82913906,5475.510947463988,Iran,2024,high,2018,Indo-European,32.9,53.3,1205000,12763,587144
+pes,"Persian, Farsi","c(53.3, 32.9)",IRN,Iran,Middle East & North Africa,453996,82913906,5475.510947463988,Iran,2024,high,2019,Indo-European,32.9,53.3,1469000,13894,651767
+pes,"Persian, Farsi","c(53.3, 32.9)",IRN,Iran,Middle East & North Africa,453996,82913906,5475.510947463988,Iran,2024,high,2020,Indo-European,32.9,53.3,1859000,14868,705131
+pes,"Persian, Farsi","c(53.3, 32.9)",IRN,Iran,Middle East & North Africa,453996,82913906,5475.510947463988,Iran,2024,high,2021,Indo-European,32.9,53.3,2339000,16158,762278
+pes,"Persian, Farsi","c(53.3, 32.9)",IRN,Iran,Middle East & North Africa,453996,82913906,5475.510947463988,Iran,2024,high,2022,Indo-European,32.9,53.3,6113000,17832,851228
+pes,"Persian, Farsi","c(53.3, 32.9)",IRN,Iran,Middle East & North Africa,453996,82913906,5475.510947463988,Iran,2024,high,2023,Indo-European,32.9,53.3,15208000,20187,944293
+pes,"Persian, Farsi","c(53.3, 32.9)",IRN,Iran,Middle East & North Africa,453996,82913906,5475.510947463988,Iran,2024,high,2024,Indo-European,32.9,53.3,23273000,21874,986442
+pol,Polish,"c(18.6255, 51.8439)",POL,Poland,Europe & Central Asia,595858,37970874,15692.501573706204,Poland,2024,high,2015,Indo-European,51.8439,18.6255,870000,4366,1083706
+pol,Polish,"c(18.6255, 51.8439)",POL,Poland,Europe & Central Asia,595858,37970874,15692.501573706204,Poland,2024,high,2016,Indo-European,51.8439,18.6255,1416000,4687,1150379
+pol,Polish,"c(18.6255, 51.8439)",POL,Poland,Europe & Central Asia,595858,37970874,15692.501573706204,Poland,2024,high,2017,Indo-European,51.8439,18.6255,1670000,4882,1200591
+pol,Polish,"c(18.6255, 51.8439)",POL,Poland,Europe & Central Asia,595858,37970874,15692.501573706204,Poland,2024,high,2018,Indo-European,51.8439,18.6255,1083000,5052,1258368
+pol,Polish,"c(18.6255, 51.8439)",POL,Poland,Europe & Central Asia,595858,37970874,15692.501573706204,Poland,2024,high,2019,Indo-European,51.8439,18.6255,1311000,5172,1314059
+pol,Polish,"c(18.6255, 51.8439)",POL,Poland,Europe & Central Asia,595858,37970874,15692.501573706204,Poland,2024,high,2020,Indo-European,51.8439,18.6255,1395000,5247,1376973
+pol,Polish,"c(18.6255, 51.8439)",POL,Poland,Europe & Central Asia,595858,37970874,15692.501573706204,Poland,2024,high,2021,Indo-European,51.8439,18.6255,3974000,5563,1447024
+pol,Polish,"c(18.6255, 51.8439)",POL,Poland,Europe & Central Asia,595858,37970874,15692.501573706204,Poland,2024,high,2022,Indo-European,51.8439,18.6255,1313000,5812,1502733
+pol,Polish,"c(18.6255, 51.8439)",POL,Poland,Europe & Central Asia,595858,37970874,15692.501573706204,Poland,2024,high,2023,Indo-European,51.8439,18.6255,1766000,5994,1549811
+pol,Polish,"c(18.6255, 51.8439)",POL,Poland,Europe & Central Asia,595858,37970874,15692.501573706204,Poland,2024,high,2024,Indo-European,51.8439,18.6255,1598000,5970,1596053
+por,Portuguese,"c(-8.1, 39.91)",PRT,Portugal,Europe & Central Asia,238785,10269417,23252.050238100175,Portugal,2024,high,2015,Indo-European,39.91,-8.1,305000,2092,860286
+por,Portuguese,"c(-8.1, 39.91)",PRT,Portugal,Europe & Central Asia,238785,10269417,23252.050238100175,Portugal,2024,high,2016,Indo-European,39.91,-8.1,529000,2326,901397
+por,Portuguese,"c(-8.1, 39.91)",PRT,Portugal,Europe & Central Asia,238785,10269417,23252.050238100175,Portugal,2024,high,2017,Indo-European,39.91,-8.1,522000,2520,951486
+por,Portuguese,"c(-8.1, 39.91)",PRT,Portugal,Europe & Central Asia,238785,10269417,23252.050238100175,Portugal,2024,high,2018,Indo-European,39.91,-8.1,435000,2721,986300
+por,Portuguese,"c(-8.1, 39.91)",PRT,Portugal,Europe & Central Asia,238785,10269417,23252.050238100175,Portugal,2024,high,2019,Indo-European,39.91,-8.1,509000,2985,1013774
+por,Portuguese,"c(-8.1, 39.91)",PRT,Portugal,Europe & Central Asia,238785,10269417,23252.050238100175,Portugal,2024,high,2020,Indo-European,39.91,-8.1,673000,3260,1018034
+por,Portuguese,"c(-8.1, 39.91)",PRT,Portugal,Europe & Central Asia,238785,10269417,23252.050238100175,Portugal,2024,high,2021,Indo-European,39.91,-8.1,998000,3526,1051008
+por,Portuguese,"c(-8.1, 39.91)",PRT,Portugal,Europe & Central Asia,238785,10269417,23252.050238100175,Portugal,2024,high,2022,Indo-European,39.91,-8.1,612000,3710,1079199
+por,Portuguese,"c(-8.1, 39.91)",PRT,Portugal,Europe & Central Asia,238785,10269417,23252.050238100175,Portugal,2024,high,2023,Indo-European,39.91,-8.1,592000,4008,1097881
+por,Portuguese,"c(-8.1, 39.91)",PRT,Portugal,Europe & Central Asia,238785,10269417,23252.050238100175,Portugal,2024,high,2024,Indo-European,39.91,-8.1,566000,4193,1116165
+ron,Romanian,"c(24.2256, 46.3913)",ROU,Romania,Europe & Central Asia,250077,19356544,12919.506705329215,Romania,2024,high,2015,Indo-European,46.3913,24.2256,96000,2828,257538
+ron,Romanian,"c(24.2256, 46.3913)",ROU,Romania,Europe & Central Asia,250077,19356544,12919.506705329215,Romania,2024,high,2016,Indo-European,46.3913,24.2256,167000,3282,354108
+ron,Romanian,"c(24.2256, 46.3913)",ROU,Romania,Europe & Central Asia,250077,19356544,12919.506705329215,Romania,2024,high,2017,Indo-European,46.3913,24.2256,177000,3680,373939
+ron,Romanian,"c(24.2256, 46.3913)",ROU,Romania,Europe & Central Asia,250077,19356544,12919.506705329215,Romania,2024,high,2018,Indo-European,46.3913,24.2256,151000,4105,382630
+ron,Romanian,"c(24.2256, 46.3913)",ROU,Romania,Europe & Central Asia,250077,19356544,12919.506705329215,Romania,2024,high,2019,Indo-European,46.3913,24.2256,168000,4764,390770
+ron,Romanian,"c(24.2256, 46.3913)",ROU,Romania,Europe & Central Asia,250077,19356544,12919.506705329215,Romania,2024,high,2020,Indo-European,46.3913,24.2256,200000,5250,403042
+ron,Romanian,"c(24.2256, 46.3913)",ROU,Romania,Europe & Central Asia,250077,19356544,12919.506705329215,Romania,2024,high,2021,Indo-European,46.3913,24.2256,399000,5887,414859
+ron,Romanian,"c(24.2256, 46.3913)",ROU,Romania,Europe & Central Asia,250077,19356544,12919.506705329215,Romania,2024,high,2022,Indo-European,46.3913,24.2256,236000,6504,426059
+ron,Romanian,"c(24.2256, 46.3913)",ROU,Romania,Europe & Central Asia,250077,19356544,12919.506705329215,Romania,2024,high,2023,Indo-European,46.3913,24.2256,339000,6973,435921
+ron,Romanian,"c(24.2256, 46.3913)",ROU,Romania,Europe & Central Asia,250077,19356544,12919.506705329215,Romania,2024,high,2024,Indo-European,46.3913,24.2256,334000,7255,443329
+run,Rundi,"c(29.97, -2.94)",BDI,Burundi,Sub-Saharan Africa,3012,11530580,261.2184296019801,Burundi,2024,low,2015,Atlantic-Congo,-2.94,29.97,1000,24,438
+run,Rundi,"c(29.97, -2.94)",BDI,Burundi,Sub-Saharan Africa,3012,11530580,261.2184296019801,Burundi,2024,low,2016,Atlantic-Congo,-2.94,29.97,2000,25,488
+run,Rundi,"c(29.97, -2.94)",BDI,Burundi,Sub-Saharan Africa,3012,11530580,261.2184296019801,Burundi,2024,low,2017,Atlantic-Congo,-2.94,29.97,2000,28,495
+run,Rundi,"c(29.97, -2.94)",BDI,Burundi,Sub-Saharan Africa,3012,11530580,261.2184296019801,Burundi,2024,low,2019,Atlantic-Congo,-2.94,29.97,1000,15,609
+run,Rundi,"c(29.97, -2.94)",BDI,Burundi,Sub-Saharan Africa,3012,11530580,261.2184296019801,Burundi,2024,low,2020,Atlantic-Congo,-2.94,29.97,3000,29,615
+run,Rundi,"c(29.97, -2.94)",BDI,Burundi,Sub-Saharan Africa,3012,11530580,261.2184296019801,Burundi,2024,low,2021,Atlantic-Congo,-2.94,29.97,7000,40,617
+run,Rundi,"c(29.97, -2.94)",BDI,Burundi,Sub-Saharan Africa,3012,11530580,261.2184296019801,Burundi,2024,low,2022,Atlantic-Congo,-2.94,29.97,4000,39,621
+run,Rundi,"c(29.97, -2.94)",BDI,Burundi,Sub-Saharan Africa,3012,11530580,261.2184296019801,Burundi,2024,low,2023,Atlantic-Congo,-2.94,29.97,6000,31,621
+run,Rundi,"c(29.97, -2.94)",BDI,Burundi,Sub-Saharan Africa,3012,11530580,261.2184296019801,Burundi,2024,low,2024,Atlantic-Congo,-2.94,29.97,4000,55,645
+rus,Russian,"c(50, 59)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2015,Indo-European,59,50,7286000,72059,1174837
+rus,Russian,"c(50, 59)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2016,Indo-European,59,50,11818000,75056,1278223
+rus,Russian,"c(50, 59)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2017,Indo-European,59,50,12500000,76800,1362592
+rus,Russian,"c(50, 59)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2018,Indo-European,59,50,14699000,78845,1443540
+rus,Russian,"c(50, 59)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2019,Indo-European,59,50,14937000,81254,1518910
+rus,Russian,"c(50, 59)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2020,Indo-European,59,50,15751000,83835,1587191
+rus,Russian,"c(50, 59)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2021,Indo-European,59,50,20342000,87213,1686977
+rus,Russian,"c(50, 59)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2022,Indo-European,59,50,26998000,93245,1782579
+rus,Russian,"c(50, 59)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2023,Indo-European,59,50,29251000,99322,1881361
+rus,Russian,"c(50, 59)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2024,Indo-European,59,50,31082000,102194,1955484
+sin,Sinhala,"c(81, 8)",LKA,Sri Lanka,South Asia,84008,21803000,3853.0477457230654,Sri Lanka,2024,low,2015,Indo-European,8,81,7000,217,12048
+sin,Sinhala,"c(81, 8)",LKA,Sri Lanka,South Asia,84008,21803000,3853.0477457230654,Sri Lanka,2024,low,2016,Indo-European,8,81,15000,238,11587
+sin,Sinhala,"c(81, 8)",LKA,Sri Lanka,South Asia,84008,21803000,3853.0477457230654,Sri Lanka,2024,low,2017,Indo-European,8,81,18000,257,13127
+sin,Sinhala,"c(81, 8)",LKA,Sri Lanka,South Asia,84008,21803000,3853.0477457230654,Sri Lanka,2024,low,2018,Indo-European,8,81,11000,291,14344
+sin,Sinhala,"c(81, 8)",LKA,Sri Lanka,South Asia,84008,21803000,3853.0477457230654,Sri Lanka,2024,low,2019,Indo-European,8,81,12000,343,14913
+sin,Sinhala,"c(81, 8)",LKA,Sri Lanka,South Asia,84008,21803000,3853.0477457230654,Sri Lanka,2024,low,2020,Indo-European,8,81,16000,368,15518
+sin,Sinhala,"c(81, 8)",LKA,Sri Lanka,South Asia,84008,21803000,3853.0477457230654,Sri Lanka,2024,low,2021,Indo-European,8,81,17000,482,19732
+sin,Sinhala,"c(81, 8)",LKA,Sri Lanka,South Asia,84008,21803000,3853.0477457230654,Sri Lanka,2024,low,2022,Indo-European,8,81,21000,1379,17618
+sin,Sinhala,"c(81, 8)",LKA,Sri Lanka,South Asia,84008,21803000,3853.0477457230654,Sri Lanka,2024,low,2023,Indo-European,8,81,20000,4125,18331
+sin,Sinhala,"c(81, 8)",LKA,Sri Lanka,South Asia,84008,21803000,3853.0477457230654,Sri Lanka,2024,low,2024,Indo-European,8,81,21000,6623,20089
+slk,Slovak,"c(18.78479, 48.545705)",SVK,Slovakia,Europe & Central Asia,105079,5454073,19266.152103208005,Slovakia,2024,high,2015,Indo-European,48.545705,18.78479,48000,271,197333
+slk,Slovak,"c(18.78479, 48.545705)",SVK,Slovakia,Europe & Central Asia,105079,5454073,19266.152103208005,Slovakia,2024,high,2016,Indo-European,48.545705,18.78479,95000,366,207820
+slk,Slovak,"c(18.78479, 48.545705)",SVK,Slovakia,Europe & Central Asia,105079,5454073,19266.152103208005,Slovakia,2024,high,2017,Indo-European,48.545705,18.78479,98000,360,215513
+slk,Slovak,"c(18.78479, 48.545705)",SVK,Slovakia,Europe & Central Asia,105079,5454073,19266.152103208005,Slovakia,2024,high,2018,Indo-European,48.545705,18.78479,73000,379,224286
+slk,Slovak,"c(18.78479, 48.545705)",SVK,Slovakia,Europe & Central Asia,105079,5454073,19266.152103208005,Slovakia,2024,high,2019,Indo-European,48.545705,18.78479,88000,419,227989
+slk,Slovak,"c(18.78479, 48.545705)",SVK,Slovakia,Europe & Central Asia,105079,5454073,19266.152103208005,Slovakia,2024,high,2020,Indo-European,48.545705,18.78479,94000,469,232004
+slk,Slovak,"c(18.78479, 48.545705)",SVK,Slovakia,Europe & Central Asia,105079,5454073,19266.152103208005,Slovakia,2024,high,2021,Indo-European,48.545705,18.78479,179000,495,235230
+slk,Slovak,"c(18.78479, 48.545705)",SVK,Slovakia,Europe & Central Asia,105079,5454073,19266.152103208005,Slovakia,2024,high,2022,Indo-European,48.545705,18.78479,115000,556,238681
+slk,Slovak,"c(18.78479, 48.545705)",SVK,Slovakia,Europe & Central Asia,105079,5454073,19266.152103208005,Slovakia,2024,high,2023,Indo-European,48.545705,18.78479,204000,595,243246
+slk,Slovak,"c(18.78479, 48.545705)",SVK,Slovakia,Europe & Central Asia,105079,5454073,19266.152103208005,Slovakia,2024,high,2024,Indo-European,48.545705,18.78479,186000,614,247311
+slv,Slovene,"c(14.7766, 46.2543)",SVN,Slovenia,Europe & Central Asia,54174,2087946,25946.07331798811,Slovenia,2024,high,2015,Indo-European,46.2543,14.7766,26000,56,143616
+slv,Slovene,"c(14.7766, 46.2543)",SVN,Slovenia,Europe & Central Asia,54174,2087946,25946.07331798811,Slovenia,2024,high,2016,Indo-European,46.2543,14.7766,53000,72,148843
+slv,Slovene,"c(14.7766, 46.2543)",SVN,Slovenia,Europe & Central Asia,54174,2087946,25946.07331798811,Slovenia,2024,high,2017,Indo-European,46.2543,14.7766,62000,82,154118
+slv,Slovene,"c(14.7766, 46.2543)",SVN,Slovenia,Europe & Central Asia,54174,2087946,25946.07331798811,Slovenia,2024,high,2018,Indo-European,46.2543,14.7766,37000,91,159612
+slv,Slovene,"c(14.7766, 46.2543)",SVN,Slovenia,Europe & Central Asia,54174,2087946,25946.07331798811,Slovenia,2024,high,2019,Indo-European,46.2543,14.7766,44000,90,163161
+slv,Slovene,"c(14.7766, 46.2543)",SVN,Slovenia,Europe & Central Asia,54174,2087946,25946.07331798811,Slovenia,2024,high,2020,Indo-European,46.2543,14.7766,52000,94,166425
+slv,Slovene,"c(14.7766, 46.2543)",SVN,Slovenia,Europe & Central Asia,54174,2087946,25946.07331798811,Slovenia,2024,high,2021,Indo-European,46.2543,14.7766,107000,105,170705
+slv,Slovene,"c(14.7766, 46.2543)",SVN,Slovenia,Europe & Central Asia,54174,2087946,25946.07331798811,Slovenia,2024,high,2022,Indo-European,46.2543,14.7766,71000,106,174620
+slv,Slovene,"c(14.7766, 46.2543)",SVN,Slovenia,Europe & Central Asia,54174,2087946,25946.07331798811,Slovenia,2024,high,2023,Indo-European,46.2543,14.7766,124000,112,178994
+slv,Slovene,"c(14.7766, 46.2543)",SVN,Slovenia,Europe & Central Asia,54174,2087946,25946.07331798811,Slovenia,2024,high,2024,Indo-European,46.2543,14.7766,114000,115,183654
+sme,Sami,"c(22.1113, 68.725)",FIN,Finland,Europe & Central Asia,269296,5520314,48782.73228660544,Finland,2024,high,2015,Uralic,68.725,22.1113,15000,1788,7717
+sme,Sami,"c(22.1113, 68.725)",FIN,Finland,Europe & Central Asia,269296,5520314,48782.73228660544,Finland,2024,high,2016,Uralic,68.725,22.1113,28000,1796,7225
+sme,Sami,"c(22.1113, 68.725)",FIN,Finland,Europe & Central Asia,269296,5520314,48782.73228660544,Finland,2024,high,2017,Uralic,68.725,22.1113,32000,1820,7272
+sme,Sami,"c(22.1113, 68.725)",FIN,Finland,Europe & Central Asia,269296,5520314,48782.73228660544,Finland,2024,high,2018,Uralic,68.725,22.1113,44000,1815,7353
+sme,Sami,"c(22.1113, 68.725)",FIN,Finland,Europe & Central Asia,269296,5520314,48782.73228660544,Finland,2024,high,2019,Uralic,68.725,22.1113,43000,1819,7464
+sme,Sami,"c(22.1113, 68.725)",FIN,Finland,Europe & Central Asia,269296,5520314,48782.73228660544,Finland,2024,high,2020,Uralic,68.725,22.1113,42000,1831,7588
+sme,Sami,"c(22.1113, 68.725)",FIN,Finland,Europe & Central Asia,269296,5520314,48782.73228660544,Finland,2024,high,2021,Uralic,68.725,22.1113,45000,1844,7717
+sme,Sami,"c(22.1113, 68.725)",FIN,Finland,Europe & Central Asia,269296,5520314,48782.73228660544,Finland,2024,high,2022,Uralic,68.725,22.1113,34000,1851,7786
+sme,Sami,"c(22.1113, 68.725)",FIN,Finland,Europe & Central Asia,269296,5520314,48782.73228660544,Finland,2024,high,2023,Uralic,68.725,22.1113,30000,1873,7809
+sme,Sami,"c(22.1113, 68.725)",FIN,Finland,Europe & Central Asia,269296,5520314,48782.73228660544,Finland,2024,high,2024,Uralic,68.725,22.1113,30000,1902,7848
+sna,Shona,"c(29.75725, -17.20849)",ZWE,Zimbabwe,Sub-Saharan Africa,21440,14645468,1463.9340989308091,Zimbabwe,2024,low,2015,Atlantic-Congo,-17.20849,29.75725,3000,11,2134
+sna,Shona,"c(29.75725, -17.20849)",ZWE,Zimbabwe,Sub-Saharan Africa,21440,14645468,1463.9340989308091,Zimbabwe,2024,low,2016,Atlantic-Congo,-17.20849,29.75725,6000,15,2457
+sna,Shona,"c(29.75725, -17.20849)",ZWE,Zimbabwe,Sub-Saharan Africa,21440,14645468,1463.9340989308091,Zimbabwe,2024,low,2017,Atlantic-Congo,-17.20849,29.75725,8000,15,2639
+sna,Shona,"c(29.75725, -17.20849)",ZWE,Zimbabwe,Sub-Saharan Africa,21440,14645468,1463.9340989308091,Zimbabwe,2024,low,2018,Atlantic-Congo,-17.20849,29.75725,10000,34,3007
+sna,Shona,"c(29.75725, -17.20849)",ZWE,Zimbabwe,Sub-Saharan Africa,21440,14645468,1463.9340989308091,Zimbabwe,2024,low,2019,Atlantic-Congo,-17.20849,29.75725,10000,37,4215
+sna,Shona,"c(29.75725, -17.20849)",ZWE,Zimbabwe,Sub-Saharan Africa,21440,14645468,1463.9340989308091,Zimbabwe,2024,low,2020,Atlantic-Congo,-17.20849,29.75725,14000,50,4902
+sna,Shona,"c(29.75725, -17.20849)",ZWE,Zimbabwe,Sub-Saharan Africa,21440,14645468,1463.9340989308091,Zimbabwe,2024,low,2021,Atlantic-Congo,-17.20849,29.75725,14000,48,6532
+sna,Shona,"c(29.75725, -17.20849)",ZWE,Zimbabwe,Sub-Saharan Africa,21440,14645468,1463.9340989308091,Zimbabwe,2024,low,2022,Atlantic-Congo,-17.20849,29.75725,14000,52,7486
+sna,Shona,"c(29.75725, -17.20849)",ZWE,Zimbabwe,Sub-Saharan Africa,21440,14645468,1463.9340989308091,Zimbabwe,2024,low,2023,Atlantic-Congo,-17.20849,29.75725,14000,60,10042
+sna,Shona,"c(29.75725, -17.20849)",ZWE,Zimbabwe,Sub-Saharan Africa,21440,14645468,1463.9340989308091,Zimbabwe,2024,low,2024,Atlantic-Congo,-17.20849,29.75725,15000,65,11372
+snd,Sindhi,"c(69, 26)",PAK,Pakistan,South Asia,278221,216565318,1284.69785729957,Pakistan,2024,low,2015,Indo-European,26,69,1000,28,633
+snd,Sindhi,"c(69, 26)",PAK,Pakistan,South Asia,278221,216565318,1284.69785729957,Pakistan,2024,low,2016,Indo-European,26,69,7000,36,4567
+snd,Sindhi,"c(69, 26)",PAK,Pakistan,South Asia,278221,216565318,1284.69785729957,Pakistan,2024,low,2017,Indo-European,26,69,10000,41,7552
+snd,Sindhi,"c(69, 26)",PAK,Pakistan,South Asia,278221,216565318,1284.69785729957,Pakistan,2024,low,2018,Indo-European,26,69,10000,56,8308
+snd,Sindhi,"c(69, 26)",PAK,Pakistan,South Asia,278221,216565318,1284.69785729957,Pakistan,2024,low,2019,Indo-European,26,69,11000,74,11108
+snd,Sindhi,"c(69, 26)",PAK,Pakistan,South Asia,278221,216565318,1284.69785729957,Pakistan,2024,low,2020,Indo-European,26,69,13000,77,12747
+snd,Sindhi,"c(69, 26)",PAK,Pakistan,South Asia,278221,216565318,1284.69785729957,Pakistan,2024,low,2021,Indo-European,26,69,14000,84,13952
+snd,Sindhi,"c(69, 26)",PAK,Pakistan,South Asia,278221,216565318,1284.69785729957,Pakistan,2024,low,2022,Indo-European,26,69,18000,110,14868
+snd,Sindhi,"c(69, 26)",PAK,Pakistan,South Asia,278221,216565318,1284.69785729957,Pakistan,2024,low,2023,Indo-European,26,69,15000,147,15316
+snd,Sindhi,"c(69, 26)",PAK,Pakistan,South Asia,278221,216565318,1284.69785729957,Pakistan,2024,low,2024,Indo-European,26,69,14000,201,15492
+som,Somali,"c(45.152856, 4.778704)",SOM,Somalia,Sub-Saharan Africa,4719,10192317.3,462.99578997604397,Somalia,2024,low,2015,Afro-Asiatic,4.778704,45.152856,39000,17751,3738
+som,Somali,"c(45.152856, 4.778704)",SOM,Somalia,Sub-Saharan Africa,4719,10192317.3,462.99578997604397,Somalia,2024,low,2016,Afro-Asiatic,4.778704,45.152856,65000,18936,3748
+som,Somali,"c(45.152856, 4.778704)",SOM,Somalia,Sub-Saharan Africa,4719,10192317.3,462.99578997604397,Somalia,2024,low,2017,Afro-Asiatic,4.778704,45.152856,58000,19872,4343
+som,Somali,"c(45.152856, 4.778704)",SOM,Somalia,Sub-Saharan Africa,4719,10192317.3,462.99578997604397,Somalia,2024,low,2018,Afro-Asiatic,4.778704,45.152856,43000,20833,4996
+som,Somali,"c(45.152856, 4.778704)",SOM,Somalia,Sub-Saharan Africa,4719,10192317.3,462.99578997604397,Somalia,2024,low,2019,Afro-Asiatic,4.778704,45.152856,42000,21828,5525
+som,Somali,"c(45.152856, 4.778704)",SOM,Somalia,Sub-Saharan Africa,4719,10192317.3,462.99578997604397,Somalia,2024,low,2020,Afro-Asiatic,4.778704,45.152856,53000,22719,5729
+som,Somali,"c(45.152856, 4.778704)",SOM,Somalia,Sub-Saharan Africa,4719,10192317.3,462.99578997604397,Somalia,2024,low,2021,Afro-Asiatic,4.778704,45.152856,49000,23578,5910
+som,Somali,"c(45.152856, 4.778704)",SOM,Somalia,Sub-Saharan Africa,4719,10192317.3,462.99578997604397,Somalia,2024,low,2022,Afro-Asiatic,4.778704,45.152856,50000,24572,7336
+som,Somali,"c(45.152856, 4.778704)",SOM,Somalia,Sub-Saharan Africa,4719,10192317.3,462.99578997604397,Somalia,2024,low,2023,Afro-Asiatic,4.778704,45.152856,57000,25521,8866
+som,Somali,"c(45.152856, 4.778704)",SOM,Somalia,Sub-Saharan Africa,4719,10192317.3,462.99578997604397,Somalia,2024,low,2024,Afro-Asiatic,4.778704,45.152856,60000,26780,7892
+spa,Spanish,"c(-1.11788, 40.4414)",ESP,Spain,Europe & Central Asia,1393490,47076781,29600.36711091185,Spain,2024,high,2015,Indo-European,40.4414,-1.11788,1645000,6683,1147397
+spa,Spanish,"c(-1.11788, 40.4414)",ESP,Spain,Europe & Central Asia,1393490,47076781,29600.36711091185,Spain,2024,high,2016,Indo-European,40.4414,-1.11788,2238000,7070,1222732
+spa,Spanish,"c(-1.11788, 40.4414)",ESP,Spain,Europe & Central Asia,1393490,47076781,29600.36711091185,Spain,2024,high,2017,Indo-European,40.4414,-1.11788,2095000,7347,1305418
+spa,Spanish,"c(-1.11788, 40.4414)",ESP,Spain,Europe & Central Asia,1393490,47076781,29600.36711091185,Spain,2024,high,2018,Indo-European,40.4414,-1.11788,1888000,7695,1377793
+spa,Spanish,"c(-1.11788, 40.4414)",ESP,Spain,Europe & Central Asia,1393490,47076781,29600.36711091185,Spain,2024,high,2019,Indo-European,40.4414,-1.11788,2167000,8172,1496633
+spa,Spanish,"c(-1.11788, 40.4414)",ESP,Spain,Europe & Central Asia,1393490,47076781,29600.36711091185,Spain,2024,high,2020,Indo-European,40.4414,-1.11788,2368000,8721,1568265
+spa,Spanish,"c(-1.11788, 40.4414)",ESP,Spain,Europe & Central Asia,1393490,47076781,29600.36711091185,Spain,2024,high,2021,Indo-European,40.4414,-1.11788,2646000,9394,1650221
+spa,Spanish,"c(-1.11788, 40.4414)",ESP,Spain,Europe & Central Asia,1393490,47076781,29600.36711091185,Spain,2024,high,2022,Indo-European,40.4414,-1.11788,2374000,10091,1741325
+spa,Spanish,"c(-1.11788, 40.4414)",ESP,Spain,Europe & Central Asia,1393490,47076781,29600.36711091185,Spain,2024,high,2023,Indo-European,40.4414,-1.11788,2474000,10700,1827854
+spa,Spanish,"c(-1.11788, 40.4414)",ESP,Spain,Europe & Central Asia,1393490,47076781,29600.36711091185,Spain,2024,high,2024,Indo-European,40.4414,-1.11788,2444000,11283,1919611
+srp,Serbian,"c(21.9192, 44.3238)",SRB,Serbia,Europe & Central Asia,51475,6944975,7411.833735902577,Serbia,2024,high,2015,Indo-European,44.3238,21.9192,53000,1545,312936
+srp,Serbian,"c(21.9192, 44.3238)",SRB,Serbia,Europe & Central Asia,51475,6944975,7411.833735902577,Serbia,2024,high,2016,Indo-European,44.3238,21.9192,95000,1644,329864
+srp,Serbian,"c(21.9192, 44.3238)",SRB,Serbia,Europe & Central Asia,51475,6944975,7411.833735902577,Serbia,2024,high,2017,Indo-European,44.3238,21.9192,122000,1608,343344
+srp,Serbian,"c(21.9192, 44.3238)",SRB,Serbia,Europe & Central Asia,51475,6944975,7411.833735902577,Serbia,2024,high,2018,Indo-European,44.3238,21.9192,75000,1629,377661
+srp,Serbian,"c(21.9192, 44.3238)",SRB,Serbia,Europe & Central Asia,51475,6944975,7411.833735902577,Serbia,2024,high,2019,Indo-European,44.3238,21.9192,81000,1646,614096
+srp,Serbian,"c(21.9192, 44.3238)",SRB,Serbia,Europe & Central Asia,51475,6944975,7411.833735902577,Serbia,2024,high,2020,Indo-European,44.3238,21.9192,99000,1670,628353
+srp,Serbian,"c(21.9192, 44.3238)",SRB,Serbia,Europe & Central Asia,51475,6944975,7411.833735902577,Serbia,2024,high,2021,Indo-European,44.3238,21.9192,212000,1686,641568
+srp,Serbian,"c(21.9192, 44.3238)",SRB,Serbia,Europe & Central Asia,51475,6944975,7411.833735902577,Serbia,2024,high,2022,Indo-European,44.3238,21.9192,140000,1696,653520
+srp,Serbian,"c(21.9192, 44.3238)",SRB,Serbia,Europe & Central Asia,51475,6944975,7411.833735902577,Serbia,2024,high,2023,Indo-European,44.3238,21.9192,189000,1710,666968
+srp,Serbian,"c(21.9192, 44.3238)",SRB,Serbia,Europe & Central Asia,51475,6944975,7411.833735902577,Serbia,2024,high,2024,Indo-European,44.3238,21.9192,185000,1708,682292
+swe,Swedish,"c(17.389526, 59.800634)",SWE,Sweden,Europe & Central Asia,530883,10285453,51614.93616275336,Sweden,2024,high,2015,Indo-European,59.800634,17.389526,15730000,289811,1951513
+swe,Swedish,"c(17.389526, 59.800634)",SWE,Sweden,Europe & Central Asia,530883,10285453,51614.93616275336,Sweden,2024,high,2016,Indo-European,59.800634,17.389526,24468000,289174,2407140
+swe,Swedish,"c(17.389526, 59.800634)",SWE,Sweden,Europe & Central Asia,530883,10285453,51614.93616275336,Sweden,2024,high,2017,Indo-European,59.800634,17.389526,24709000,288655,3783904
+swe,Swedish,"c(17.389526, 59.800634)",SWE,Sweden,Europe & Central Asia,530883,10285453,51614.93616275336,Sweden,2024,high,2018,Indo-European,59.800634,17.389526,22759000,288028,3788189
+swe,Swedish,"c(17.389526, 59.800634)",SWE,Sweden,Europe & Central Asia,530883,10285453,51614.93616275336,Sweden,2024,high,2019,Indo-European,59.800634,17.389526,22823000,287552,3761726
+swe,Swedish,"c(17.389526, 59.800634)",SWE,Sweden,Europe & Central Asia,530883,10285453,51614.93616275336,Sweden,2024,high,2020,Indo-European,59.800634,17.389526,22919000,287475,3745401
+swe,Swedish,"c(17.389526, 59.800634)",SWE,Sweden,Europe & Central Asia,530883,10285453,51614.93616275336,Sweden,2024,high,2021,Indo-European,59.800634,17.389526,22725000,287531,3459375
+swe,Swedish,"c(17.389526, 59.800634)",SWE,Sweden,Europe & Central Asia,530883,10285453,51614.93616275336,Sweden,2024,high,2022,Indo-European,59.800634,17.389526,18543000,286648,2765766
+swe,Swedish,"c(17.389526, 59.800634)",SWE,Sweden,Europe & Central Asia,530883,10285453,51614.93616275336,Sweden,2024,high,2023,Indo-European,59.800634,17.389526,18043000,285645,2558621
+swe,Swedish,"c(17.389526, 59.800634)",SWE,Sweden,Europe & Central Asia,530883,10285453,51614.93616275336,Sweden,2024,high,2024,Indo-European,59.800634,17.389526,16887000,285009,2573650
+swh,Swahili,"c(37.624, -8.25605)",TZA,Tanzania,Sub-Saharan Africa,63177,58005463,1089.1560334584349,Tanzania,2024,low,2015,Atlantic-Congo,-8.25605,37.624,11000,1533,27563
+swh,Swahili,"c(37.624, -8.25605)",TZA,Tanzania,Sub-Saharan Africa,63177,58005463,1089.1560334584349,Tanzania,2024,low,2016,Atlantic-Congo,-8.25605,37.624,19000,1723,31467
+swh,Swahili,"c(37.624, -8.25605)",TZA,Tanzania,Sub-Saharan Africa,63177,58005463,1089.1560334584349,Tanzania,2024,low,2017,Atlantic-Congo,-8.25605,37.624,23000,1830,34928
+swh,Swahili,"c(37.624, -8.25605)",TZA,Tanzania,Sub-Saharan Africa,63177,58005463,1089.1560334584349,Tanzania,2024,low,2018,Atlantic-Congo,-8.25605,37.624,12000,1938,39044
+swh,Swahili,"c(37.624, -8.25605)",TZA,Tanzania,Sub-Saharan Africa,63177,58005463,1089.1560334584349,Tanzania,2024,low,2019,Atlantic-Congo,-8.25605,37.624,16000,2215,47724
+swh,Swahili,"c(37.624, -8.25605)",TZA,Tanzania,Sub-Saharan Africa,63177,58005463,1089.1560334584349,Tanzania,2024,low,2020,Atlantic-Congo,-8.25605,37.624,21000,2431,55282
+swh,Swahili,"c(37.624, -8.25605)",TZA,Tanzania,Sub-Saharan Africa,63177,58005463,1089.1560334584349,Tanzania,2024,low,2021,Atlantic-Congo,-8.25605,37.624,30000,2525,60383
+swh,Swahili,"c(37.624, -8.25605)",TZA,Tanzania,Sub-Saharan Africa,63177,58005463,1089.1560334584349,Tanzania,2024,low,2022,Atlantic-Congo,-8.25605,37.624,24000,2845,68761
+swh,Swahili,"c(37.624, -8.25605)",TZA,Tanzania,Sub-Saharan Africa,63177,58005463,1089.1560334584349,Tanzania,2024,low,2023,Atlantic-Congo,-8.25605,37.624,31000,3078,76170
+swh,Swahili,"c(37.624, -8.25605)",TZA,Tanzania,Sub-Saharan Africa,63177,58005463,1089.1560334584349,Tanzania,2024,low,2024,Atlantic-Congo,-8.25605,37.624,39000,3293,79205
+tam,Tamil,"c(78.825989, 10.520219)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2015,Dravidian,10.520219,78.825989,21000,1558,65796
+tam,Tamil,"c(78.825989, 10.520219)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2016,Dravidian,10.520219,78.825989,28000,1613,82686
+tam,Tamil,"c(78.825989, 10.520219)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2017,Dravidian,10.520219,78.825989,49000,1661,89831
+tam,Tamil,"c(78.825989, 10.520219)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2018,Dravidian,10.520219,78.825989,15000,1821,114536
+tam,Tamil,"c(78.825989, 10.520219)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2019,Dravidian,10.520219,78.825989,27000,2034,119084
+tam,Tamil,"c(78.825989, 10.520219)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2020,Dravidian,10.520219,78.825989,31000,2130,126172
+tam,Tamil,"c(78.825989, 10.520219)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2021,Dravidian,10.520219,78.825989,47000,2303,133342
+tam,Tamil,"c(78.825989, 10.520219)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2022,Dravidian,10.520219,78.825989,37000,2674,143397
+tam,Tamil,"c(78.825989, 10.520219)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2023,Dravidian,10.520219,78.825989,43000,3011,150552
+tam,Tamil,"c(78.825989, 10.520219)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2024,Dravidian,10.520219,78.825989,34000,3344,161430
+tat,Tatar,"c(49.11577, 55.79592)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2015,Turkic,55.79592,49.11577,11000,133,65810
+tat,Tatar,"c(49.11577, 55.79592)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2016,Turkic,55.79592,49.11577,20000,130,68214
+tat,Tatar,"c(49.11577, 55.79592)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2017,Turkic,55.79592,49.11577,21000,140,69952
+tat,Tatar,"c(49.11577, 55.79592)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2018,Turkic,55.79592,49.11577,13000,145,74965
+tat,Tatar,"c(49.11577, 55.79592)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2019,Turkic,55.79592,49.11577,17000,144,82428
+tat,Tatar,"c(49.11577, 55.79592)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2020,Turkic,55.79592,49.11577,19000,144,88493
+tat,Tatar,"c(49.11577, 55.79592)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2021,Turkic,55.79592,49.11577,31000,142,236858
+tat,Tatar,"c(49.11577, 55.79592)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2022,Turkic,55.79592,49.11577,33000,167,321301
+tat,Tatar,"c(49.11577, 55.79592)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2023,Turkic,55.79592,49.11577,31000,169,480987
+tat,Tatar,"c(49.11577, 55.79592)",RUS,Russia,Europe & Central Asia,1699876,144373535,11774.152374948775,Russia,2024,high,2024,Turkic,55.79592,49.11577,31000,175,500851
+tel,Telugu,"c(78.7024, 16.4529)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2015,Dravidian,16.4529,78.7024,7000,818,60176
+tel,Telugu,"c(78.7024, 16.4529)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2016,Dravidian,16.4529,78.7024,17000,786,63953
+tel,Telugu,"c(78.7024, 16.4529)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2017,Dravidian,16.4529,78.7024,19000,801,66287
+tel,Telugu,"c(78.7024, 16.4529)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2018,Dravidian,16.4529,78.7024,12000,888,68335
+tel,Telugu,"c(78.7024, 16.4529)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2019,Dravidian,16.4529,78.7024,15000,1015,69899
+tel,Telugu,"c(78.7024, 16.4529)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2020,Dravidian,16.4529,78.7024,18000,1079,71899
+tel,Telugu,"c(78.7024, 16.4529)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2021,Dravidian,16.4529,78.7024,20000,1185,70242
+tel,Telugu,"c(78.7024, 16.4529)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2022,Dravidian,16.4529,78.7024,22000,1372,74420
+tel,Telugu,"c(78.7024, 16.4529)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2023,Dravidian,16.4529,78.7024,20000,1480,80285
+tel,Telugu,"c(78.7024, 16.4529)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2024,Dravidian,16.4529,78.7024,24000,1568,89684
+tgk,Tajik,"c(68.5549, 38.8213)",TJK,Tajikistan,Europe & Central Asia,8116,9321018,870.7203440654229,Tajikistan,2024,low,2015,Indo-European,38.8213,68.5549,6000,28,30553
+tgk,Tajik,"c(68.5549, 38.8213)",TJK,Tajikistan,Europe & Central Asia,8116,9321018,870.7203440654229,Tajikistan,2024,low,2016,Indo-European,38.8213,68.5549,14000,28,40043
+tgk,Tajik,"c(68.5549, 38.8213)",TJK,Tajikistan,Europe & Central Asia,8116,9321018,870.7203440654229,Tajikistan,2024,low,2017,Indo-European,38.8213,68.5549,15000,29,67479
+tgk,Tajik,"c(68.5549, 38.8213)",TJK,Tajikistan,Europe & Central Asia,8116,9321018,870.7203440654229,Tajikistan,2024,low,2018,Indo-European,38.8213,68.5549,12000,29,92742
+tgk,Tajik,"c(68.5549, 38.8213)",TJK,Tajikistan,Europe & Central Asia,8116,9321018,870.7203440654229,Tajikistan,2024,low,2019,Indo-European,38.8213,68.5549,13000,27,96035
+tgk,Tajik,"c(68.5549, 38.8213)",TJK,Tajikistan,Europe & Central Asia,8116,9321018,870.7203440654229,Tajikistan,2024,low,2020,Indo-European,38.8213,68.5549,16000,26,100067
+tgk,Tajik,"c(68.5549, 38.8213)",TJK,Tajikistan,Europe & Central Asia,8116,9321018,870.7203440654229,Tajikistan,2024,low,2021,Indo-European,38.8213,68.5549,25000,36,102013
+tgk,Tajik,"c(68.5549, 38.8213)",TJK,Tajikistan,Europe & Central Asia,8116,9321018,870.7203440654229,Tajikistan,2024,low,2022,Indo-European,38.8213,68.5549,24000,91,105522
+tgk,Tajik,"c(68.5549, 38.8213)",TJK,Tajikistan,Europe & Central Asia,8116,9321018,870.7203440654229,Tajikistan,2024,low,2023,Indo-European,38.8213,68.5549,20000,148,108802
+tgk,Tajik,"c(68.5549, 38.8213)",TJK,Tajikistan,Europe & Central Asia,8116,9321018,870.7203440654229,Tajikistan,2024,low,2024,Indo-European,38.8213,68.5549,24000,164,111125
+tgl,Tagalog,"c(121.747, 14.06)",PHL,Philippines,East Asia & Pacific,376795,108116615,3485.079513449436,Philippines,2024,low,2015,Austronesian,14.06,121.747,11000,2519,63191
+tgl,Tagalog,"c(121.747, 14.06)",PHL,Philippines,East Asia & Pacific,376795,108116615,3485.079513449436,Philippines,2024,low,2016,Austronesian,14.06,121.747,23000,2832,64232
+tgl,Tagalog,"c(121.747, 14.06)",PHL,Philippines,East Asia & Pacific,376795,108116615,3485.079513449436,Philippines,2024,low,2017,Austronesian,14.06,121.747,41000,3194,65760
+tgl,Tagalog,"c(121.747, 14.06)",PHL,Philippines,East Asia & Pacific,376795,108116615,3485.079513449436,Philippines,2024,low,2018,Austronesian,14.06,121.747,14000,3607,86205
+tgl,Tagalog,"c(121.747, 14.06)",PHL,Philippines,East Asia & Pacific,376795,108116615,3485.079513449436,Philippines,2024,low,2019,Austronesian,14.06,121.747,17000,4327,78366
+tgl,Tagalog,"c(121.747, 14.06)",PHL,Philippines,East Asia & Pacific,376795,108116615,3485.079513449436,Philippines,2024,low,2020,Austronesian,14.06,121.747,22000,4873,76195
+tgl,Tagalog,"c(121.747, 14.06)",PHL,Philippines,East Asia & Pacific,376795,108116615,3485.079513449436,Philippines,2024,low,2021,Austronesian,14.06,121.747,37000,5487,61311
+tgl,Tagalog,"c(121.747, 14.06)",PHL,Philippines,East Asia & Pacific,376795,108116615,3485.079513449436,Philippines,2024,low,2022,Austronesian,14.06,121.747,25000,7622,42922
+tgl,Tagalog,"c(121.747, 14.06)",PHL,Philippines,East Asia & Pacific,376795,108116615,3485.079513449436,Philippines,2024,low,2023,Austronesian,14.06,121.747,26000,10149,43777
+tgl,Tagalog,"c(121.747, 14.06)",PHL,Philippines,East Asia & Pacific,376795,108116615,3485.079513449436,Philippines,2024,low,2024,Austronesian,14.06,121.747,26000,12093,46018
+tha,Thai,"c(100.671, 14.192)",THA,Thailand,East Asia & Pacific,543548,69625582,7806.728279844037,Thailand,2024,high,2015,Tai-Kadai,14.192,100.671,103000,7925,91556
+tha,Thai,"c(100.671, 14.192)",THA,Thailand,East Asia & Pacific,543548,69625582,7806.728279844037,Thailand,2024,high,2016,Tai-Kadai,14.192,100.671,184000,8384,99223
+tha,Thai,"c(100.671, 14.192)",THA,Thailand,East Asia & Pacific,543548,69625582,7806.728279844037,Thailand,2024,high,2017,Tai-Kadai,14.192,100.671,192000,8758,114019
+tha,Thai,"c(100.671, 14.192)",THA,Thailand,East Asia & Pacific,543548,69625582,7806.728279844037,Thailand,2024,high,2018,Tai-Kadai,14.192,100.671,163000,9145,121226
+tha,Thai,"c(100.671, 14.192)",THA,Thailand,East Asia & Pacific,543548,69625582,7806.728279844037,Thailand,2024,high,2019,Tai-Kadai,14.192,100.671,173000,9555,128872
+tha,Thai,"c(100.671, 14.192)",THA,Thailand,East Asia & Pacific,543548,69625582,7806.728279844037,Thailand,2024,high,2020,Tai-Kadai,14.192,100.671,156000,9944,134526
+tha,Thai,"c(100.671, 14.192)",THA,Thailand,East Asia & Pacific,543548,69625582,7806.728279844037,Thailand,2024,high,2021,Tai-Kadai,14.192,100.671,230000,10226,141160
+tha,Thai,"c(100.671, 14.192)",THA,Thailand,East Asia & Pacific,543548,69625582,7806.728279844037,Thailand,2024,high,2022,Tai-Kadai,14.192,100.671,189000,10710,145054
+tha,Thai,"c(100.671, 14.192)",THA,Thailand,East Asia & Pacific,543548,69625582,7806.728279844037,Thailand,2024,high,2023,Tai-Kadai,14.192,100.671,298000,11292,152211
+tha,Thai,"c(100.671, 14.192)",THA,Thailand,East Asia & Pacific,543548,69625582,7806.728279844037,Thailand,2024,high,2024,Tai-Kadai,14.192,100.671,213000,11781,161147
+tir,Tigrinya,"c(38.9266, 15.3359)",ERI,Eritrea,Sub-Saharan Africa,2065,6081196,339.5713606336648,Eritrea,2024,low,2015,Afro-Asiatic,15.3359,38.9266,1000,261,286
+tir,Tigrinya,"c(38.9266, 15.3359)",ERI,Eritrea,Sub-Saharan Africa,2065,6081196,339.5713606336648,Eritrea,2024,low,2016,Afro-Asiatic,15.3359,38.9266,2000,480,158
+tir,Tigrinya,"c(38.9266, 15.3359)",ERI,Eritrea,Sub-Saharan Africa,2065,6081196,339.5713606336648,Eritrea,2024,low,2017,Afro-Asiatic,15.3359,38.9266,3000,716,174
+tir,Tigrinya,"c(38.9266, 15.3359)",ERI,Eritrea,Sub-Saharan Africa,2065,6081196,339.5713606336648,Eritrea,2024,low,2019,Afro-Asiatic,15.3359,38.9266,2000,1391,168
+tir,Tigrinya,"c(38.9266, 15.3359)",ERI,Eritrea,Sub-Saharan Africa,2065,6081196,339.5713606336648,Eritrea,2024,low,2020,Afro-Asiatic,15.3359,38.9266,5000,1598,197
+tir,Tigrinya,"c(38.9266, 15.3359)",ERI,Eritrea,Sub-Saharan Africa,2065,6081196,339.5713606336648,Eritrea,2024,low,2021,Afro-Asiatic,15.3359,38.9266,5000,1773,205
+tir,Tigrinya,"c(38.9266, 15.3359)",ERI,Eritrea,Sub-Saharan Africa,2065,6081196,339.5713606336648,Eritrea,2024,low,2022,Afro-Asiatic,15.3359,38.9266,8000,1955,218
+tir,Tigrinya,"c(38.9266, 15.3359)",ERI,Eritrea,Sub-Saharan Africa,2065,6081196,339.5713606336648,Eritrea,2024,low,2023,Afro-Asiatic,15.3359,38.9266,7000,2076,242
+tir,Tigrinya,"c(38.9266, 15.3359)",ERI,Eritrea,Sub-Saharan Africa,2065,6081196,339.5713606336648,Eritrea,2024,low,2024,Afro-Asiatic,15.3359,38.9266,8000,2236,270
+tuk,Turkmen,"c(59.17574, 37.08719)",IRN,Iran,Middle East & North Africa,453996,82913906,5475.510947463988,Iran,2024,high,2015,Turkic,37.08719,59.17574,3000,292,5160
+tuk,Turkmen,"c(59.17574, 37.08719)",IRN,Iran,Middle East & North Africa,453996,82913906,5475.510947463988,Iran,2024,high,2016,Turkic,37.08719,59.17574,9000,316,5050
+tuk,Turkmen,"c(59.17574, 37.08719)",IRN,Iran,Middle East & North Africa,453996,82913906,5475.510947463988,Iran,2024,high,2017,Turkic,37.08719,59.17574,9000,362,5201
+tuk,Turkmen,"c(59.17574, 37.08719)",IRN,Iran,Middle East & North Africa,453996,82913906,5475.510947463988,Iran,2024,high,2018,Turkic,37.08719,59.17574,8000,398,5293
+tuk,Turkmen,"c(59.17574, 37.08719)",IRN,Iran,Middle East & North Africa,453996,82913906,5475.510947463988,Iran,2024,high,2019,Turkic,37.08719,59.17574,12000,436,5510
+tuk,Turkmen,"c(59.17574, 37.08719)",IRN,Iran,Middle East & North Africa,453996,82913906,5475.510947463988,Iran,2024,high,2020,Turkic,37.08719,59.17574,15000,474,5632
+tuk,Turkmen,"c(59.17574, 37.08719)",IRN,Iran,Middle East & North Africa,453996,82913906,5475.510947463988,Iran,2024,high,2021,Turkic,37.08719,59.17574,14000,506,5860
+tuk,Turkmen,"c(59.17574, 37.08719)",IRN,Iran,Middle East & North Africa,453996,82913906,5475.510947463988,Iran,2024,high,2022,Turkic,37.08719,59.17574,16000,534,6175
+tuk,Turkmen,"c(59.17574, 37.08719)",IRN,Iran,Middle East & North Africa,453996,82913906,5475.510947463988,Iran,2024,high,2023,Turkic,37.08719,59.17574,14000,560,6615
+tuk,Turkmen,"c(59.17574, 37.08719)",IRN,Iran,Middle East & North Africa,453996,82913906,5475.510947463988,Iran,2024,high,2024,Turkic,37.08719,59.17574,18000,590,6804
+tur,Turkish,"c(32.8667, 39.8667)",TUR,Turkey,Europe & Central Asia,761425,83429615,9126.555360467622,Turkey,2024,high,2015,Turkic,39.8667,32.8667,369000,6614,238120
+tur,Turkish,"c(32.8667, 39.8667)",TUR,Turkey,Europe & Central Asia,761425,83429615,9126.555360467622,Turkey,2024,high,2016,Turkic,39.8667,32.8667,999000,6956,258705
+tur,Turkish,"c(32.8667, 39.8667)",TUR,Turkey,Europe & Central Asia,761425,83429615,9126.555360467622,Turkey,2024,high,2017,Turkic,39.8667,32.8667,705000,7302,288463
+tur,Turkish,"c(32.8667, 39.8667)",TUR,Turkey,Europe & Central Asia,761425,83429615,9126.555360467622,Turkey,2024,high,2018,Turkic,39.8667,32.8667,420000,7726,302969
+tur,Turkish,"c(32.8667, 39.8667)",TUR,Turkey,Europe & Central Asia,761425,83429615,9126.555360467622,Turkey,2024,high,2019,Turkic,39.8667,32.8667,526000,8411,321008
+tur,Turkish,"c(32.8667, 39.8667)",TUR,Turkey,Europe & Central Asia,761425,83429615,9126.555360467622,Turkey,2024,high,2020,Turkic,39.8667,32.8667,601000,9093,338280
+tur,Turkish,"c(32.8667, 39.8667)",TUR,Turkey,Europe & Central Asia,761425,83429615,9126.555360467622,Turkey,2024,high,2021,Turkic,39.8667,32.8667,859000,9607,385525
+tur,Turkish,"c(32.8667, 39.8667)",TUR,Turkey,Europe & Central Asia,761425,83429615,9126.555360467622,Turkey,2024,high,2022,Turkic,39.8667,32.8667,817000,10444,463715
+tur,Turkish,"c(32.8667, 39.8667)",TUR,Turkey,Europe & Central Asia,761425,83429615,9126.555360467622,Turkey,2024,high,2023,Turkic,39.8667,32.8667,1833000,11431,532371
+tur,Turkish,"c(32.8667, 39.8667)",TUR,Turkey,Europe & Central Asia,761425,83429615,9126.555360467622,Turkey,2024,high,2024,Turkic,39.8667,32.8667,1336000,12538,549586
+uig,Uighur,"c(87.38, 43.88)",CHN,China,East Asia & Pacific,14342903,1397715000,10261.679240760814,China,2024,high,2015,Turkic,43.88,87.38,2000,170,3419
+uig,Uighur,"c(87.38, 43.88)",CHN,China,East Asia & Pacific,14342903,1397715000,10261.679240760814,China,2024,high,2016,Turkic,43.88,87.38,8000,190,2561
+uig,Uighur,"c(87.38, 43.88)",CHN,China,East Asia & Pacific,14342903,1397715000,10261.679240760814,China,2024,high,2017,Turkic,43.88,87.38,5000,185,3072
+uig,Uighur,"c(87.38, 43.88)",CHN,China,East Asia & Pacific,14342903,1397715000,10261.679240760814,China,2024,high,2018,Turkic,43.88,87.38,3000,213,3371
+uig,Uighur,"c(87.38, 43.88)",CHN,China,East Asia & Pacific,14342903,1397715000,10261.679240760814,China,2024,high,2019,Turkic,43.88,87.38,10000,240,4105
+uig,Uighur,"c(87.38, 43.88)",CHN,China,East Asia & Pacific,14342903,1397715000,10261.679240760814,China,2024,high,2020,Turkic,43.88,87.38,13000,278,4202
+uig,Uighur,"c(87.38, 43.88)",CHN,China,East Asia & Pacific,14342903,1397715000,10261.679240760814,China,2024,high,2021,Turkic,43.88,87.38,13000,290,4801
+uig,Uighur,"c(87.38, 43.88)",CHN,China,East Asia & Pacific,14342903,1397715000,10261.679240760814,China,2024,high,2022,Turkic,43.88,87.38,15000,309,5144
+uig,Uighur,"c(87.38, 43.88)",CHN,China,East Asia & Pacific,14342903,1397715000,10261.679240760814,China,2024,high,2023,Turkic,43.88,87.38,15000,359,5507
+uig,Uighur,"c(87.38, 43.88)",CHN,China,East Asia & Pacific,14342903,1397715000,10261.679240760814,China,2024,high,2024,Turkic,43.88,87.38,15000,388,5944
+ukr,Ukrainian,"c(29.945, 49.796)",UKR,Ukraine,Europe & Central Asia,153781,44385155,3464.6944456992433,Ukraine,2024,high,2015,Indo-European,49.796,29.945,150000,2344,545172
+ukr,Ukrainian,"c(29.945, 49.796)",UKR,Ukraine,Europe & Central Asia,153781,44385155,3464.6944456992433,Ukraine,2024,high,2016,Indo-European,49.796,29.945,209000,2763,609981
+ukr,Ukrainian,"c(29.945, 49.796)",UKR,Ukraine,Europe & Central Asia,153781,44385155,3464.6944456992433,Ukraine,2024,high,2017,Indo-European,49.796,29.945,231000,3211,670361
+ukr,Ukrainian,"c(29.945, 49.796)",UKR,Ukraine,Europe & Central Asia,153781,44385155,3464.6944456992433,Ukraine,2024,high,2018,Indo-European,49.796,29.945,271000,3962,757348
+ukr,Ukrainian,"c(29.945, 49.796)",UKR,Ukraine,Europe & Central Asia,153781,44385155,3464.6944456992433,Ukraine,2024,high,2019,Indo-European,49.796,29.945,317000,4685,877398
+ukr,Ukrainian,"c(29.945, 49.796)",UKR,Ukraine,Europe & Central Asia,153781,44385155,3464.6944456992433,Ukraine,2024,high,2020,Indo-European,49.796,29.945,385000,5525,972696
+ukr,Ukrainian,"c(29.945, 49.796)",UKR,Ukraine,Europe & Central Asia,153781,44385155,3464.6944456992433,Ukraine,2024,high,2021,Indo-European,49.796,29.945,936000,6825,1064733
+ukr,Ukrainian,"c(29.945, 49.796)",UKR,Ukraine,Europe & Central Asia,153781,44385155,3464.6944456992433,Ukraine,2024,high,2022,Indo-European,49.796,29.945,1356000,8254,1130091
+ukr,Ukrainian,"c(29.945, 49.796)",UKR,Ukraine,Europe & Central Asia,153781,44385155,3464.6944456992433,Ukraine,2024,high,2023,Indo-European,49.796,29.945,1819000,26210,1219227
+ukr,Ukrainian,"c(29.945, 49.796)",UKR,Ukraine,Europe & Central Asia,153781,44385155,3464.6944456992433,Ukraine,2024,high,2024,Indo-European,49.796,29.945,1653000,38570,1303301
+urd,Urdu,"c(67, 25)",PAK,Pakistan,South Asia,278221,216565318,1284.69785729957,Pakistan,2024,low,2015,Indo-European,25,67,22000,2288,63762
+urd,Urdu,"c(67, 25)",PAK,Pakistan,South Asia,278221,216565318,1284.69785729957,Pakistan,2024,low,2016,Indo-European,25,67,32000,2598,100239
+urd,Urdu,"c(67, 25)",PAK,Pakistan,South Asia,278221,216565318,1284.69785729957,Pakistan,2024,low,2017,Indo-European,25,67,38000,2830,111006
+urd,Urdu,"c(67, 25)",PAK,Pakistan,South Asia,278221,216565318,1284.69785729957,Pakistan,2024,low,2018,Indo-European,25,67,16000,3037,126140
+urd,Urdu,"c(67, 25)",PAK,Pakistan,South Asia,278221,216565318,1284.69785729957,Pakistan,2024,low,2019,Indo-European,25,67,25000,3365,142611
+urd,Urdu,"c(67, 25)",PAK,Pakistan,South Asia,278221,216565318,1284.69785729957,Pakistan,2024,low,2020,Indo-European,25,67,30000,3718,150883
+urd,Urdu,"c(67, 25)",PAK,Pakistan,South Asia,278221,216565318,1284.69785729957,Pakistan,2024,low,2021,Indo-European,25,67,43000,4024,159619
+urd,Urdu,"c(67, 25)",PAK,Pakistan,South Asia,278221,216565318,1284.69785729957,Pakistan,2024,low,2022,Indo-European,25,67,85000,4831,166590
+urd,Urdu,"c(67, 25)",PAK,Pakistan,South Asia,278221,216565318,1284.69785729957,Pakistan,2024,low,2023,Indo-European,25,67,141000,6130,183712
+urd,Urdu,"c(67, 25)",PAK,Pakistan,South Asia,278221,216565318,1284.69785729957,Pakistan,2024,low,2024,Indo-European,25,67,93000,7779,199508
+uzn,Uzbek,"c(69.211, 40.886)",UZB,Uzbekistan,Europe & Central Asia,57921,33580650,1724.8326044909793,Uzbekistan,2024,low,2015,Turkic,40.886,69.211,11000,243,127794
+uzn,Uzbek,"c(69.211, 40.886)",UZB,Uzbekistan,Europe & Central Asia,57921,33580650,1724.8326044909793,Uzbekistan,2024,low,2016,Turkic,40.886,69.211,20000,343,128044
+uzn,Uzbek,"c(69.211, 40.886)",UZB,Uzbekistan,Europe & Central Asia,57921,33580650,1724.8326044909793,Uzbekistan,2024,low,2017,Turkic,40.886,69.211,22000,565,128766
+uzn,Uzbek,"c(69.211, 40.886)",UZB,Uzbekistan,Europe & Central Asia,57921,33580650,1724.8326044909793,Uzbekistan,2024,low,2018,Turkic,40.886,69.211,15000,724,129044
+uzn,Uzbek,"c(69.211, 40.886)",UZB,Uzbekistan,Europe & Central Asia,57921,33580650,1724.8326044909793,Uzbekistan,2024,low,2019,Turkic,40.886,69.211,27000,971,130252
+uzn,Uzbek,"c(69.211, 40.886)",UZB,Uzbekistan,Europe & Central Asia,57921,33580650,1724.8326044909793,Uzbekistan,2024,low,2020,Turkic,40.886,69.211,26000,1031,133350
+uzn,Uzbek,"c(69.211, 40.886)",UZB,Uzbekistan,Europe & Central Asia,57921,33580650,1724.8326044909793,Uzbekistan,2024,low,2021,Turkic,40.886,69.211,84000,1203,139267
+uzn,Uzbek,"c(69.211, 40.886)",UZB,Uzbekistan,Europe & Central Asia,57921,33580650,1724.8326044909793,Uzbekistan,2024,low,2022,Turkic,40.886,69.211,69000,2016,138576
+uzn,Uzbek,"c(69.211, 40.886)",UZB,Uzbekistan,Europe & Central Asia,57921,33580650,1724.8326044909793,Uzbekistan,2024,low,2023,Turkic,40.886,69.211,64000,2521,217362
+uzn,Uzbek,"c(69.211, 40.886)",UZB,Uzbekistan,Europe & Central Asia,57921,33580650,1724.8326044909793,Uzbekistan,2024,low,2024,Turkic,40.886,69.211,70000,2734,248206
+vie,Vietnamese,"c(105.774071, 20.681188)",VNM,Vietnam,East Asia & Pacific,261921,96462106,2715.2734981755425,Vietnam,2024,low,2015,Austroasiatic,20.681188,105.774071,143000,8064,1111384
+vie,Vietnamese,"c(105.774071, 20.681188)",VNM,Vietnam,East Asia & Pacific,261921,96462106,2715.2734981755425,Vietnam,2024,low,2016,Austroasiatic,20.681188,105.774071,276000,9044,1141971
+vie,Vietnamese,"c(105.774071, 20.681188)",VNM,Vietnam,East Asia & Pacific,261921,96462106,2715.2734981755425,Vietnam,2024,low,2017,Austroasiatic,20.681188,105.774071,517000,9681,1152538
+vie,Vietnamese,"c(105.774071, 20.681188)",VNM,Vietnam,East Asia & Pacific,261921,96462106,2715.2734981755425,Vietnam,2024,low,2018,Austroasiatic,20.681188,105.774071,285000,10250,1166289
+vie,Vietnamese,"c(105.774071, 20.681188)",VNM,Vietnam,East Asia & Pacific,261921,96462106,2715.2734981755425,Vietnam,2024,low,2019,Austroasiatic,20.681188,105.774071,326000,10859,1198759
+vie,Vietnamese,"c(105.774071, 20.681188)",VNM,Vietnam,East Asia & Pacific,261921,96462106,2715.2734981755425,Vietnam,2024,low,2020,Austroasiatic,20.681188,105.774071,352000,11292,1237717
+vie,Vietnamese,"c(105.774071, 20.681188)",VNM,Vietnam,East Asia & Pacific,261921,96462106,2715.2734981755425,Vietnam,2024,low,2021,Austroasiatic,20.681188,105.774071,469000,12055,1260026
+vie,Vietnamese,"c(105.774071, 20.681188)",VNM,Vietnam,East Asia & Pacific,261921,96462106,2715.2734981755425,Vietnam,2024,low,2022,Austroasiatic,20.681188,105.774071,373000,12889,1269533
+vie,Vietnamese,"c(105.774071, 20.681188)",VNM,Vietnam,East Asia & Pacific,261921,96462106,2715.2734981755425,Vietnam,2024,low,2023,Austroasiatic,20.681188,105.774071,395000,14255,1279798
+vie,Vietnamese,"c(105.774071, 20.681188)",VNM,Vietnam,East Asia & Pacific,261921,96462106,2715.2734981755425,Vietnam,2024,low,2024,Austroasiatic,20.681188,105.774071,437000,15859,1289596
+wol,Wolof,"c(-15.383, 15.2534)",SEN,Senegal,Sub-Saharan Africa,23578,16296364,1446.825807278237,Senegal,2024,low,2015,Atlantic-Congo,15.2534,-15.383,2000,206,1169
+wol,Wolof,"c(-15.383, 15.2534)",SEN,Senegal,Sub-Saharan Africa,23578,16296364,1446.825807278237,Senegal,2024,low,2016,Atlantic-Congo,15.2534,-15.383,7000,222,1041
+wol,Wolof,"c(-15.383, 15.2534)",SEN,Senegal,Sub-Saharan Africa,23578,16296364,1446.825807278237,Senegal,2024,low,2017,Atlantic-Congo,15.2534,-15.383,4000,232,1060
+wol,Wolof,"c(-15.383, 15.2534)",SEN,Senegal,Sub-Saharan Africa,23578,16296364,1446.825807278237,Senegal,2024,low,2018,Atlantic-Congo,15.2534,-15.383,1000,241,1161
+wol,Wolof,"c(-15.383, 15.2534)",SEN,Senegal,Sub-Saharan Africa,23578,16296364,1446.825807278237,Senegal,2024,low,2019,Atlantic-Congo,15.2534,-15.383,4000,252,1177
+wol,Wolof,"c(-15.383, 15.2534)",SEN,Senegal,Sub-Saharan Africa,23578,16296364,1446.825807278237,Senegal,2024,low,2020,Atlantic-Congo,15.2534,-15.383,8000,266,1364
+wol,Wolof,"c(-15.383, 15.2534)",SEN,Senegal,Sub-Saharan Africa,23578,16296364,1446.825807278237,Senegal,2024,low,2021,Atlantic-Congo,15.2534,-15.383,8000,272,1630
+wol,Wolof,"c(-15.383, 15.2534)",SEN,Senegal,Sub-Saharan Africa,23578,16296364,1446.825807278237,Senegal,2024,low,2022,Atlantic-Congo,15.2534,-15.383,9000,300,1645
+wol,Wolof,"c(-15.383, 15.2534)",SEN,Senegal,Sub-Saharan Africa,23578,16296364,1446.825807278237,Senegal,2024,low,2023,Atlantic-Congo,15.2534,-15.383,10000,309,1650
+wol,Wolof,"c(-15.383, 15.2534)",SEN,Senegal,Sub-Saharan Africa,23578,16296364,1446.825807278237,Senegal,2024,low,2024,Atlantic-Congo,15.2534,-15.383,11000,327,1690
+yor,Yoruba,"c(3.67225, 7.15345)",NGA,Nigeria,Sub-Saharan Africa,448120,200963599,2229.856562232447,Nigeria,2024,low,2015,Atlantic-Congo,7.15345,3.67225,7000,693,31072
+yor,Yoruba,"c(3.67225, 7.15345)",NGA,Nigeria,Sub-Saharan Africa,448120,200963599,2229.856562232447,Nigeria,2024,low,2016,Atlantic-Congo,7.15345,3.67225,14000,802,31113
+yor,Yoruba,"c(3.67225, 7.15345)",NGA,Nigeria,Sub-Saharan Africa,448120,200963599,2229.856562232447,Nigeria,2024,low,2017,Atlantic-Congo,7.15345,3.67225,15000,867,31502
+yor,Yoruba,"c(3.67225, 7.15345)",NGA,Nigeria,Sub-Saharan Africa,448120,200963599,2229.856562232447,Nigeria,2024,low,2018,Atlantic-Congo,7.15345,3.67225,11000,905,31636
+yor,Yoruba,"c(3.67225, 7.15345)",NGA,Nigeria,Sub-Saharan Africa,448120,200963599,2229.856562232447,Nigeria,2024,low,2019,Atlantic-Congo,7.15345,3.67225,12000,909,31773
+yor,Yoruba,"c(3.67225, 7.15345)",NGA,Nigeria,Sub-Saharan Africa,448120,200963599,2229.856562232447,Nigeria,2024,low,2020,Atlantic-Congo,7.15345,3.67225,17000,952,32123
+yor,Yoruba,"c(3.67225, 7.15345)",NGA,Nigeria,Sub-Saharan Africa,448120,200963599,2229.856562232447,Nigeria,2024,low,2021,Atlantic-Congo,7.15345,3.67225,14000,1024,33307
+yor,Yoruba,"c(3.67225, 7.15345)",NGA,Nigeria,Sub-Saharan Africa,448120,200963599,2229.856562232447,Nigeria,2024,low,2022,Atlantic-Congo,7.15345,3.67225,17000,1162,33514
+yor,Yoruba,"c(3.67225, 7.15345)",NGA,Nigeria,Sub-Saharan Africa,448120,200963599,2229.856562232447,Nigeria,2024,low,2023,Atlantic-Congo,7.15345,3.67225,15000,1412,31921
+yor,Yoruba,"c(3.67225, 7.15345)",NGA,Nigeria,Sub-Saharan Africa,448120,200963599,2229.856562232447,Nigeria,2024,low,2024,Atlantic-Congo,7.15345,3.67225,23000,1721,33554
+zlm,Malay,"c(103, 1.85856)",MYS,Malaysia,East Asia & Pacific,364681,31949777,11414.195473101425,Malaysia,2024,high,2015,Austronesian,1.85856,103,14000,53,271668
+zlm,Malay,"c(103, 1.85856)",MYS,Malaysia,East Asia & Pacific,364681,31949777,11414.195473101425,Malaysia,2024,high,2016,Austronesian,1.85856,103,37000,58,279794
+zlm,Malay,"c(103, 1.85856)",MYS,Malaysia,East Asia & Pacific,364681,31949777,11414.195473101425,Malaysia,2024,high,2017,Austronesian,1.85856,103,45000,66,286439
+zlm,Malay,"c(103, 1.85856)",MYS,Malaysia,East Asia & Pacific,364681,31949777,11414.195473101425,Malaysia,2024,high,2018,Austronesian,1.85856,103,27000,98,310143
+zlm,Malay,"c(103, 1.85856)",MYS,Malaysia,East Asia & Pacific,364681,31949777,11414.195473101425,Malaysia,2024,high,2019,Austronesian,1.85856,103,33000,93,323156
+zlm,Malay,"c(103, 1.85856)",MYS,Malaysia,East Asia & Pacific,364681,31949777,11414.195473101425,Malaysia,2024,high,2020,Austronesian,1.85856,103,37000,105,332708
+zlm,Malay,"c(103, 1.85856)",MYS,Malaysia,East Asia & Pacific,364681,31949777,11414.195473101425,Malaysia,2024,high,2021,Austronesian,1.85856,103,94000,101,345801
+zlm,Malay,"c(103, 1.85856)",MYS,Malaysia,East Asia & Pacific,364681,31949777,11414.195473101425,Malaysia,2024,high,2022,Austronesian,1.85856,103,59000,124,355084
+zlm,Malay,"c(103, 1.85856)",MYS,Malaysia,East Asia & Pacific,364681,31949777,11414.195473101425,Malaysia,2024,high,2023,Austronesian,1.85856,103,141000,143,362404
+zlm,Malay,"c(103, 1.85856)",MYS,Malaysia,East Asia & Pacific,364681,31949777,11414.195473101425,Malaysia,2024,high,2024,Austronesian,1.85856,103,90000,153,369339
+aar,Afar,"c(41.8083, 12.2281)",ETH,Ethiopia,Sub-Saharan Africa,95912,112078730,855.7555925196511,NA,NA,low,2017,Afro-Asiatic,12.2281,41.8083,1000,11,1
+aar,Afar,"c(41.8083, 12.2281)",ETH,Ethiopia,Sub-Saharan Africa,95912,112078730,855.7555925196511,NA,NA,low,2020,Afro-Asiatic,12.2281,41.8083,1000,14,1
+aar,Afar,"c(41.8083, 12.2281)",ETH,Ethiopia,Sub-Saharan Africa,95912,112078730,855.7555925196511,NA,NA,low,2022,Afro-Asiatic,12.2281,41.8083,3000,34,1
+aar,Afar,"c(41.8083, 12.2281)",ETH,Ethiopia,Sub-Saharan Africa,95912,112078730,855.7555925196511,NA,NA,low,2023,Afro-Asiatic,12.2281,41.8083,2000,44,0
+aar,Afar,"c(41.8083, 12.2281)",ETH,Ethiopia,Sub-Saharan Africa,95912,112078730,855.7555925196511,NA,NA,low,2024,Afro-Asiatic,12.2281,41.8083,5000,50,0
+kir,Kirghiz,"c(74, 42)",KGZ,Kyrgyzstan,Europe & Central Asia,8454,6456900,1309.2970310830274,Kyrgyzstan,2024,low,2017,Turkic,42,74,18000,10,60048
+kir,Kirghiz,"c(74, 42)",KGZ,Kyrgyzstan,Europe & Central Asia,8454,6456900,1309.2970310830274,Kyrgyzstan,2024,low,2018,Turkic,42,74,12000,23,79985
+kir,Kirghiz,"c(74, 42)",KGZ,Kyrgyzstan,Europe & Central Asia,8454,6456900,1309.2970310830274,Kyrgyzstan,2024,low,2019,Turkic,42,74,15000,53,79348
+kir,Kirghiz,"c(74, 42)",KGZ,Kyrgyzstan,Europe & Central Asia,8454,6456900,1309.2970310830274,Kyrgyzstan,2024,low,2020,Turkic,42,74,18000,64,79754
+kir,Kirghiz,"c(74, 42)",KGZ,Kyrgyzstan,Europe & Central Asia,8454,6456900,1309.2970310830274,Kyrgyzstan,2024,low,2021,Turkic,42,74,32000,81,80748
+kir,Kirghiz,"c(74, 42)",KGZ,Kyrgyzstan,Europe & Central Asia,8454,6456900,1309.2970310830274,Kyrgyzstan,2024,low,2022,Turkic,42,74,28000,230,81252
+kir,Kirghiz,"c(74, 42)",KGZ,Kyrgyzstan,Europe & Central Asia,8454,6456900,1309.2970310830274,Kyrgyzstan,2024,low,2023,Turkic,42,74,24000,485,80853
+kir,Kirghiz,"c(74, 42)",KGZ,Kyrgyzstan,Europe & Central Asia,8454,6456900,1309.2970310830274,Kyrgyzstan,2024,low,2024,Turkic,42,74,28000,605,79024
+ndo,Ndonga,"c(17.35, -17.22)",AGO,Angola,Sub-Saharan Africa,88815,31825295,2790.7046894616374,Angola,2024,low,2017,Atlantic-Congo,-17.22,17.35,1000,14,8
+ndo,Ndonga,"c(17.35, -17.22)",AGO,Angola,Sub-Saharan Africa,88815,31825295,2790.7046894616374,Angola,2024,low,2020,Atlantic-Congo,-17.22,17.35,1000,25,8
+ndo,Ndonga,"c(17.35, -17.22)",AGO,Angola,Sub-Saharan Africa,88815,31825295,2790.7046894616374,Angola,2024,low,2022,Atlantic-Congo,-17.22,17.35,2000,25,8
+ndo,Ndonga,"c(17.35, -17.22)",AGO,Angola,Sub-Saharan Africa,88815,31825295,2790.7046894616374,Angola,2024,low,2023,Atlantic-Congo,-17.22,17.35,2000,34,8
+ndo,Ndonga,"c(17.35, -17.22)",AGO,Angola,Sub-Saharan Africa,88815,31825295,2790.7046894616374,Angola,2024,low,2024,Atlantic-Congo,-17.22,17.35,3000,35,8
+kas,Kashmiri,"c(74.330455, 34.166825)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2020,Indo-European,34.166825,74.330455,2000,21,325
+kas,Kashmiri,"c(74.330455, 34.166825)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2021,Indo-European,34.166825,74.330455,6000,21,484
+kas,Kashmiri,"c(74.330455, 34.166825)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2022,Indo-European,34.166825,74.330455,9000,24,1008
+kas,Kashmiri,"c(74.330455, 34.166825)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2023,Indo-European,34.166825,74.330455,10000,29,2526
+kas,Kashmiri,"c(74.330455, 34.166825)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2024,Indo-European,34.166825,74.330455,12000,30,4606
+mlt,Maltese,"c(14.4508, 35.8884)",MLT,Malta,Middle East & North Africa,14989,502653,29819.776267126625,Malta,2024,high,2020,Afro-Asiatic,35.8884,14.4508,13000,10,3434
+mlt,Maltese,"c(14.4508, 35.8884)",MLT,Malta,Middle East & North Africa,14989,502653,29819.776267126625,Malta,2024,high,2021,Afro-Asiatic,35.8884,14.4508,16000,11,3648
+mlt,Maltese,"c(14.4508, 35.8884)",MLT,Malta,Middle East & North Africa,14989,502653,29819.776267126625,Malta,2024,high,2022,Afro-Asiatic,35.8884,14.4508,14000,13,4372
+mlt,Maltese,"c(14.4508, 35.8884)",MLT,Malta,Middle East & North Africa,14989,502653,29819.776267126625,Malta,2024,high,2023,Afro-Asiatic,35.8884,14.4508,16000,14,5082
+mlt,Maltese,"c(14.4508, 35.8884)",MLT,Malta,Middle East & North Africa,14989,502653,29819.776267126625,Malta,2024,high,2024,Afro-Asiatic,35.8884,14.4508,16000,13,5879
+asm,Assamese,"c(91.2932, 26.0876)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2022,Indo-European,26.0876,91.2932,21000,11,9861
+asm,Assamese,"c(91.2932, 26.0876)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2023,Indo-European,26.0876,91.2932,16000,10,10883
+asm,Assamese,"c(91.2932, 26.0876)",IND,India,South Asia,2868929,1366417754,2099.598743943135,India,2024,low,2024,Indo-European,26.0876,91.2932,19000,12,12505
+ava,Avaric,"c(46.558, 41.7047)",AZE,Azerbaijan,Europe & Central Asia,48047,10023318,4793.522464317704,Azerbaijan,2024,high,2022,Nakh-Daghestanian,41.7047,46.558,14000,11,2602
+ava,Avaric,"c(46.558, 41.7047)",AZE,Azerbaijan,Europe & Central Asia,48047,10023318,4793.522464317704,Azerbaijan,2024,high,2023,Nakh-Daghestanian,41.7047,46.558,12000,11,3315
+ava,Avaric,"c(46.558, 41.7047)",AZE,Azerbaijan,Europe & Central Asia,48047,10023318,4793.522464317704,Azerbaijan,2024,high,2024,Nakh-Daghestanian,41.7047,46.558,14000,10,3378
+bam,Bambara,"c(-7.65, 12.9)",MLI,Mali,Sub-Saharan Africa,17279,19658031,878.9791815874133,Mali,2024,low,2022,Mande,12.9,-7.65,8000,10,722
+bam,Bambara,"c(-7.65, 12.9)",MLI,Mali,Sub-Saharan Africa,17279,19658031,878.9791815874133,Mali,2024,low,2024,Mande,12.9,-7.65,13000,12,821
+nya,"Chichewa, Chewa, Nyanja","c(32.8108, -14.8047)",MOZ,Mozambique,Sub-Saharan Africa,15291,30366036,503.55601238172807,Mozambique,2024,low,2022,Atlantic-Congo,-14.8047,32.8108,8000,50,857
+nya,"Chichewa, Chewa, Nyanja","c(32.8108, -14.8047)",MOZ,Mozambique,Sub-Saharan Africa,15291,30366036,503.55601238172807,Mozambique,2024,low,2023,Atlantic-Congo,-14.8047,32.8108,9000,65,934
+nya,"Chichewa, Chewa, Nyanja","c(32.8108, -14.8047)",MOZ,Mozambique,Sub-Saharan Africa,15291,30366036,503.55601238172807,Mozambique,2024,low,2024,Atlantic-Congo,-14.8047,32.8108,11000,92,1026
+lao,Lao,"c(102.46, 19)",LAO,Laos,East Asia & Pacific,18173,7169455,2534.781235114803,Laos,2024,low,2023,Tai-Kadai,19,102.46,17000,10,3932
+lao,Lao,"c(102.46, 19)",LAO,Laos,East Asia & Pacific,18173,7169455,2534.781235114803,Laos,2024,low,2024,Tai-Kadai,19,102.46,16000,10,3914
+ido,Ido,"c(2.81, 49.33)",FRA,France,Europe & Central Asia,2715518,67059887,40493.92448275375,France,2024,high,2024,Artificial Language,49.33,2.81,19000,10,43985
