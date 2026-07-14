@@ -114,7 +114,7 @@ pw_vs_speak = panel_2024 %>%
   theme(legend.position = c(0.8, 0.1))
 
 print(pw_vs_speak)
-ggsave("analysis/pw_vs_speak_cross.png", pw_vs_speak, dpi = 300, height = 8, width = 12)
+ggsave("analysis/plots/pw_vs_speak_cross.png", pw_vs_speak, dpi = 300, height = 8, width = 12)
 
 
 cor.test(panel_2024$log_page_views, panel_2024$log_speakers, method = "pearson")
@@ -133,7 +133,7 @@ pw_vs_articles = panel_2024 %>%
        colour = "Income group") + 
   theme(legend.position = c(0.8, 0.1))
 print(pw_vs_articles)
-ggsave("analysis/pw_vs_articles_cross.png", pw_vs_articles, dpi = 300, height = 8, width = 12)
+ggsave("analysis/plots/pw_vs_articles_cross.png", pw_vs_articles, dpi = 300, height = 8, width = 12)
 
 # exponential relationship
 cor.test(panel_2024$log_page_views, panel_2024$log_articles, method = "pearson")
