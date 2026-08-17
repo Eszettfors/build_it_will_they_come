@@ -42,16 +42,16 @@ speaker_map = df_geo %>%
   ggplot() + 
   geom_sf(data = df_geo) + 
   geom_sf(data = plot_data, aes(size = log10(speakers), colour = income_grp)) + 
-  theme_minimal(base_size = 14) +
+  theme_minimal(base_size = 20) +
   theme(panel.border = element_blank(),
         axis.text = element_blank(),
         axis.ticks = element_blank(),
         legend.background = element_blank(),
-        legend.position = c(0.17, 0.4)) + 
+        legend.position = c(0.15, 0.5)) + 
   guides(fill = "none",
          alpha = "none",
-         colour = guide_legend(title = "Income Group (World Bank)"),
-         size = guide_legend(title = "Number of Speakers (log10)")) 
+         colour = guide_legend(title = "Income Group\n(World Bank)"),
+         size = guide_legend(title = "Number of \nSpeakers (log10)")) 
 speaker_map
 ggsave("analysis/plots/speaker_map.png", speaker_map, height = 8, width = 12, dpi = 300)
   
