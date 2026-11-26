@@ -211,7 +211,7 @@ coef_plots_edits = plot_coefs(
   )
 ) +
   labs(
-    title = "B) Effect of speaker and edits on Wikipedia page views",
+    title = "B) Effect of speakers and edits on Wikipedia page views",
     subtitle = "Coefficient estimates with 95% confidence intervals",
     x = "Estimated effect",
     y = NULL
