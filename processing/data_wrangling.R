@@ -13,6 +13,7 @@ df_supp = read_csv("data/raw/wikipedia_support_time_series.csv")
 geo = ne_countries(scale = "medium")
 income_grp = read_csv("data/raw/world-bank-income-groups.csv")
 
+
 # join wikipedia data
 df_page_views = df_wiki %>%
   left_join(df_country) %>%
@@ -27,7 +28,7 @@ df_full = df_page_views %>%
   select(ISO6393, year, family, latitude, longitude, page_views) %>%
   inner_join(df_speakers) %>%
   inner_join(df_supp %>%
-               select(ISO6393, year, articles))
+               select(ISO6393, year, articles, edits))
 
 # lang not in wikipedia
 df_speakers %>%
@@ -64,6 +65,12 @@ df_langs %>%
 # classify based on economy
 df_langs = df_langs %>%
   left_join(income_grp, join_by("iso_a3_eh" == "Code"))
+
+df_langs %>%
+  count(`World Bank's income classification`)
+
+df_langs %>%
+  filter(is.na(`World Bank's income classification`)) # Ethiopian languages --> low income country
 
 df_langs = df_langs %>%
   mutate(income_grp = ifelse(`World Bank's income classification` %in% c("Upper-middle-income countries", "High-income countries"), "high", "low")) %>%

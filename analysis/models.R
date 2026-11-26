@@ -7,6 +7,7 @@ library(modelsummary)
 
 panel = read_csv("data/processed/finland_panel.csv")
 
+
 theme_set(theme_bw())
 
 # we want to look at how a change in page view is determined by a change in native speaker numbers and change in the utility
@@ -23,7 +24,9 @@ panel = panel %>%
   mutate(log_page_views = safe_log(page_views),
          log_speakers = safe_log(speakers),
          log_articles = safe_log(articles),
-         year = as.factor(year))
+         log_edits = safe_log(edits),
+         year = as.factor(year),
+         income_grp = factor(income_grp, levels = c("low", "high")))
 
 
 get_qq_plot = function(mdl){
@@ -45,46 +48,97 @@ cs_lm_articles = lm(data = cs, log_page_views ~ log_articles)
 summary(cs_lm_articles)
 get_qq_plot(cs_lm_articles)
 
-cs_lm = lm(data = cs, log_page_views ~ log_speakers + log_articles)
+cs_lm_edits = lm(data = cs, log_page_views ~ log_edits)
+summary(cs_lm_edits)
+
+cs_lm = lm(data = cs, log_page_views ~ log_speakers + log_edits)
 summary(cs_lm)
 get_qq_plot(cs_lm)
-plot(cs_lm)
-VIF(cs_lm)
-
+#plot(cs_lm)
 
 # we start by fitting a pooled OLS for each variable
 lm_speakers = lm(data = panel, log_page_views ~ log_speakers)
 summary(lm_speakers)# r^2 = 0.49
 get_qq_plot(lm_speakers)
-AIC(lm_speakers)
+AIC(lm_speakers) # 3937
 
 lm_articles = lm(data = panel, log_page_views ~ log_articles)
-summary(lm_articles) # r^2 = 0.63
+summary(lm_articles) # r^2 = 0.628
 get_qq_plot(lm_articles)
-AIC(lm_articles)
+AIC(lm_articles) # 3628
 
-#we fit a pooled ols as baseline
-pooled_ols = feols(data = panel, log_page_views ~ log_speakers + log_articles)
-summary(pooled_ols)
-get_qq_plot(pooled_ols)
-AIC(pooled_ols)
-#plot(pooled_ols)
+lm_edits = lm(data = panel, log_page_views ~ log_edits)
+summary(lm_edits) # r^2 = 0.725
+get_qq_plot(lm_edits)
+AIC(lm_edits) # 3326
 
-plot_coefs(pooled_ols)
+### we fit a pooled ols as baseline, using speaker + articles and speaker + edits
+# with articles
+pooled_ols_articles = feols(data = panel, log_page_views ~ log_speakers + log_articles)
+summary(pooled_ols_articles)
+get_qq_plot(pooled_ols_articles)
+AIC(pooled_ols_articles) # 3221
+#plot(pooled_ols_articles)
+plot_coefs(pooled_ols_articles)
 
-# we now want to take the panel structure into account, we fit a fixed effect regression model with language and time fixed effects
-fe = feols(data = panel, log_page_views ~ log_speakers + log_articles | language_name + year)
-AIC(fe)
-summary(fe)
-get_qq_plot(fe)
-plot_coefs(pooled_ols, fe)
+# with edits
+pooled_ols_edits = feols(data = panel, log_page_views ~ log_speakers + log_edits)
+summary(pooled_ols_edits)
+get_qq_plot(pooled_ols_edits)
+AIC(pooled_ols_edits) # 2965
+plot_coefs(pooled_ols_edits)
+
+plot_coefs(pooled_ols_articles, pooled_ols_edits, model.names = c("articles", "edits"))
+
+# we now want to take the panel structure into account, we fit a fixed effect regression model with language and time fixed effects, we cluster the standard errors on 
+# the language level
+
+# with articles
+fe_articles = feols(data = panel, log_page_views ~ log_speakers + log_articles | language_name + year, vcov = ~language_name)
+AIC(fe_articles) # 632.24
+summary(fe_articles)
+get_qq_plot(fe_articles)
+plot_coefs(pooled_ols_articles, fe_articles, model.names = c("pooled", "fe_articles"))
+
+# remove outliers e.g. Finnish English and Swedish
+fe_articles_no_outliers = feols(data = panel %>% 
+                                  filter(!ISO6393 %in% c("eng", "fin", "swe", "aka", "aar", "ndo")), log_page_views ~ log_speakers + log_articles | language_name + year, vcov = ~language_name)
+get_qq_plot(fe_articles_no_outliers)
+summary(fe_articles_no_outliers)
+
+pooled_articles_no_outliers = lm(data = panel %>% 
+                         filter(!ISO6393 %in% c("eng", "fin", "swe")), log_page_views ~ log_speakers + log_articles)
+get_qq_plot(pooled_articles_no_outliers)
+summary(pooled_articles_no_outliers)
+plot_coefs(pooled_ols_articles, pooled_articles_no_outliers, fe_articles, fe_articles_no_outliers, model.names = c("pooled", "pooled no outliers","fe", "fe no outliers"))
+
+##### edits ####
+pooled_ols_edits = feols(data = panel, log_page_views ~ log_speakers + log_edits)
+summary(pooled_ols_edits)
+get_qq_plot(pooled_ols_edits)
+AIC(pooled_ols_edits) #2965.637
+
+fe_edits = feols(data = panel, log_page_views ~ log_speakers + log_edits | language_name + year, vcov = ~language_name)
+AIC(fe_edits) # 672.72
+summary(fe_edits)
+get_qq_plot(fe_edits)
+plot_coefs(fe_edits)
 
 # remove outliers e.g. Finnish English and Swedish + akan afar and ndonga as a robustness check
-fe_robust = feols(data = panel %>% 
-                    filter(!ISO6393 %in% c("eng", "fin", "swe", "aka", "aar", "ndo")), log_page_views ~ log_speakers + log_articles | language_name + year)
-get_qq_plot(fe_robust)
-summary(fe_robust)
-coefplot(fe_robust)
+fe_edits_no_outliers = feols(data = panel %>% 
+                    filter(!ISO6393 %in% c("eng", "fin", "swe", "aka", "aar", "ndo")), log_page_views ~ log_speakers + log_edits | language_name + year, vcov = ~language_name)
+get_qq_plot(fe_edits_no_outliers)
+summary(fe_edits_no_outliers)
+plot_coefs(fe_edits_no_outliers)
+
+
+pooled_edits_no_outliers = lm(data = panel %>% 
+                                   filter(!ISO6393 %in% c("eng", "fin", "swe", "aka", "aar", "ndo")), log_page_views ~ log_speakers + log_edits)
+get_qq_plot(pooled_edits_no_outliers)
+summary(pooled_edits_no_outliers)
+
+plot_coefs(pooled_ols_edits, pooled_edits_no_outliers, fe_edits, fe_edits_no_outliers, model.names = c("pooled", "pooled_no_outliers","fe", "fe_no_outliers"))
+
 
 # low & high income languages
 panel_low_inc = panel %>%
@@ -92,18 +146,20 @@ panel_low_inc = panel %>%
 panel_high_inc = panel %>%
   filter(income_grp == "high")
 
-fe_high_income = feols(data = panel_high_inc, log_page_views ~ log_speakers + log_articles | language_name + year)
-summary(fe_high_income)
-get_qq_plot(fe_high_income)
+fe_high_income_articles = feols(data = panel_high_inc, log_page_views ~ log_speakers + log_articles | language_name + year, vcov = ~language_name)
+summary(fe_high_income_articles)
+get_qq_plot(fe_high_income_articles)
+AIC(fe_high_income_articles)
 
-fe_low_income = feols(data = panel_low_inc, log_page_views ~ log_speakers + log_articles | language_name + year)
-summary(fe_low_income)
-get_qq_plot(fe_low_income)
+fe_low_income_articles = feols(data = panel_low_inc, log_page_views ~ log_speakers + log_articles | language_name + year, vcov = ~language_name)
+summary(fe_low_income_articles)
+get_qq_plot(fe_low_income_articles)
+AIC(fe_low_income_articles)
 
+plot_coefs(fe_low_income, fe_high_income, model.names = c("low", "high"))
 
-
-coef_plots = plot_coefs(
-  pooled_ols, fe, fe_low_income, fe_high_income,
+coef_plots_articles = plot_coefs(
+  pooled_ols_articles, fe_articles, fe_low_income, fe_high_income,
   coefs = c("Speakers (ln)" = "log_speakers",
             "Articles (ln)" = "log_articles"),
   model.names = c(
@@ -114,7 +170,7 @@ coef_plots = plot_coefs(
   )
 ) +
   labs(
-    title = "Effect on Wikipedia page views",
+    title = "A) Effect of speakers and articles on Wikipedia page views",
     subtitle = "Coefficient estimates with 95% confidence intervals",
     x = "Estimated effect",
     y = NULL
@@ -128,13 +184,64 @@ coef_plots = plot_coefs(
     panel.grid.major.y = element_blank(),
     panel.grid.minor = element_blank(),
     legend.position = "bottom",
+  ) + 
+  coord_cartesian(xlim = c(-0.25, 0.75))
+coef_plots_articles
+
+### edits with income split
+fe_high_income_edits = feols(data = panel_high_inc, log_page_views ~ log_speakers + log_edits | language_name + year, vcov = ~language_name)
+summary(fe_high_income_edits)
+AIC(fe_high_income_edits)
+get_qq_plot(fe_high_income_edits)
+
+fe_low_income_edits = feols(data = panel_low_inc, log_page_views ~ log_speakers + log_edits | language_name + year, vcov = ~language_name)
+summary(fe_low_income_edits)
+AIC(fe_low_income_edits)
+get_qq_plot(fe_low_income)
+
+coef_plots_edits = plot_coefs(
+  pooled_ols_edits, fe_edits, fe_low_income_edits, fe_high_income_edits,
+  coefs = c("Speakers (ln)" = "log_speakers",
+            "Edits (ln)" = "log_edits"),
+  model.names = c(
+    "Pooled OLS",
+    "Fixed Effects",
+    "Fixed Effects, Low Income",
+    "Fixed Effects, High Income"
   )
-coef_plots
+) +
+  labs(
+    title = "B) Effect of speaker and edits on Wikipedia page views",
+    subtitle = "Coefficient estimates with 95% confidence intervals",
+    x = "Estimated effect",
+    y = NULL
+  ) +
+  theme_minimal(base_size = 14) +
+  theme(
+    plot.title = element_text(face = "bold", size = 16),
+    plot.subtitle = element_text(size = 12, margin = margin(b = 10)),
+    axis.text.y = element_text(size = 11),
+    axis.text.x = element_text(size = 11),
+    panel.grid.major.y = element_blank(),
+    panel.grid.minor = element_blank(),
+    legend.position = "bottom",
+  ) + 
+  coord_cartesian(xlim = c(-0.25, 0.75))
+coef_plots_edits
 ggsave("analysis/plots/coef_plots.png", coef_plots, width = 12, height = 8, dpi = 300)
 
-modelsummary(list(pooled_ols, fe, fe_low_income, fe_high_income))
-esttex(list(pooled_ols, fe, fe_low_income, fe_high_income))
+coef_plots = coef_plots_articles / coef_plots_edits
+ggsave("analysis/plots/coef_plots.png", coef_plots, width = 10, height = 12, dpi = 300)
 
+modelsummary(list(pooled_ols_articles, fe_articles, fe_low_income_articles, fe_high_income_articles, pooled_ols_edits, fe_edits, fe_low_income_edits, fe_high_income_edits))
+
+
+esttex(list(pooled_ols_articles, fe_articles, fe_low_income_articles, fe_high_income_articles))
+esttex(list(pooled_ols_edits, fe_edits, fe_low_income_edits, fe_high_income_edits))
+
+
+
+##### robustness checks
 
 # normalize to per capita page views and per article page views
 panel = panel %>%
@@ -226,3 +333,6 @@ summary(fe_reverse_2)
 
 plot_coefs(fe_lag_2, fe_reverse_2) # at a lag of 2, articles remains a significant predictor of page views, but page views is not a significant predictor of articles 
 # --> argument against reverse causality
+
+
+

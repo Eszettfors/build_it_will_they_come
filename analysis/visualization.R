@@ -1,3 +1,4 @@
+library(segmented)
 library(tidyverse)
 library(DescTools)
 library(ggrepel)
@@ -60,18 +61,20 @@ ggsave("analysis/plots/speaker_map.png", speaker_map, height = 8, width = 12, dp
 panel = panel %>%
   mutate(log_page_views = safe_log(page_views),
          log_speakers = safe_log(speakers),
-         log_articles = safe_log(articles))
+         log_articles = safe_log(articles),
+         log_edits = safe_log(edits)) %>%
+  mutate(log_pw_per_art = safe_log(page_views/articles))
 
 panel %>%
   filter(year == 2024) %>%
-  select(log_articles, log_speakers, log_page_views) %>%
+  dplyr::select(log_articles, log_speakers, log_page_views, log_edits) %>%
   ggpairs()
 
 
 Desc(panel$log_page_views)
 Desc(panel$log_speakers)
 Desc(panel$log_articles)
-
+Desc(panel$log_edits)
 
 # spaghetti plots with value across time
 panel %>%
@@ -94,7 +97,20 @@ panel %>%
   theme(legend.position = "none")
 
 panel %>%
+  ggplot(aes(y = log_edits, x = year, fill = language_name, colour = language_name)) +
+  geom_point() + 
+  geom_line() + 
+  theme(legend.position = "none")
+
+panel %>%
   filter(year == 2024, articles == 0) # Akan and Afar no articles in 2024, might have been discontinued
+
+panel %>%
+  ggplot(aes(y = log_edits, x = year, fill = language_name, colour = language_name)) +
+  geom_point() + 
+  geom_line() + 
+  theme(legend.position = "none")
+
 
 # cross sectional view 
 panel_2024 = panel %>%
@@ -107,7 +123,7 @@ pw_vs_speak = panel_2024 %>%
   geom_smooth(method = "lm") + 
   geom_label(aes(label = ISO6393, colour = income_grp)) +
   theme_minimal(base_size = 14) +
-  labs(title = "page views vs native speakers, 2024",
+  labs(title = "A) page views vs native speakers, 2024",
        x = "Native speakers (ln)",
        y = "Wikipedia page views (ln)",
        colour = "Income group") + 
@@ -139,9 +155,28 @@ ggsave("analysis/plots/pw_vs_articles_cross.png", pw_vs_articles, dpi = 300, hei
 cor.test(panel_2024$log_page_views, panel_2024$log_articles, method = "pearson")
 cor.test(panel_2024$log_page_views, panel_2024$log_articles, method = "spearman")
 
-combined_plot = pw_vs_speak + pw_vs_articles 
+
+
+pw_vs_edits = panel_2024 %>%
+  ggplot(aes(y = log_page_views, x = log_edits)) + 
+  geom_point() +
+  geom_smooth(method = "lm") + 
+  geom_label(aes(label = ISO6393, colour = income_grp)) + 
+  theme_minimal(base_size = 14) +
+  labs(title =  "C) page views vs number of edits, 2024",
+       x = "Number of edits (ln)",
+       y = "Wikipedia page views (ln)",
+       colour = "Income group") + 
+  theme(legend.position = c(0.8, 0.1))
+print(pw_vs_edits)
+ggsave("analysis/plots/combined_pw_edit_cross.png", pw_vs_edits, dpi = 300, height = 8, width = 12)
+
+cor.test(panel_2024$log_page_views, panel_2024$log_edits, method = "pearson")
+cor.test(panel_2024$log_page_views, panel_2024$log_edits, method = "spearman")
+
+combined_plot = pw_vs_speak + pw_vs_articles / pw_vs_edits
 print(combined_plot)
-ggsave("analysis/plots/combined_pw_art_cross.png", combined_plot, dpi = 300, height = 8, width = 12)
+ggsave("analysis/plots/combined_plot_cross.png", combined_plot, dpi = 300, height = 8, width = 12)
 
 # colour according to region
 speakers_region_24 = panel_2024 %>%
@@ -165,11 +200,25 @@ articles_region_2024 = panel_2024 %>%
        x = "Number of articles (Rank)",
        y = "Wikipedia page views (Rank)",
        colour = "Region") + 
-  theme(legend.position = c(0.8, 0.15))
+  theme(legend.position = "none")
+
+
+edits_region_2024 = panel_2024 %>%
+  ggplot(aes(y = rank(log_page_views), x = rank(log_edits))) + 
+  geom_point() +
+  geom_smooth(method = "lm") + 
+  geom_label(aes(label = ISO6393, colour = region_wb)) + 
+  labs(title = "page views vs number of edits, 2024",
+       x = "Number of articles (Rank)",
+       y = "Wikipedia page views (Rank)",
+       colour = "Region") + 
+  theme(legend.position = "none")
+
+print(edits_region_2024)
 
 
 
-comb_region_24 = speakers_region_24 + articles_region_2024
+comb_region_24 = speakers_region_24 + articles_region_2024 / edits_region_2024
 ggsave("analysis/plots/comb_region_cross.png", comb_region_24, dpi = 300, height = 8, width = 12)
 
 
@@ -186,12 +235,12 @@ pw_vs_speak_panel = panel %>%
   geom_label_repel(data = df_labs, aes(y = log_page_views, x = log_speakers, label = ISO6393, colour = region_wb)) + 
   labs(y = "Wikipedia page views (ln)",
        x = "L1 speakers (ln)",
-       title = "A) Wikipedia page views vs L1 speakers",
+       title = "C) Wikipedia page views vs L1 speakers",
        colour = "Region",
        fill = "Region") + 
   guides(alpha = "none") + 
   theme_minimal(base_size = 14) + 
-  theme(legend.position = c(0.25, 0.8))
+  theme(legend.position = c(0.90, 0.25))
 
 pw_vs_speak_panel
          
@@ -214,7 +263,7 @@ pw_vs_art_panel = panel %>%
   guides(alpha = "none") +
   theme_minimal(base_size = 14) + 
   theme(legend.position = "none") + 
-  geom_vline(xintercept = 11, linetype = 2)
+  geom_vline(xintercept = 11.39, linetype = 2)
 
 pw_vs_art_panel
 cor.test(panel$log_page_views, panel$log_articles, method = "pearson") # 0.79
@@ -222,7 +271,51 @@ cor.test(panel$log_page_views, panel$log_articles, method = "spearman") # 0.91
 
 
 
-comb = pw_vs_speak_panel + pw_vs_art_panel
-ggsave("analysis/plots/combined_pw_art_panel.png", comb, dpi = 300, height = 8, width = 12)
+### edits
+pw_vs_edits_panel =  panel %>%
+  ggplot(aes(y = log_page_views, x = log_edits)) + 
+  geom_point(aes(fill = region_wb, colour = region_wb, alpha = 0.5)) + 
+  geom_smooth(method = "lm") + 
+  geom_smooth(method = "lm", aes(group = language_name , colour = region_wb), se = FALSE) + 
+  geom_label_repel(data = df_labs, aes(y = log_page_views, x = log_edits, label = ISO6393, colour = region_wb), max.overlaps = 15) + 
+  theme(legend.position = "none") + 
+  labs(y = "Wikipedia page views (ln)",
+       x = "Number of edits (ln)",
+       title = "A) Wikipedia page views vs number of edits",
+       colour = "Region",
+       fill = "Region") + 
+  guides(alpha = "none") +
+  theme_minimal(base_size = 14) + 
+  theme(legend.position = "none") + 
+  geom_vline(xintercept = 14.84, linetype = 2)
+
+print(pw_vs_edits_panel)
+
+cor.test(panel$log_page_views, panel$log_edits, method = "pearson") # 0.85
+cor.test(panel$log_page_views, panel$log_edits, method = "spearman") # 0.93
+
+comb = (pw_vs_edits_panel + pw_vs_art_panel) / pw_vs_speak_panel
+print(comb)
+ggsave("analysis/plots/combined_pw_art_edit_panel.png", comb, dpi = 300, height = 8, width = 12)
+
+
+# run splitwise regression on articles to confirm thresholds
+# articles
+mdl_art = lm(log_page_views ~ log_articles, data = panel)
+summary(mdl_art)
+
+segmented_mdl_art = segmented(mdl_art, seg.z = ~log_articles, psi = 10.8)
+summary(segmented_mdl_art)
+confint(segmented_mdl_art) # 11.39
+slope(segmented_mdl_art)
+
+# edits
+mdl_edit = lm(log_page_views ~ log_edits, data = panel)
+summary(mdl_edit)
+
+segmented_mdl_edit = segmented(mdl_edit, seg.z = ~log_edits, psi = 15)
+summary(segmented_mdl_edit) # break point at 14.84
+confint(segmented_mdl_edit)
+slope(segmented_mdl_edit)
 
 
